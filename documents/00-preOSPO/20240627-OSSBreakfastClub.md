@@ -3,7 +3,7 @@
 Hosted on June 27th, 2024 at the Alan Turing Institute with support from OSPO++, OFE and the Tools, Practices and Research Programme and The Turing Way team from ATI.
 
 The ideas below were
-chaired by the following members of UCL/ARC Alessandro Felder (Sainsbury Wellcome Center), Miguel Xochicale (UCL/WEISS), Mosè Giordano (UCL/ARC), Claire Ellul (UCL/Civil, Environ & Geomatic Eng) and David Pérez-Suárez (UCL/ARC)
+chaired by the following members of UCL/ARC Alessandro Felder (Sainsbury Wellcome Centre), Miguel Xochicale (UCL/WEISS), Mosè Giordano (UCL/ARC), Claire Ellul (UCL/Civil, Environ & Geomatic Eng) and David Pérez-Suárez (UCL/ARC)
 and provided by the following participants:
 - Nick Gates, Astor Nummelin Carlberg and Tony Ford from [OpenForum Europe](https://openforumeurope.org/),
 - Malvika Sharan and Kirstie Whitaker from [Alan Turing Institute](https://www.turing.ac.uk/),
@@ -31,7 +31,7 @@ Moreover, some funding bodies are also requesting the software produced on resea
 Universities normally keep profiles of their staff, including their Open Source contributions to those, would help to increase connections of expertise, supporting sustainability and community interactions.
 Even when publishers or funding doesn't require include source code when doing Open science, the university could advocate for it. Contributing, for example, to [Software Heritage](https://www.softwareheritage.org/).
 
-The OSPO has to be build with policy where it focuses on collaborations as a central part of all, not only internally but with other universities, research institutions and industry. Helping therefore to create stronger ties.
+The OSPO has to be built with policy where it focuses on collaborations as a central part of all, not only internally but with other universities, research institutions and industry. Helping therefore to create stronger ties.
 This will also ensure it doesn't depend on a single person or team and it continues.
 The tech transfer office (UCLB in UCL case) should be involved in this, they are not competing but complementing each other.
 The university could also collaborate with schools to promote open source within them (this could be fund through various digital up-skill programmes from government)
@@ -74,19 +74,20 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 ### Education
 
 #### Goals / activities
-- Having an OSS curriculum (GH, Security)
-- Promote students to contribute to OSS (through competitions? - have to be careful)
+- Having OSS as part of the curriculum (teaching about things like GH and Security)
+- Promote students to contribute to OSS (through competitions? - have to be careful to set the right incentives though, some OSS contribution competitions have gone wrong in the past... like getting lots of one-line PRs that don't really help.)
 - Make / Re-use Open Source teaching materials (Open Educational Resources)
 - Teach "tech" people about OSS policies, licences, ...
-- Teaching about "[tragedy of commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)" policies/procurement
+- Teaching about "[tragedy of commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)" policies/procurement. Note that tragedy is a loaded term, so teaching should be more about understanding the economic realities/sustainability of open-source projects.
 - Teach non-tech (specifically policy roles) about OSS
 
 #### Collaborations
 - thought leadership: Advertise courses to outside stakeholders
 - OpenUK - Could we coordinate something across UK universities
-- Institute of Innovation (which one?) - public purpose may be key collab
+- [Institute of Innovation and Public purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about-0) may be key collaborator within UCL
 - Linux Foundation Education (free courses / paid certificates)
-- Partner with finance firms to educate math/economy students
+- Partner with /get sponsorship from (for e.g. a yearly workshop) finance firms to educate math/economy students about OS practices, law firms to educate law students about OS practices,  Biotech firms to educate biology students about OS practices, etc...
+- teach about career opportunities in OS
 
 #### Funding
 - From OSS focused grants orgs (Sloan, etc.)
@@ -96,7 +97,7 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 - Survey of existing literature; research (LF research / OpenUK) resources
 - Offer work experience in OSS
 - Run summer of code
-- Get students to have GH and teach about being a CV
+- Get students to have GH and teach about GH contributions looking good on a CV
 
 ### Community
 
