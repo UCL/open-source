@@ -13,8 +13,7 @@ defaults:
   - scope: {path: "ospo"}
     values: {crumbs: [{link: "/ospo/", text: "ospo"}]}
 
-#baseurl: /open-source
-url: http://localhost:4000
+baseurl: /open-source
 
 remote_theme: UCL-ARC/indigo-jekyll
 
