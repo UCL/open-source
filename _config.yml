@@ -1,0 +1,54 @@
+contact: open.source@ucl.ac.uk
+
+title: "Open Source"
+includeleftnav: True
+short: OpenSource # shown as crumbs
+navtop: True
+
+defaults:
+  - scope: {path: ""}
+    values: {layout: default}
+  - scope: {path: "news"}
+    values: {crumbs: [{link: "/news/index.html", text: "news"}]}
+  - scope: {path: "ospo"}
+    values: {crumbs: [{link: "/ospo/", text: "ospo"}]}
+
+#baseurl: /open-source
+url: http://localhost:4000
+
+remote_theme: UCL-ARC/indigo-jekyll
+
+# crumbs:
+#   - link: https://www.ucl.ac.uk/arc
+#     text: Advanced Research Computing
+#   - link: https://www.ucl.ac.uk/advanced-research-computing/education
+#     text: Education
+#   - link: https://www.ucl.ac.uk/advanced-research-computing/education/training
+#     text: Training
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+include: # NOTE: This is not a path, but the directories name, wherever they are
+  - _static
+  - _modules
+
+# collections:
+#   phdprojects:
+#     output: true
+#     #permalink: /:path/index.html
+#   rseworkshop:
+#     output: true
+
+exclude:
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown
+
+kramdown:
+  hard_wrap: false
+  input: GFM
+

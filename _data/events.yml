@@ -1,0 +1,48 @@
+# Only html tags (no md)
+# - title: A title
+#   organiser: Who organises it
+#   url: link of the event
+#   summary: a descriptive summary
+#   date: YYYY-mm-dd
+#   time: "HH:MM"
+#   duration: # one, either day or hours (when smaller than a day)
+#     days: x
+#     hours: y 
+#   location: address
+#   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
+- title: Open Source Week
+  organiser: "<a href='https://neuroinformatics.dev'>NIU</a>"
+  url: https://neuroinformatics.dev/open-software-week/index.html
+  summary:  Hands-on training, community-building and hacking around Open Source Software
+  date: 2025-08-11
+  duration:
+    days: 5
+  location: Sainsbury Wellcome Centre
+  location_url: https://osm.org/go/euu4PKUjP?way=137212356
+  location_url: https://www.openstreetmap.org/?mlat=51.521083&mlon=-0.138226&zoom=16
+- title: "Healing Through Collaboration: Open-Source Software in Surgical, Biomedical, and AI Technologies"
+  organiser: "<a href='https://www.hamlynsymposium.org/'>The Hamlyn Symposium</a> / ARC / UCL"
+  url: https://www.hamlynsymposium.org/events/healing-through-collaboration-open-source-software-in-surgical-biomedical-and-ai-technologies/
+  date: 2025-06-27
+  duration:
+    days: 1
+  location: Royal Geographical Society
+- title: Linux Install Party
+  organiser: TechSocial / ARC
+  url: https://pretix.eu/ARC/techsocials-2503/
+  post_url: https://www.ucl.ac.uk/advanced-research-computing/techsocial-series-march-2025-0
+  summary: A Linux install party is both, a place for newcomers who want a taste of Linux or help with installations, and a place for Linux enthusiasts who want to experiment with new distros or help the newcomers in choosing their first distro. 
+  date: 2025-03-26
+  time: "16:00"
+  duration:
+    hours: 3
+  location: G11 Institute of Advanced Studies, UCL
+- title: Google Summer of Code - What is it? How can I participate?
+  organiser: ARC
+  url: https://blogs.ucl.ac.uk/research-software-development/arc-%e2%9d%a4-google-summer-of-code/
+  summary: Do you want to know more about Google Summer of Code programme? Come to learn more about it.
+  date: 2025-03-11
+  time: "16:00"
+  duration:
+    hours: 2
+  location: 1st Floor - 90 High Holborn

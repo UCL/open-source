@@ -1,0 +1,9 @@
+- name: CURIOSS
+  url: https://curioss.org/
+  logo: https://curioss.org/images/color_horizontal_logotype1.svg
+- name: CHAOSS
+  url: https://chaoss.community/
+  logo: https://raw.githubusercontent.com/chaoss/community/068b0f54e4183f1f1fa02d24f02ebd59e7de843d/media-and-outreach/logos/chaoss-color.svg
+- name: High Performance Software Foundation
+  url: https://hpsf.io/
+  logo: https://hpsf.io/wp-content/uploads/sites/18/2024/11/HPSF_horizontal-tagline-color.svg

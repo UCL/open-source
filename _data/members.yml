@@ -1,0 +1,41 @@
+# - name: # full name
+#   department: 
+#   github: # username
+#   ucl: # ucl profile
+#   OS_role: -- # role on OSPO
+- name: David Pérez-Suárez
+  department: ARC
+  github: dpshelio
+  ucl: 48821-david-pérezsuárez
+  OS_role: webmaster
+- name: Jonathan Cooper
+  department: ARC
+  github: jonc125
+  ucl: 59377-jonathan-cooper
+  OS_role:
+- name: Mosè Giordano
+  department: ARC
+  github: giordano
+  ucl: 70657-mos%C3%A8-giordano
+  OS_role:
+- name: David Stansby
+  department: Mechanical Engineering
+  github: dstansby
+  ucl: 72832-david-stansby
+  OS_role:
+- name: Adam Tyson
+  department: The Sainsbury Wellcome Centre
+  github: adamltyson
+  ucl: 70591-adam-tyson
+  OS_role:
+- name: Miguel Xochicale
+  department: ARC
+  github: mxochicale
+  ucl: 91071-miguel-xochicale
+  OS_role:
+- name: Sam Cunliffe
+  department: ARC
+  github: samcunliffe
+  ucl: 91047-sam-cunliffe
+  OS_role:
+  

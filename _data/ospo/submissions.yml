@@ -1,0 +1,59 @@
+# Add on the top the newest
+# YYYYMMevent:
+#   date: yyyy-mm-dd
+#   title: ""
+#   link: talk-link
+#   event: event name
+#   event_link: event-link
+#   result: ❌❓✅
+202509RSECon:
+  date: 2025-09-09
+  title: "BoaF: Discovering Academic Open Source: Universities don't know how much they contribute to the OS ecosystem, why is this and what can we do about it?"
+  link: https://virtual.oxfordabstracts.com/event/75166/submission/142
+  event: RSECon25
+  event_link: https://rsecon25.society-rse.org/
+  result: ✅
+202508LFOSSEu:
+  date: 2025-08-25
+  title: "BoaF: Universities don't know how much they contribute to the OS ecosystem, what can we do about it?"
+  link: FIXME
+  event: Open Source Summit Europe
+  event_link: https://events.linuxfoundation.org/open-source-summit-europe/
+  result: ❌
+202507RSLondon:
+  date: 2025-07-07
+  title: "Why are we creating an Open Source Programme Office at UCL? How are we doing so?"
+  link: fixme
+  event: STEP-UP RSLondon 2025
+  event_link: https://step-up.ac.uk/events/step-up-2025/
+  result: ✅
+202505SSICW:
+  date: 2025-05-13
+  title: "Why are we creating an Open Source Programme Office at UCL?"
+  link: fixme
+  event: "SSI's Collaboration Workshop 2025"
+  event_link: https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25
+  result: ✅
+202409RSECon:
+  date: 2024-09-04
+  title: "What is an OSPO and how are we creating one at UCL?"
+  link: https://virtual.oxfordabstracts.com/event/49081/submission/7
+  event: RSECon24
+  event_link: https://rsecon24.society-rse.org/
+  result: >-
+    ✅ [▶️ YouTube](https://www.youtube.com/watch?v=W2JATZT_MdE&list=PL27mQJy8eDHkMVbt_ecskGUUl-tEqO3JS&index=16&pp=iAQB)
+202406ARCFest:
+  date: 2024-06-11
+  title: "What is an OSPO and why do we need one in UCL?"
+  link: fixme
+  event: "ARC's Festival of Digital Research, Innovation & Scholarship"
+  event_link: https://www.ucl.ac.uk/advanced-research-computing/events/2024/jun/festival-digital-research-scholarship
+  result: >-
+    ✅ 
+202406UCLOSci:
+  date: 2024-06-20
+  title: "What is an OSPO and why do we need one in UCL?"
+  link: https://rdr.ucl.ac.uk/articles/media/UCL_Open_Science_Scholarship_Conference_2024_-_Programme/26022823?file=47013625
+  event: "UCL Open Science & Scholarship Conference 2024"
+  event_link: https://blogs.ucl.ac.uk/open-access/2024/06/13/ucl-open-science-scholarship-conference-2024-programme-now-available/
+  result: ✅

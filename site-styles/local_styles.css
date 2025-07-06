@@ -1,0 +1,62 @@
+li.inactive {
+  display: none;
+}
+
+[class*=" icon-"] {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-top: 1px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("./img/glyphicons-halflings.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+}
+
+.column {
+  display: inline-block;
+  width: 20%;
+  margin-bottom: 16px;
+  padding: 0 10px;
+}
+
+
+.card {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  max-width: 100%;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+.card img {
+    display: inline-block;
+    margin: 0 5px;
+}
+.card-container {
+    padding: 2px 16px;
+    text-align: center;
+    
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}

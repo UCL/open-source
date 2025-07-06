@@ -1,3 +1,9 @@
+---
+layout: default
+date: 2024-06-27
+category: event
+---
+
 # UCL OSPO possible goals (OSS London Breakfast club)
 
 Hosted on June 27th, 2024 at the Alan Turing Institute with support from OSPO++, OFE and the Tools, Practices and Research Programme and The Turing Way team from ATI.

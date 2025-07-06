@@ -1,0 +1,31 @@
+# Add on the top the newest
+# YYYYMMevent:
+#   date: yyyy-mm-dd
+#   title: ""
+#   url: talk-url
+#   event: event name
+#   event_url: event-url
+#   result: ❌❓✅
+202507OSSfirst:
+  date: 2025-07-15
+  title: "First contribution to open-source software workshop"
+  url: https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship
+  event: ARC Festival of Digital Research, Innovation & Scholarship
+  event_url: https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship
+  results: ✅
+  # FIXME: add [data]
+202411TTW:
+  date: 2024-11-24
+  title: "OSS & Tech Transfer: Broad Impact for UK Economy & Industry"
+  url: https://www.eventsforce.net/turingevents/frontend/reg/titem.csp?pageID=163355&eventID=388
+  event: "Open Source, Ethics & Innovation in AI - A Turing Way Practitioners Hub Event"
+  event_url: https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=163051&eventID=388
+  results:
+202407LondonOSSBreakfast:
+  date: 2024-07-07
+  title: "FIXME:OSS & Tech Transfer: Broad Impact for UK Economy & Industry"
+  url: https://www.eventsforce.net/turingevents/frontend/reg/titem.csp?pageID=163355&eventID=388
+  event: "Breakfast London"
+  event_url: https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=163051&eventID=388
+  results:
+  

@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<h1> {{ page.title }} </h1>
+
+<i> {{ page.human-datetime }} </i>
+
+{{ page.short_description }}
+
+<h2>Event Information</h2>
+
+<section class="middle-split event__details-container">
+
+  <section class="middle-split__column1 event__details">
+    <dl>
+      <div class="event__ticket-details">
+        <div class="event__ticket-detail">
+          <dt><h3>Dates</h3></dt>
+          <dd>  {{ page.dates }}</dd>
+        </div>
+        <div class="event__ticket-detail">
+          <dt><h3>Location</h3></dt>
+          <dd>  {{ page.location }} </dd>
+        </div>
+        <div class="event__ticket-detail">
+          <dt><h3>Format</h3></dt>
+          <dd>  {{ page.format }} </dd>
+        </div>
+        <div class="event__ticket-detail">
+          <dt><h3>Open to</h3></dt>
+          <dd>  {{ page.opento }} </dd>
+        </div>
+        
+        <div class="event__ticket-detail">
+          <dt><h3>Availability</h3></dt>
+          <dd>{{ page.availability }}</dd>
+        </div>
+        
+                                            
+      </div>
+      
+      <dt><h3>Organiser</h3></dt>
+      <dd>
+        <div>
+          {{ page.organiser }}
+        </div>
+        <div>  <a href="mailto:{{ page.organiser_email }}">{{ page.organiser_email }}</a></div>
+      </dd>
+      
+    </dl>
+  </section>
+</section>
+
+
+<div>
+  <p class="clearfix">
+    <a class="cta btn "
+href="{{ page.booklink }}">Book
+Now
+({{ page.format }})    </a>
+  </p>
+  {% if page.format_note %}
+  <p class="clearfix">
+    <strong>NOTE:&nbsp;
+    </strong> {{ page.format_note }}
+  </p>
+  {% endif %}
+</div>
+
+<div>
+{{ content }}
+</div>
+

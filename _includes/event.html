@@ -1,0 +1,31 @@
+
+<h3><a href="{{ event.url }}">{{ event.title }}</a></h3>
+
+📆 {{ event.date }}
+{% if event.duration.days %}
+&ndash; {{ event.date | date: "%s" | plus: (3600 * 24 * (event.duration.days - 1)) | date: "%Y-%m-%d"}}
+<br/>
+{% endif %}
+
+{% if event.time %}
+{% capture start_time %}{{ event.date| date: "%Y-%m-%d" | append: "T" | append: event.time | append: ":00"}}{% endcapture %}
+🕐 {{ start_time | date: "%H:%M" }}
+{% if event.duration.hours %}
+{% capture seconds %}{{ 3600 | times: event.duration.hours }}{% endcapture %}
+&ndash; {{ start_time | date: "%s" | plus: seconds | date: "%H:%M"}}
+  {% endif %}
+<br/>
+{% endif %}
+{% if event.location %}
+📍 {% if event.location_url%}
+<a href="{{event.location_url}}"> {% endif %}
+{{ event.location }} {% if event.location_url%} </a> {% endif %}
+<br/>
+{% endif %}
+{% if event.summary %}
+🗒️ {{ event.summary }}
+<br/>
+{% endif %}
+&ndash; Organised by {{ event.organiser }}
+
+
