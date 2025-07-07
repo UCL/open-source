@@ -10,10 +10,10 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
-- title: Open Source Week
+- title: Open Software Week
   organiser: "<a href='https://neuroinformatics.dev'>NIU</a>"
   url: https://neuroinformatics.dev/open-software-week/index.html
-  summary:  Hands-on training, community-building and hacking around Open Source Software
+  summary:  Hands-on training, community-building and hacking around open-source neuroscience software
   date: 2025-08-11
   duration:
     days: 5
