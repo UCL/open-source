@@ -1,11 +1,10 @@
 ---
 layout: default
-title: OS at UCL
+title: People
 permalink: /about.html
 ---
 
 # Who are we?
-
 
 At the moment we are a group of people mostly based in ARC that are putting the things together to make this OSPO a reality.
 
@@ -28,5 +27,3 @@ Through this we are involved in the following networks:
   {% cycle '', '', '<div class="row-fluid">' %}
 {% endfor %}
 </div>
-
-
