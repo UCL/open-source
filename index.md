@@ -22,9 +22,8 @@ Our announcements and news page provide an <i class="fa-solid fa-rss"></i> [RSS 
 <!-- List of latest 5 news articles -->
 
 {% for item in site.posts limit:5 %} <!-- site.posts is already sorted -->
-
-- 📆 {{item.date | date: "%Y-%m-%d"}} - [{{item.title}}]({{item.url}})
-  {% endfor %}
+- 📆 {{item.date | date: "%Y-%m-%d"}} - [{{item.title}}]({{item.url | prepend: site.baseurl }})
+{% endfor %}
 
 ## Upcoming events [🗓️](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics)
 
