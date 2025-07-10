@@ -10,6 +10,14 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
+- title: First contribution to open-source software workshop
+  organiser: ARC
+  url: https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship
+  date: 2025-07-15
+  time: "13:30"
+  duration:
+    hours: 1
+  location: Medical Sciences and Anatomy Building, UCL Main Campus
 - title: Open Software Week
   organiser: "<a href='https://neuroinformatics.dev'>NIU</a>"
   url: https://neuroinformatics.dev/open-software-week/index.html
