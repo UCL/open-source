@@ -6,13 +6,13 @@ layout: default
 
 What does UCL do to promote Open Source (Software, Data, Hardware, Educational Resources, Science, ...)? In these pages you'll find our efforts to find that out.
 
-Many of us are from [UCL's Advanced Research Computing Centre](https://ucl.ac.uk/arc) (ARC), but we are not alone. Check our [about page]({{ 'about.html' | relative_url }}) to find out who we are. From within ARC we are leading the efforts to build an [Open Source Programme Office in UCL]({{ 'ospo.html' | relative_url }}).
+Many of us are from [UCL's Advanced Research Computing Centre](https://ucl.ac.uk/arc) (ARC), but we are not alone. Check our [about page]({{ 'about.html' | relative_url }}) to find out who we are. From within ARC we are leading the efforts to build an [Open Source Programme Office in UCL](./ospo).
 
 In these pages you will find:
 
 - Announcements of [Activities & events](./events) that are happening in UCL (or near by) related to Open Source.
 - [News](./news) related to Open Source that is of interest to the UCL community.
-- Work done to create and consolidate the [Open Source Programme Office]({{ 'ospo.html' | relative_url }}), including submission to talks and funding proposals.
+- Work done to create and consolidate the [Open Source Programme Office](./ospo), including submission to talks and funding proposals.
 - A number of [Guides](./guides) that you may find useful.
 
 Our announcements and news page provide an <i class="fa-solid fa-rss"></i> [RSS feed]({{"feed.xml" | prepend: baseurl}}) so you can be up to date without having to visit our page all the time, and the listed events are also available on our [published calendar](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics).
