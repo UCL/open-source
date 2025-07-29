@@ -10,6 +10,14 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
+- title: Open source good-first issue hackathon
+  organiser: ARC
+  url: 
+  date: 2025-11-26
+  time: "13:30"
+  duration:
+    hours: 3
+  location: 90 High Holborn, Function Space
 - title: First contribution to open-source software workshop
   organiser: ARC
   url: https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship
