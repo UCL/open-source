@@ -4,5 +4,5 @@ This site contains information about Open Source at UCL, including the creation 
 
 ## Contribute to this site
 
-This site has been created using the static site generator Jekyll and it's deployed on github-pages.
+This site has been created using the static site generator Jekyll with the [indigo-jekyll](https://github.com/UCL-ARC/indigo-jekyll) template and it's deployed on github-pages.
 
