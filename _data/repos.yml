@@ -1,0 +1,13 @@
+# Repos to showcase - in order of their OSSF scorecard aggregate score
+- name: movement
+  owner: neuroinformatics-unit
+- name: research-software-practices
+  owner: UCL-ARC
+- name: ansible-collection-infra
+  owner: ucl-MIRSG
+- name: heracles
+  owner: heracles-ec
+- name: glass
+  owner: glass-dev
+- name: datashuttle
+  owner: neuroinformatics-unit
