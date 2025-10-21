@@ -7,7 +7,7 @@ If you're from UCL want to get involved in our open-source work, please feel enc
 If you've spotted a bug, or want to contribute to **these website pages**, please either [open an issue] or [fork] and open a [pull request]!
 
 > [!NOTE]
-> Note that some of the issues raised against this repository are action items for us in our open-source efforts and not necessarily related to this website.
+> Some of the issues in this repository are action items for us in our open-source efforts and not necessarily related to this website.
 
 The website is a [Jekyll] site, which is built and deployed using [GitHub's automatic Jekyll building action](https://github.com/actions/jekyll-build-pages) (that's why there's no `.github/workflows` directory).
 You can build and test your changes locally with the [official Jekyll Docker image](https://hub.docker.com/r/jekyll/jekyll):
