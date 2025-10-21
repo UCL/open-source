@@ -17,13 +17,22 @@ In these pages you will find:
 
 Our announcements and news page provide an <i class="fa-solid fa-rss"></i> [RSS feed]({{"feed.xml" | prepend: baseurl}}) so you can be up to date without having to visit our page all the time, and the listed events are also available on our [published calendar](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics).
 
+## Showcase
+
+These are the six highest [OSSF Scorecard](https://scorecard.dev/#what-is-openssf-scorecard) software projects in the UCL community:
+
+{% for repo in site.data.repos limit:6 %}
+[![{{repo.owner}}/{{repo.name}}](https://github-readme-stats.vercel.app/api/pin/?username={{repo.owner}}&repo={{repo.name}}&&show_owner=true)](https://github.com/{{repo.owner}}/{{repo.name}})
+{% endfor %}
+
 ## Latest News <a href="{{'feed.xml' | prepend: baseurl}}"> <span class="icon-image  icon--github"> <svg viewBox="0 0 16 16"> <path fill="#000000" d="{{ site.data.icons.rss_logo }}"/> </svg> </span></a>
 
 <!-- List of latest 5 news articles -->
 
 {% for item in site.posts limit:5 %} <!-- site.posts is already sorted -->
+
 - 📆 {{item.date | date: "%Y-%m-%d"}} - [{{item.title}}]({{item.url | prepend: site.baseurl }})
-{% endfor %}
+  {% endfor %}
 
 ## Upcoming events [🗓️](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics)
 
