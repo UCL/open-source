@@ -2,7 +2,7 @@
 
 Thanks for your interest in our website and open source at UCL!
 
-If you're from UCL want to get involved in our open-source work, please feel encouraged to [email us], or contact the ARC collaborations team via [MyServices].
+If you're from UCL and want to get involved in our open-source work, please feel encouraged to [email us], or contact the ARC collaborations team via [MyServices].
 
 If you've spotted a bug, or want to contribute to **these website pages**, please either [open an issue] or [fork] and open a [pull request]!
 
