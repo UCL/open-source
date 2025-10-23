@@ -8,7 +8,7 @@ crumbs:
 
 {% if site.posts.size > 0 %}
 
-  <h2>Latests News</h2>
+  <h2>Latest News</h2>
   <ul class="posts">
     {% for post in site.posts %}
   {% assign post_url = post.url | prepend:site.baseurl %}

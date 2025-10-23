@@ -15,15 +15,16 @@ In these pages you will find:
 - Work done to create and consolidate the [Open Source Programme Office](./ospo), including submission to talks and funding proposals.
 - A number of [Guides](./guides) that you may find useful.
 
-Our announcements and news page provide an <i class="fa-solid fa-rss"></i> [RSS feed]({{"feed.xml" | prepend: baseurl}}) so you can be up to date without having to visit our page all the time, and the listed events are also available on our [published calendar](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics).
+Our [news](./news) page is available as an <i class="fa-solid fa-rss"></i> [RSS feed]({{"feed.xml" | prepend: baseurl}}), and our upcoming events as a [published calendar](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics).
 
 ## Latest News <a href="{{'feed.xml' | prepend: baseurl}}"> <span class="icon-image  icon--github"> <svg viewBox="0 0 16 16"> <path fill="#000000" d="{{ site.data.icons.rss_logo }}"/> </svg> </span></a>
 
-<!-- List of latest 5 news articles -->
+<!-- List of latest 2 news articles -->
 
-{% for item in site.posts limit:5 %} <!-- site.posts is already sorted -->
+{% for item in site.posts limit:2 %} <!-- site.posts is already sorted -->
+
 - 📆 {{item.date | date: "%Y-%m-%d"}} - [{{item.title}}]({{item.url | prepend: site.baseurl }})
-{% endfor %}
+  {% endfor %}
 
 ## Upcoming events [🗓️](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics)
 
