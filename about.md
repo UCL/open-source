@@ -1,7 +1,10 @@
 ---
 layout: default
 title: People
-permalink: /about.html
+permalink: /about/
+crumbs:
+  - link: "/about/"
+    text: "People"
 ---
 
 # Who are we?
