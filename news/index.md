@@ -2,7 +2,7 @@
 layout: default
 title: News
 crumbs:
-  - link: "/News/"
+  - link: "/news/"
     text: "News"
 ---
 
