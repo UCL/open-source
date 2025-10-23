@@ -1,9 +1,9 @@
 ---
 layout: default
 title: People
-permalink: /about/
+permalink: /people/
 crumbs:
-  - link: "/about/"
+  - link: "/people/"
     text: "People"
 ---
 
