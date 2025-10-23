@@ -1,6 +1,9 @@
 ---
 layout: default
 title: News
+crumbs:
+  - link: "/news/"
+    text: "News"
 ---
 
 {% if site.posts.size > 0 %}
