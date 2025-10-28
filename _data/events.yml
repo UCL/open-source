@@ -12,7 +12,7 @@
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
 - title: Open source good-first issue hackathon
   organiser: ARC
-  url: 
+  url: https://pretix.eu/ucl-open-source/good-first-issue/
   date: 2025-12-03
   time: "13:30"
   duration:
