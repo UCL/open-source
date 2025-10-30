@@ -16,21 +16,21 @@
 202508LFOSSEu:
   date: 2025-08-25
   title: "BoaF: Universities don't know how much they contribute to the OS ecosystem, what can we do about it?"
-  link: FIXME
+  link: 
   event: Open Source Summit Europe
   event_link: https://events.linuxfoundation.org/open-source-summit-europe/
   result: ❌
 202507RSLondon:
   date: 2025-07-07
   title: "Why are we creating an Open Source Programme Office at UCL? How are we doing so?"
-  link: fixme
+  link: 
   event: STEP-UP RSLondon 2025
   event_link: https://step-up.ac.uk/events/step-up-2025/
   result: ✅
 202505SSICW:
   date: 2025-05-13
   title: "Why are we creating an Open Source Programme Office at UCL?"
-  link: fixme
+  link: 
   event: "SSI's Collaboration Workshop 2025"
   event_link: https://www.software.ac.uk/workshop/collaborations-workshop-2025-cw25
   result: ✅
@@ -45,7 +45,7 @@
 202406ARCFest:
   date: 2024-06-11
   title: "What is an OSPO and why do we need one in UCL?"
-  link: fixme
+  link: 
   event: "ARC's Festival of Digital Research, Innovation & Scholarship"
   event_link: https://www.ucl.ac.uk/advanced-research-computing/events/2024/jun/festival-digital-research-scholarship
   result: >-
