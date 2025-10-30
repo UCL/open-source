@@ -17,6 +17,18 @@ In these pages you will find:
 
 Our [news](./news) page is available as an <i class="fa-solid fa-rss"></i> [RSS feed]({{"feed.xml" | prepend: baseurl}}), and our upcoming events as a [published calendar](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics).
 
+## Showcase
+
+Here are some of the open-source software projects in the UCL community that have a good [OSSF Scorecard aggregate score](https://scorecard.dev/):
+
+<div class="row-fluid">
+{% for repo in site.data.repos %}
+{% include showcase_project.html repo=repo %}
+  {% cycle '', '</div>' %}
+  {% cycle '', '<div class="row-fluid">' %}
+{% endfor %}
+</div>
+
 ## Latest News <a href="{{'feed.xml' | prepend: baseurl}}"> <span class="icon-image  icon--github"> <svg viewBox="0 0 16 16"> <path fill="#000000" d="{{ site.data.icons.rss_logo }}"/> </svg> </span></a>
 
 <!-- List of latest 2 news articles -->
