@@ -11,7 +11,7 @@ crumbs:
 | Date | Title       | Event | Result |
 | ---- | ----------- | ----- | ------ |
 {% for proposal in site.data.ospo.submissions -%}
-| {{proposal[1].date}} | [{{proposal[1].title}}]({{proposal[1].url}}) | [{{proposal[1].event}}]({{prposal[1].event_url}}) | {{proposal[1].result}} |
+| {{proposal[1].date}} | [{{proposal[1].title}}]({{proposal[1].link}}) | [{{proposal[1].event}}]({{proposal[1].event_link}}) | {{proposal[1].result}} |
 {% endfor %}
 
 ### Funding Proposals
@@ -19,5 +19,5 @@ crumbs:
 | Date | Title       | Funder | Result | Outcomes |
 | ---- | ----------- | ------ | ------ | -------- |
 {% for proposal in site.data.ospo.proposals -%}
-| {{proposal[1].date}} | [{{proposal[1].title}}]({{proposal[1].url}}) | [{{proposal[1].funding}}]({{prposal[1].url_call}}) | {{proposal[1].result}} | {{proposal[1].outcomes}} |
+| {{proposal[1].date}} | [{{proposal[1].title}}]({{proposal[1].link}}) | [{{proposal[1].funding}}]({{proposal[1].link_call}}) | {{proposal[1].result}} | {{proposal[1].outcomes}} |
 {% endfor %}
