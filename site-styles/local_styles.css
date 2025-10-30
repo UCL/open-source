@@ -15,8 +15,8 @@ li.inactive {
 .two-column {
   display: inline-block;
   width: 48%;
-  margin-bottom: 0px;
-  padding: 0 0px;
+  margin-bottom: 0;
+  padding: 0;
 }
 
 .four-column {
