@@ -14,7 +14,7 @@ crumbs:
 
 ## What is an OSPO?
 
-> context for your project, explaining the problem that it's meant to sovle and how it alligns with organisation's vision and strategic plan
+> context for your project, explaining the problem that it's meant to solve and how it aligns with organisation's vision and strategic plan
 
 ## Why does UCL need an OSPO? / What benefits does it give?
 
