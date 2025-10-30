@@ -3,20 +3,24 @@
 *Executive Summary*
 > help them understand the project’s purpose, benefits and implications. Some components of an executive summary include the project overview, business need, proposed solution to the need, cost estimate, return on investment, risks, timeline and a call to action.
 
-## What's an OSPO?
+## What is an OSPO?
 
 > context for your project, explaining the problem that it's meant to sovle and how it alligns with organisation's vision and strategic plan
 
-## Why do we need an OSPO?
+## Why does UCL need an OSPO? / What benefits does it give?
 
 *mission statement*
 > You’ll need to define your project vision, goals and objectives.
 
 *explain how it fits a niche or serves a need*
 
-## How would it work at CL?
+> what are the risk of not having one?
+
+## How would it work at UCL?
 
 ### Plan 
+
+- 3 year plan, 5 year plan, beyond
 
 *project definition*
 > provide general information about your projects, such as the business objectives that will be achieved and the project plan outline. It offers a comprehensive overview of the project including its objectives and scope. Here, include details such as the objectives, stakeholders, scope, expected outcomes and constraints.
@@ -59,6 +63,13 @@
 
 ## How will we know if this worked out?
 *Success Criteria*
+
+## References
+
+- https://www.cni.org/topics/ci/guide-to-set-up-university-open-source-programs-office-ospo
+- https://research.redhat.com/blog/article/building-a-university-ospo-bolstering-academic-research-through-open-source/
+- https://opensource.com/article/20/10/rit-ospo
+- https://opensource.utexas.edu/participation-pathway
 
 # TODO
 - [ ] project’s objectives, 
