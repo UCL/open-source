@@ -15,7 +15,7 @@ defaults:
 
 baseurl: /open-source
 
-remote_theme: UCL-ARC/indigo-jekyll
+remote_theme: UCL-ARC/indigo-jekyll@23-check-ipython-css-exists
 
 # crumbs:
 #   - link: https://www.ucl.ac.uk/arc

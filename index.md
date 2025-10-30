@@ -19,11 +19,15 @@ Our announcements and news page provide an <i class="fa-solid fa-rss"></i> [RSS 
 
 ## Showcase
 
-These are the six highest [OSSF Scorecard](https://scorecard.dev/#what-is-openssf-scorecard) software projects in the UCL community:
+Here are some of the open-source software projects in the UCL community that have a good [OSSF Scorecard aggregate score](https://scorecard.dev/):
 
-{% for repo in site.data.repos limit:6 %}
-[![{{repo.owner}}/{{repo.name}}](https://github-readme-stats.vercel.app/api/pin/?username={{repo.owner}}&repo={{repo.name}}&&show_owner=true)](https://github.com/{{repo.owner}}/{{repo.name}})
+<div class="row-fluid">
+{% for repo in site.data.repos %}
+{% include showcase_project.html repo=repo%}
+  {% cycle '', '', '</div>' %}
+  {% cycle '', '', '<div class="row-fluid">' %}
 {% endfor %}
+</div>
 
 ## Latest News <a href="{{'feed.xml' | prepend: baseurl}}"> <span class="icon-image  icon--github"> <svg viewBox="0 0 16 16"> <path fill="#000000" d="{{ site.data.icons.rss_logo }}"/> </svg> </span></a>
 
