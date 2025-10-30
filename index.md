@@ -24,8 +24,8 @@ Here are some of the open-source software projects in the UCL community that hav
 <div class="row-fluid">
 {% for repo in site.data.repos %}
 {% include showcase_project.html repo=repo%}
-  {% cycle '', '', '</div>' %}
-  {% cycle '', '', '<div class="row-fluid">' %}
+  {% cycle '', '</div>' %}
+  {% cycle '', '<div class="row-fluid">' %}
 {% endfor %}
 </div>
 

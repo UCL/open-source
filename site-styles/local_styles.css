@@ -12,7 +12,14 @@ li.inactive {
   vertical-align: text-top;
 }
 
-.column {
+.two-column {
+  display: inline-block;
+  width: 48%;
+  margin-bottom: 0px;
+  padding: 0 0px;
+}
+
+.four-column {
   display: inline-block;
   width: 20%;
   margin-bottom: 16px;
@@ -29,18 +36,22 @@ li.inactive {
   justify-content: center;
   display: flex;
 }
+
 .card img {
-    display: inline-block;
-    margin: 0 5px;
+  display: inline-block;
+  margin: 0 5px;
 }
+
 .card-container {
-    padding: 2px 16px;
-    text-align: center;
-    
+  padding: 2px 16px;
+  text-align: center;
+
 }
 
 /* Remove extra left and right margins, due to padding in columns */
-.row {margin: 0 -5px;}
+.row {
+  margin: 0 -5px;
+}
 
 /* Clear floats after the columns */
 .row:after {
@@ -51,9 +62,17 @@ li.inactive {
 
 /* Responsive columns - one column layout (vertical) on small screens */
 @media screen and (max-width: 600px) {
-  .column {
+  .four-column {
     width: 100%;
     display: block;
     margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .two-column {
+    width: 100%;
+    display: block;
+    margin-bottom: 0px;
   }
 }
