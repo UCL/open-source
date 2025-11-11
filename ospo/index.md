@@ -1,32 +1,26 @@
 ---
 layout: default
 title: Open Source Programme Office
-permalink: /ospo/
 crumbs:
-  - link: "/ospo/"
+  - link: /ospo/
     text: "OSPO"
 ---
 
-### Proposals
+# Open Source Programme Office
 
-| date | title(link) | funder | result | outcomes |
-| ---- | ----------- | ------ | ------ | -------- |
-{% for proposal in site.data.ospo.proposals -%}
-| {{proposal[1].date}} | [{{proposal[1].title}}]({{proposal[1].url}}) | [{{proposal[1].funding}}]({{prposal[1].url_call}}) | {{proposal[1].result}} | {{proposal[1].outcomes}} |
-{% endfor %}
+<section class="content-box news-summary">
 
-### Talks/events submissions
+An open source programme office is an office which handles an organisation's open source strategy, policy and operations.
+In a university, it acts as a hub for developers and researchers who want to make open source software, open source research software, open educational materials and more.
 
-| date | title(link) | event | result |
-| ---- | ----------- | ----- | ------ |
-{% for proposal in site.data.ospo.submissions -%}
-| {{proposal[1].date}} | [{{proposal[1].title}}]({{proposal[1].url}}) | [{{proposal[1].event}}]({{prposal[1].event_url}}) | {{proposal[1].result}} |
-{% endfor %}
+</section>
 
-### Activities
+[We](../people/) are working towards creating a formal open source programme office for UCL.
+Since we believe in open development, our [draft business case](./documents/business-case), and all of our [talks, proposals, applications](./talks-proposals) (including rejections!) are available to browse.
 
-| date | title(link) | event | results |
-| ---- | ----------- | ----- | ------- |
-{% for proposal in site.data.ospo.events -%}
-| {{proposal[1].date}} | [{{proposal[1].title}}]({{proposal[1].url}}) | [{{proposal[1].event}}]({{prposal[1].event_url}}) | {{proposal[1].results}} |
-{% endfor %}
+If you're from UCL and want to get involved, please [email us](mailto:open.source@ucl.ac.uk), or contact the ARC collaborations team via [MyServices](https://myservices.ucl.ac.uk).
+
+## Other links and resources
+
+- [GitHub: _What is an OSPO?_](https://resources.github.com/open-source/what-is-an-open-source-program-office/)
+- [CURIOSS Blog: _Defining the Academic OSPO_](https://curioss.org/news/academic_ospo_defn/)
