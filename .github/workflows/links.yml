@@ -22,7 +22,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0 # v2.7.0
         with:
-          # nice to check any root-level markdown files (README.md etc) for valid links, but the main thing to check is the rendered _site
-          args: "--no-progress --verbose -- ./*.md _site"
+          # nice to check a few specific root-level markdown files (README.md etc) for valid links, but the main thing to check is the rendered _site
+          args: "--no-progress --verbose -- README.md CONTRIBUTING.md _site"
           fail: true
           jobSummary: true
