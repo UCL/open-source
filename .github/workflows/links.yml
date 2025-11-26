@@ -19,6 +19,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@a8c4c7cb88f0c7386610c35eb25108e448569cb0 # v2.7.0
         with:
-          args: "--no-progress --verbose -- ."
+          # need to ignore the _includes which are malformed links that Jeklyll will fill
+          args: "--no-progress --verbose --exclude file://_includes/* -- ."
           fail: true
           jobSummary: true
