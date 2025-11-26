@@ -16,9 +16,7 @@ jobs:
       - uses: actions/checkout@08eba0b27e820071cde6df949e0beb9ba4906955 # v4
 
       - name: Build the site
-        run: |
-          bundle install
-          bundle exec jekyll build
+        uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697
 
       - name: Link Checker
         id: lychee
