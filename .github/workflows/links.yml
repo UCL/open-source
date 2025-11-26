@@ -9,7 +9,7 @@ on:
 
 jobs:
   link-checker:
-    timeout-minutes: 2
+    timeout-minutes: 10
     runs-on: ubuntu-latest
 
     steps:
