@@ -13,7 +13,7 @@ chaired by the following members of UCL/ARC Alessandro Felder (Sainsbury Wellcom
 and provided by the following participants:
 - Nick Gates, Astor Nummelin Carlberg and Tony Ford from [OpenForum Europe](https://openforumeurope.org/),
 - Malvika Sharan and Kirstie Whitaker from [Alan Turing Institute](https://www.turing.ac.uk/),
-- Jacob Green from [OSPO++](https://ospoplusplus.org/),
+- Jacob Green from [OSPO++](https://sustainoss.org/),
 - Dawn Foster from [CHAOSS](https://chaoss.community/),
 - Nikhil Woodruff from [PolicyEngine](https://policyengine.org/us)
 - Matthew Hodgson from [matrix.org](https://matrix.org/)
