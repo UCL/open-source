@@ -153,7 +153,7 @@ Main question that arose
 #### Focus #5 - Looking at best practice
 
 - Are there case studies from research papers
-- What are other universities doing - recommended exmaples inlcude: UCLA, UC Santa Cruz - in particular with regards to innovation of open
+- What are other universities doing - recommended exmaples inlcude: UCLA, UC Santa Cruz - in particular with regards to innovation of open  <!-- typos: ignore -->
   source and translation to society - involving communities and industry parnters from the sart of research
 - [Sloan foundation](https://sloan.org/) - OSPOS - USA
 - Concept of UCL and UCLA twinning their OSPOs
