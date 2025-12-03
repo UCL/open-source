@@ -54,7 +54,7 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 
 - Understand challenges from people already doing OSS at UCL
 - Collaborate with [CHAOSS](https://chaoss.community/) and other academic OSPOs (we need to get people involved)
-- Review what other academic and research institutions have done (no need to reinvent the wheel)
+- Review what other academic and research institutions have done (build on existing work and avoid duplicating efforts)
 - OpenUK & sharing between unis for OSPO best practices
 - Look at the starts of [EC OSS strategy](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/digital-services/open-source-software-strategy_en#fossa2) (their first "analogue" steps, map of common challenges/tools)
 
@@ -81,9 +81,9 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 
 #### Goals / activities
 - Having OSS as part of the curriculum (teaching about things like GH and Security)
-- Promote students to contribute to OSS (through competitions? - have to be careful to set the right incentives though, some OSS contribution competitions have gone wrong in the past... like getting lots of one-line PRs that don't really help.)
+- Promote students to contribute to OSS (through competitions? - have to be careful to set the right incentives though, some OSS contribution competitions have gone wrong in the past… like getting lots of one-line PRs that don't really help.)
 - Make / Re-use Open Source teaching materials (Open Educational Resources)
-- Teach "tech" people about OSS policies, licences, ...
+- Teach "tech" people about OSS policies, licences, …
 - Teaching about "[tragedy of commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)" policies/procurement. Note that tragedy is a loaded term, so teaching should be more about understanding the economic realities/sustainability of open-source projects.
 - Teach non-tech (specifically policy roles) about OSS
 
@@ -92,7 +92,7 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 - OpenUK - Could we coordinate something across UK universities
 - [Institute of Innovation and Public purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about-0) may be key collaborator within UCL
 - Linux Foundation Education (free courses / paid certificates)
-- Partner with /get sponsorship from (for e.g. a yearly workshop) finance firms to educate math/economy students about OS practices, law firms to educate law students about OS practices,  Biotech firms to educate biology students about OS practices, etc...
+- Partner with /get sponsorship from (for e.g. a yearly workshop) finance firms to educate math/economy students about OS practices, law firms to educate law students about OS practices,  Biotech firms to educate biology students about OS practices, etc…
 - teach about career opportunities in OS
 
 #### Funding
@@ -134,7 +134,7 @@ Main question that arose
 
 #### Focus #3 - Links to Existing Communities
 
-- don't reinvent the wheel
+- build on existing work and avoid duplicating efforts
 - take advantage of existing networks
 - make a stakeholder map of existing communities and their overlaps
 - share resources across UCL departments but also across different universities
