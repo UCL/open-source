@@ -13,7 +13,7 @@ chaired by the following members of UCL/ARC Alessandro Felder (Sainsbury Wellcom
 and provided by the following participants:
 - Nick Gates, Astor Nummelin Carlberg and Tony Ford from [OpenForum Europe](https://openforumeurope.org/),
 - Malvika Sharan and Kirstie Whitaker from [Alan Turing Institute](https://www.turing.ac.uk/),
-- Jacob Green from [OSPO++](https://ospoplusplus.org/),
+- Jacob Green (was from OSPO++) 
 - Dawn Foster from [CHAOSS](https://chaoss.community/),
 - Nikhil Woodruff from [PolicyEngine](https://policyengine.org/us)
 - Matthew Hodgson from [matrix.org](https://matrix.org/)
@@ -90,7 +90,7 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 #### Collaborations
 - thought leadership: Advertise courses to outside stakeholders
 - OpenUK - Could we coordinate something across UK universities
-- [Institute of Innovation and Public purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about-0) may be key collaborator within UCL
+- [Institute of Innovation and Public purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about) may be key collaborator within UCL
 - Linux Foundation Education (free courses / paid certificates)
 - Partner with /get sponsorship from (for e.g. a yearly workshop) finance firms to educate math/economy students about OS practices, law firms to educate law students about OS practices,  Biotech firms to educate biology students about OS practices, etc…
 - teach about career opportunities in OS
