@@ -1,3 +1,12 @@
+---
+layout: default
+title: Draft Business Case
+crumbs:
+  - link: /ospo/business-case
+    text: "Draft Business Case for UCL's Open Source Programme Office"
+---
+
+
 # UCL's Open Source Programme Office
 
 *Executive Summary*
@@ -73,7 +82,7 @@ In our study, we noted 36.1% of UCL's open-source projects are unlicensed.
 > ll the project management rules and procedures that apply to your project. For example, it defines the roles and responsibilities of the project team members and the framework for decision-making.
 
 *Communication Plan*
-> The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and on the same page.
+> The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and has a shared understanding.
 *Progress Reports*
 
 ### Supporters
@@ -88,7 +97,7 @@ In our study, we noted 36.1% of UCL's open-source projects are unlicensed.
 - https://opensource.com/article/20/10/rit-ospo
 - https://opensource.utexas.edu/participation-pathway
 
-# TODO
+# Checklist
 - [ ] project’s objectives, 
 - [ ] costs and 
 - [ ] benefits
