@@ -90,7 +90,7 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 #### Collaborations
 - thought leadership: Advertise courses to outside stakeholders
 - OpenUK - Could we coordinate something across UK universities
-- [Institute of Innovation and Public purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about-0) may be key collaborator within UCL
+- [Institute of Innovation and Public purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about) may be key collaborator within UCL
 - Linux Foundation Education (free courses / paid certificates)
 - Partner with /get sponsorship from (for e.g. a yearly workshop) finance firms to educate math/economy students about OS practices, law firms to educate law students about OS practices,  Biotech firms to educate biology students about OS practices, etc...
 - teach about career opportunities in OS
