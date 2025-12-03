@@ -18,8 +18,17 @@ jobs:
         uses: actions/checkout@v6
       - name: Build
         uses: actions/jekyll-build-pages@v1
+      - name: Reshape
+        run: |
+          mkdir _site/open-source 
+          mv _site/* _site/open-source
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+      - name: Undo Reshape
+        run: |
+          mv  _site/open-source/* _site/
+          rm -r _site/open-source
+
 
   deploy:
     runs-on: ubuntu-latest
