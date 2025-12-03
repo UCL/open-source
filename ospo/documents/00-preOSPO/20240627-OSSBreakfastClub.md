@@ -54,7 +54,7 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 
 - Understand challenges from people already doing OSS at UCL
 - Collaborate with [CHAOSS](https://chaoss.community/) and other academic OSPOs (we need to get people involved)
-- Review what other academic and research institutions have done (build on existing work and avoid duplicating efforts)
+- Review what other academic and research institutions have done (no need to reinvent the wheel)
 - OpenUK & sharing between unis for OSPO best practices
 - Look at the starts of [EC OSS strategy](https://commission.europa.eu/about-european-commission/departments-and-executive-agencies/digital-services/open-source-software-strategy_en#fossa2) (their first "analogue" steps, map of common challenges/tools)
 
