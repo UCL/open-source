@@ -153,11 +153,11 @@ Main question that arose
 #### Focus #5 - Looking at best practice
 
 - Are there case studies from research papers
-- What are other universities doing - recommended exmaples inlcude: UCLA, UC Santa Cruz - in particular with regards to innovation of open
-  source and translation to society - involving communities and industry parnters from the sart of research
+- What are other universities doing - recommended examples include: UCLA, UC Santa Cruz - in particular with regards to innovation of open
+  source and translation to society - involving communities and industry partners from the start of research
 - [Sloan foundation](https://sloan.org/) - OSPOS - USA
 - Concept of UCL and UCLA twinning their OSPOs
-- Forge stronger links to compaines where OS is valued
+- Forge stronger links to companies where OS is valued
 
 #### Focus #6 - Developing a community around individual software projects – how to guide developers
 
@@ -175,7 +175,7 @@ Main question that arose
 
 - Other projects to link to
     - EPSRC People in Data
-    - BrigeAI
+    - BrigeAI  <!-- typos: ignore -->
     - [Clare Dillon](https://www.linkedin.com/in/claredillon/) - Ireland
 
 ### Open Source Software Everywhere Else
