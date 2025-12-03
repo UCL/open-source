@@ -13,6 +13,7 @@ The website is a [Jekyll] site, which is built and deployed using [GitHub's auto
 You can build and test your changes locally with the [official Jekyll Docker image](https://hub.docker.com/r/jekyll/jekyll):
 
 ```sh
+wget https://raw.githubusercontent.com/actions/jekyll-build-pages/refs/heads/main/Gemfile
 docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" -p 4000:4000 -it jekyll/jekyll:latest jekyll serve
 ```
 
