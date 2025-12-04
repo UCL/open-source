@@ -65,7 +65,7 @@ crumbs:
 > ll the project management rules and procedures that apply to your project. For example, it defines the roles and responsibilities of the project team members and the framework for decision-making.
 
 *Communication Plan*
-> The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and on the same page.
+> The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and has a shared understanding.
 *Progress Reports*
 
 ### Supporters
@@ -80,7 +80,7 @@ crumbs:
 - https://opensource.com/article/20/10/rit-ospo
 - https://opensource.utexas.edu/participation-pathway
 
-# TODO
+# Checklist
 - [ ] project’s objectives, 
 - [ ] costs and 
 - [ ] benefits
@@ -99,7 +99,7 @@ crumbs:
 	1. Note the alternative solutions.
 	1. For each solution, quantify its benefits.
 	1. forecast the costs involved in each solution.
-	1. Then figure out its [feasibility](https://projectmanager.com/blog/how-complete-feasibility-study).
+	1. Then figure out its [feasibility](https://www.projectmanager.com/training/how-to-conduct-a-feasibility-study).
 	1. Discern the risks and issues associated with each solution.
 	1. Finally, document all this in your business case.
 - [ ] Recommend a Preferred Solution

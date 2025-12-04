@@ -1,0 +1,49 @@
+name: Build Jekyll site
+
+on:
+ push:
+   branches: ["main"]
+ pull_request:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Build
+        uses: actions/jekyll-build-pages@v1
+      # The next step uploads a "special" artifact used by the
+      # `actions/deploy-pages` below to deploy the website.
+      - name: Upload github-pages artifact
+        uses: actions/upload-pages-artifact@v3
+      # We also want to upload an artifact that can be viewed locally without
+      # messing up what the `actions/deploy-pages` workflow expects. To do this,
+      # we need first to rename the `_site` directory
+      - name: Copy _site to open-source subdirectory
+        run: |
+          mkdir preview
+          cp -r _site preview/open-source
+      - name: Upload preview
+        uses: actions/upload-artifact@v5
+        with:
+          name: Preview
+          path: preview
+          retention-days: 5
+
+  deploy:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}

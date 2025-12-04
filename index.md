@@ -4,7 +4,7 @@ layout: default
 
 # Open Source
 
-What does UCL do to promote Open Source (Software, Data, Hardware, Educational Resources, Science, ...)? In these pages you'll find our efforts to find that out.
+What does UCL do to promote Open Source (Software, Data, Hardware, Educational Resources, Science, …)? In these pages you'll find our efforts to find that out.
 
 Many of us are from [UCL's Advanced Research Computing Centre](https://ucl.ac.uk/arc) (ARC), but we are not alone. Check our [people page]({{ 'people' | relative_url }}) to find out who we are. From within ARC we are leading the efforts to build an [Open Source Programme Office in UCL](./ospo).
 

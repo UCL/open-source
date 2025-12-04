@@ -36,6 +36,9 @@ exclude:
   - vendor/
   - Gemfile
   - Gemfile.lock
+  - CONTRIBUTING.md
+  - LICENSE
+  - README.md
 
 markdown: kramdown
 
