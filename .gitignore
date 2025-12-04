@@ -1,3 +1,6 @@
 .github/styles
 _site
 vendor
+GEMFILE.lock
+GEMFILE
+.jekyll-cache
