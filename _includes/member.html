@@ -6,19 +6,20 @@
   </div>
   <div class="card-container">
     <a href="{{ member.ucl | prepend: 'https://profiles.ucl.ac.uk/'}}" class="project" target="_blank">{{ member.name
-      }}</a>
+      }}</a> 
+      <div class="icon">
+          {% if member.github  %}
+              <a href="{{ member.github | prepend: 'https://github.com/' }}" target="_blank">
+                  <span class="icon  icon--github">
+                      <svg viewBox="0 0 16 16">
+                          <path fill="#333333" d="{{ site.data.icons.gh_logo }}"/>
+                      </svg>
+                  </span>
+    		</a>
+          {% endif %}
+    </div>
     <p>({{member.department}}) </p>
-    <!-- <div class="icon"> -->
-    <!--       {% if member.github  %} -->
-    <!--           <a href="{{ member.github | prepend: 'https://github.com/' }}" target="_blank"> -->
-    <!--               <span class="icon  icon--github"> -->
-    <!--                   <svg viewBox="0 0 16 16"> -->
-    <!--                       <path fill="#333333" d="{{ site.data.icons.gh_logo }}"/> -->
-    <!--                   </svg> -->
-    <!--               </span> -->
-    <!-- 		@{{ member.github }}</a> -->
-    <!--       {% endif %} -->
-    <!-- </div> -->
+    
     <!-- {%- if member.OS_role  %} -->
     <!-- {{member.OS_role}} -->
     <!--   {% endif -%} -->
