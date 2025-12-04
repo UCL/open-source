@@ -15,12 +15,12 @@ and provided by the following participants:
 - Malvika Sharan and Kirstie Whitaker from [Alan Turing Institute](https://www.turing.ac.uk/),
 - Jacob Green (was from OSPO++) 
 - Dawn Foster from [CHAOSS](https://chaoss.community/),
-- Nikhil Woodruff from [PolicyEngine](https://policyengine.org/us)
+- Nikhil Woodruff from [PolicyEngine](https://www.policyengine.org/us)
 - Matthew Hodgson from [matrix.org](https://matrix.org/)
 - Linda Griffin from [Mozilla](https://www.mozilla.org/)
 - Hilary Carter from [Linux Foundation](https://www.linuxfoundation.org/)
 - Rob Moffat from [FINOS](https://www.finos.org)
-- Jon Lloyd from [Digital Public Goods Alliance](https://digitalpublicgoods.net/)
+- Jon Lloyd from [Digital Public Goods Alliance](https://www.digitalpublicgoods.net/)
 - Jess Gramp from [Moodle HQ](https://moodle.org/)
 - Amanda Brock from [OpenUK](https://openuk.uk/)
 - June Hedges ([Office for Open Science and Scholarship](https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholarship)) and Surahbhi Parihar ([ISD](https://www.ucl.ac.uk/isd/)) from [UCL](https://www.ucl.ac.uk/)
