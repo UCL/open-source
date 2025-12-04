@@ -1,0 +1,5 @@
+(?x).*ucl.ac.uk.*                               # May time out
+(?x).*github.com.*                              # Runs into rate limiting issues without an API token in the header
+(?x).*hamlynsymposium.org.*                     # Returns 403 for some reason
+(?x).*github-readme-stats.vercel.app.*          # Returns 503 for some reason
+(?x).*medium.com/iipp-blog.*                    # Returns 403 for some reason

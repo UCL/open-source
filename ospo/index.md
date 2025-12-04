@@ -16,7 +16,7 @@ In a university, it acts as a hub for developers and researchers who want to mak
 </section>
 
 [We](../people/) are working towards creating a formal open source programme office for UCL.
-Since we believe in open development, our [draft business case](./documents/business-case), and all of our [talks, proposals, applications](./talks-proposals) (including rejections!) are available to browse.
+Since we believe in open development, our [draft business case](./business-case.html), and all of our [talks, proposals, applications](./talks-proposals.html) (including rejections!) are available to browse.
 
 If you're from UCL and want to get involved, please [email us](mailto:open.source@ucl.ac.uk), or contact the ARC collaborations team via [MyServices](https://myservices.ucl.ac.uk).
 
