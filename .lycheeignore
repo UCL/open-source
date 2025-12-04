@@ -3,3 +3,4 @@
 (?x).*hamlynsymposium.org.*                     # Returns 403 for some reason
 (?x).*github-readme-stats.vercel.app.*          # Returns 503 for some reason
 (?x).*medium.com/iipp-blog.*                    # Returns 403 for some reason
+(?x).*127.0.0.1.*                               # This is a local address
