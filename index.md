@@ -17,7 +17,7 @@ For open research, the library has a dedicated [Office for Open Science and Scho
 
 ## Looking for advice?
 We have a few [guides and links](./guides) that you may find useful.
-In particular, [UCL's position on open source software licenses](./guides/ucl-and-oss).
+In particular, [UCL's position on open source software licenses](./guides/ucl-and-oss.html).
 
 Also in these pages you will find:
 
