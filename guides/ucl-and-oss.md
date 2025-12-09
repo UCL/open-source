@@ -46,10 +46,6 @@ Software created by staff represents an "intellectual asset" for the university.
 Many licenses have a line for the copyright holder.
 In such cases, you should use either:
 
-> "Copyright [year] UCL"
-
-or 
-
 > "Copyright [year] University College London".
 
 The copyright holder of a piece of software is different if the developer is a student when the code is written rather than an employee of the university (or any other company for that matter).
