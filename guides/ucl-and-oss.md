@@ -9,7 +9,7 @@ crumbs:
 
 # UCL and open source
 
-UCL currently[^1] has no official policy on licencing software. 
+UCL currently[^1] has no official policy on licensing software. 
 
 UCL retains the intellectual property of any software written by members of staff but does not object to sharing software under open source licences.
 The relevant section of the [intellectual property policy document is Section 2.1](https://www.ucl.ac.uk/enterprise/staff/policies-supported-innovation-enterprise/ucl-intellectual-property-ip-policy).
@@ -29,10 +29,10 @@ is now 404 :-(
 The [Centre for Advanced Research computing](https://ucl.ac.uk/arc) recommends that people always add a licence and copyright to any software that is produced and shared with a third party.
 However ARC does not offer legal advice.
 
-### Which licence ?
+### Which licence?
 
-We you start with [choosealicense.com](https://choosealicense.com/).
-We've also found [the European Commission's tool for comparing software licences](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses) to helpful for comparing compatibility of different licences.
+We recommend you start with [choosealicense.com](https://choosealicense.com/).
+We've also found [the European Commission's tool for comparing software licences](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses) to be helpful for comparing compatibility of different licences.
 You should also check your dependencies to see what licences they use, and ensure that your chosen licence is compatible with them.
 
 ### Applying the licence
@@ -53,11 +53,11 @@ or
 > "Copyright [year] University College London".
 
 The copyright holder of a piece of software is different if the developer is a student when the code is written rather than an employee of the university (or any other company for that matter).
-In such cases, and particularly for collaborative work, the IP ownership and licensing should be discussed earlier and a written agreement reached, as changing this later can be very complicated!
+In such cases, and particularly for collaborative work, the IP ownership and licensing should be discussed earlier and a written agreement reached, as changing this later can be complicated!
 
 ### Where to get legal advice
 
-UCL has a [legal services team](https://www.ucl.ac.uk/legal-services/)  who can be contacted for detailed advice.
+UCL has a [legal services team](https://www.ucl.ac.uk/legal-services/) who can be contacted for detailed advice.
 
 ## Other references
 
