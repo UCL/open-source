@@ -4,16 +4,26 @@ layout: default
 
 # Open Source
 
-What does UCL do to promote Open Source (Software, Data, Hardware, Educational Resources, Science, …)? In these pages you'll find our efforts to find that out.
+<section class="content-box news-summary">
 
-Many of us are from [UCL's Advanced Research Computing Centre](https://ucl.ac.uk/arc) (ARC), but we are not alone. Check our [people page]({{ 'people' | relative_url }}) to find out who we are. From within ARC we are leading the efforts to build an [Open Source Programme Office in UCL](./ospo).
+UCL has a long history of open-source software development and open research.
+Openness and inclusion form part of UCL's core values.
 
-In these pages you will find:
+</section>
+
+These pages are dedicated to supporting and promoting open-source software and materials by UCL staff and students.
+We are also in the process of building an [Open Source Programme Office at UCL](./ospo).
+For open research, the library has a dedicated [Office for Open Science and Scholarship](https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholarship).
+
+## Looking for advice? 
+We have a few [guides and links](./guides) that you may find useful.
+In particular, [UCL's position on open source software licenses](./guides/ucl-and-oss).
+
+Also in these pages you will find:
 
 - Announcements of [Activities & events](./events) that are happening in UCL (or near by) related to Open Source.
 - [News](./news) related to Open Source that is of interest to the UCL community.
 - Work done to create and consolidate the [Open Source Programme Office](./ospo), including submission to talks and funding proposals.
-- A number of [Guides](./guides) that you may find useful.
 
 Our [news](./news) page is available as an <i class="fa-solid fa-rss"></i> [RSS feed]({{"feed.xml" | prepend: baseurl}}), and our upcoming events as a [published calendar](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics).
 
