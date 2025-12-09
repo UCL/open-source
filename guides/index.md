@@ -10,7 +10,7 @@ crumbs:
 
 Tips, best practices and advice when open-sourcing your work, or when contributing to open source software.
 
-- [UCL and open-source](./ucl-and-oss): UCL's current position and advice on open source software licences.
+- [UCL and open-source](./ucl-and-oss.html): UCL's current position and advice on open source software licences.
 
 ## 🚧 Under construction 🚧
 
