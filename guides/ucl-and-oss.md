@@ -11,7 +11,7 @@ crumbs:
 
 UCL's position on open source is given by the [staff guidance on intellectual property](https://liveuclac.sharepoint.com/sites/VPRIGEInnovationEnterprise/SitePages/ip-staff-guidance.aspx#software%2c-apps%2c-source-code) (UCL credentials required to access):
 
-> [...] staff are encouraged to develop and use software as part of their research activity. You can decide how that software is shared with others (e.g. releasing under an open source licence), provided that there are no other restrictions on doing this (e.g. work being done under a collaboration agreement with an external party may make different provisions for ownership of intellectual property.)
+> […] staff are encouraged to develop and use software as part of their research activity. You can decide how that software is shared with others (e.g. releasing under an open source licence), provided that there are no other restrictions on doing this (e.g. work being done under a collaboration agreement with an external party may make different provisions for ownership of intellectual property.)
 > 
 > The same applies to any programme developed by UCL staff using open source software, e.g. via GNU General Public Licence (GPL). UCL would own any intellectual property in the new software created, but UCL (acting through staff members) will need to comply with the terms of the GPL, e.g. to make the new software available on an open source basis. In practical terms this will involve UCL staff members complying with the terms of open source licences.
 
