@@ -60,5 +60,4 @@ UCL has a [legal services team](https://www.ucl.ac.uk/legal-services/) who can b
 1. [UCL Office for Open Science and Scholarship](https://www.ucl.ac.uk/library/research-support/ucl-office-open-science-and-scholarship)
 2. [UCL Intellectual Property Policy](https://www.ucl.ac.uk/enterprise/about/governance-and-policies/ucl-intellectual-property-ip-policy)
 3. [Oxford Open Source Watch](http://oss-watch.ac.uk/)
-4. [SSI Top five tips for releasing software](https://software.ac.uk/blog/2016-10-06-top-five-tips-releasing-software)
-5. [SSI Choosing an open source licence](https://www.software.ac.uk/resources/guides/choosing-open-source-licence)
+4. [SSI Choosing an open source licence](https://www.software.ac.uk/resources/guides/choosing-open-source-licence)
