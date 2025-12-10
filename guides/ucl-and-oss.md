@@ -3,26 +3,20 @@ layout: default
 title: UCL and open-source software
 crumbs:
 - text: "UCL and open source"
-  link: /guides/ucl-and-oss
+  link: /guides/ucl-and-oss.html
   # TODO: the breadcrumb above is not working as expected: ask DPS
 ---
 
 # UCL and open source
 
-UCL currently[^1] has no official policy on licensing software. 
+UCL's position on open source is given by the [staff guidance on intellectual property](https://liveuclac.sharepoint.com/sites/VPRIGEInnovationEnterprise/SitePages/ip-staff-guidance.aspx#software%2c-apps%2c-source-code) (UCL credentials required to access):
 
-UCL retains the intellectual property of any software written by members of staff but does not object to sharing software under open source licences.
-The relevant section of the [intellectual property policy document is Section 2.1](https://www.ucl.ac.uk/enterprise/staff/policies-supported-innovation-enterprise/ucl-intellectual-property-ip-policy).
+> [...] staff are encouraged to develop and use software as part of their research activity. You can decide how that software is shared with others (e.g. releasing under an open source licence), provided that there are no other restrictions on doing this (e.g. work being done under a collaboration agreement with an external party may make different provisions for ownership of IP.)
+> 
+> The same applies to any programme developed by UCL staff using open source software, e.g. via GNU General Public Licence (GPL). UCL would own any IP in the new software created, but UCL (acting through staff members) will need to comply with the terms of the GPL licence, e.g. to make the new software available on an open source basis. In practical terms this will involve UCL staff members complying with the terms of open source licences.
 
-<!-- note that the link in the internal docs page:
+That is: UCL retains the intellectual property of any software written by members of staff but does not object to sharing software under open source licences.
 
-https://www.ucl.ac.uk/enterprise/about/governance-and-policies/intellectual-property-ip-policy/intellectual-property-policy-guidance#Software
-
-is now 404 :-(
-
--->
-
-[^1]: We're working to change this with an [Open Source Programme Office](../ospo/).
 
 ## [ARC](https://ucl.ac.uk/arc) and open source
 
