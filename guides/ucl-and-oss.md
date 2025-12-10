@@ -46,7 +46,7 @@ We have seen instances in the past where people have customised a licence, which
 
 Software created by staff represents an "intellectual asset" for the university.
 Many licenses have a line for the copyright holder.
-In such cases, you should use either:
+In such cases, you should use:
 
 > "Copyright [year] University College London".
 

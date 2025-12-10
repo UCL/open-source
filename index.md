@@ -21,9 +21,9 @@ In particular, [UCL's position on open source software licenses](./guides/ucl-an
 
 Also in these pages you will find:
 
-- Announcements of [Activities & events](./events) that are happening in UCL (or nearby) related to Open Source.
+- Announcements of [Activities & events](./events) that are happening in UCL (or nearby) related to open source.
 - [News](./news) related to Open Source that is of interest to the UCL community.
-- Work done to create and consolidate the [Open Source Programme Office](./ospo), including submission to talks and funding proposals.
+- Work done to create and consolidate the [Open Source Programme Office](./ospo), including talks given at conferences and funding proposals.
 
 Our [news](./news) page is available as an <i class="fa-solid fa-rss"></i> [RSS feed]({{"feed.xml" | prepend: baseurl}}), and our upcoming events as a [published calendar](https://outlook.office365.com/owa/calendar/30254fbb15664ffaad6db9083612c8fc@ucl.ac.uk/0b3efa837e1e463ebf8b0d56d134c42d11556152029707409414/calendar.ics).
 
