@@ -33,7 +33,9 @@ However ARC does not offer legal advice.
 
 We recommend you start with [choosealicense.com](https://choosealicense.com/).
 We've also found [the European Commission's tool for comparing software licences](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses) to be helpful for comparing compatibility of different licences.
-You should also check your dependencies to see what licences they use, and ensure that your chosen licence is compatible with them.
+
+You should look at what is common in the research field or technology stack you are working with, and generally follow suit.
+In particular, check your software dependencies to see what licences they use, and ensure that your chosen licence is compatible with them.
 
 ### Applying the licence
 
