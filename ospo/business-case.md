@@ -46,11 +46,12 @@ Those activities, however, are not new to OSPOs. Over the years, different group
 [ospo-munich]: https://opensource.muenchen.de/ospo.html
 [ospo-paris]: https://opensource.paris.fr/
 [ospo-public]: https://floss-pso.network/
-[ospo-snt]: https://ucospo.net/
-[ospo-stsci]: http://www.stsci.edu/ <!-- FIXME: It appears on archived OSPO++ page, but no link -->
+[ospo-snt]: https://www.uni.lu/snt-en/
+<!-- FIXME: STSci appears on archived OSPO++ page, but no link -->
+[ospo-stsci]: http://www.stsci.edu/
 [ospo-tcd]: https://www.tcd.ie/innovation/for-trinity-innovators/open-source-programme-office/
-[ospo-todogr]: https://todogroup.org/
-[ospo-uc]: https://www.uni.lu/snt-en/
+[ospo-todogrp]: https://todogroup.org/
+[ospo-uc]: https://ucospo.net/
 [ospo-un]: https://undp.org/digital
 [oss-watch]: http://oss-watch.ac.uk/
 [ssi]: https://www.software.ac.uk/
