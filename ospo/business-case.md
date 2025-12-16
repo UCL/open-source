@@ -38,6 +38,7 @@ Those activities, however, are not new to OSPOs. Over the years, different group
 [ospo-allience]: https://ospo-alliance.org/
 [ospo-cern]: https://opensource.web.cern.ch/
 [ospo-cms]: https://cms.gov/digital-service/open-source-program-office
+[ospo-cmu]: https://www.library.cmu.edu/services/ospo
 [ospo-ec]: https://interoperable-europe.ec.europa.eu/collection/ec-ospo
 [ospo-eth]: https://transfer.ethz.ch/researchers/oss.html
 [ospo-eu]: https://static-page-bdf202.usercontent.opencode.de/
