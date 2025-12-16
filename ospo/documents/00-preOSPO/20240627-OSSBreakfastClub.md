@@ -13,14 +13,14 @@ chaired by the following members of UCL/ARC Alessandro Felder (Sainsbury Wellcom
 and provided by the following participants:
 - Nick Gates, Astor Nummelin Carlberg and Tony Ford from [OpenForum Europe](https://openforumeurope.org/),
 - Malvika Sharan and Kirstie Whitaker from [Alan Turing Institute](https://www.turing.ac.uk/),
-- Jacob Green from [OSPO++](https://ospoplusplus.org/),
+- Jacob Green (was from OSPO++) 
 - Dawn Foster from [CHAOSS](https://chaoss.community/),
-- Nikhil Woodruff from [PolicyEngine](https://policyengine.org/us)
+- Nikhil Woodruff from [PolicyEngine](https://www.policyengine.org/us)
 - Matthew Hodgson from [matrix.org](https://matrix.org/)
 - Linda Griffin from [Mozilla](https://www.mozilla.org/)
 - Hilary Carter from [Linux Foundation](https://www.linuxfoundation.org/)
 - Rob Moffat from [FINOS](https://www.finos.org)
-- Jon Lloyd from [Digital Public Goods Alliance](https://digitalpublicgoods.net/)
+- Jon Lloyd from [Digital Public Goods Alliance](https://www.digitalpublicgoods.net/)
 - Jess Gramp from [Moodle HQ](https://moodle.org/)
 - Amanda Brock from [OpenUK](https://openuk.uk/)
 - June Hedges ([Office for Open Science and Scholarship](https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholarship)) and Surahbhi Parihar ([ISD](https://www.ucl.ac.uk/isd/)) from [UCL](https://www.ucl.ac.uk/)
@@ -42,7 +42,7 @@ This will also ensure it doesn't depend on a single person or team and it contin
 The tech transfer office (UCLB in UCL case) should be involved in this, they are not competing but complementing each other.
 The university could also collaborate with schools to promote open source within them (this could be fund through various digital up-skill programmes from government)
 
-In UCL there are well established collaborations with London society. For example, [The Barlett](https://www.ucl.ac.uk/bartlett/) (e.g., [resilience in London during COVID](https://www.ucl.ac.uk/bartlett/case-studies/2023/jun/mapping-stories-community-struggles-and-resilience-london-face-covid-19), or [missions-driven government for public services](https://medium.com/iipp-blog/professor-mariana-mazzucato-and-cllr-georgia-gould-leader-of-camden-council-write-about-the-need-ebd5ec2841d2) in Camden with the [IIPP](https://www.ucl.ac.uk/bartlett/public-purpose/ucl-institute-innovation-and-public-purpose)).
+In UCL there are well established collaborations with London society. For example, [The Barlett](https://www.ucl.ac.uk/bartlett/) (e.g., [resilience in London during COVID](https://www.ucl.ac.uk/bartlett/case-studies/2023/jun/mapping-stories-community-struggles-and-resilience-london-face-covid-19), or [missions-driven government for public services](https://medium.com/iipp-blog/professor-mariana-mazzucato-and-cllr-georgia-gould-leader-of-camden-council-write-about-the-need-ebd5ec2841d2) in Camden with the [IIPP](https://www.ucl.ac.uk/bartlett/public-purpose)).
 Working with them to include the OSS component will also have an impact.
 
 [OpenUK State of the Open 2023](https://openuk.uk/stateofopen/state-of-open-the-uk-in-2023/stateofopen-2023/) mentions the [UK Government had an open source procurement toolkit since 2011](https://www.theguardian.com/government-computing-network/2011/nov/02/cabinet-office-open-source-procurement-toolkit) (though [withdrawn in 2014](https://www.gov.uk/government/publications/open-source-procurement-toolkit)). These guides could help to promote the procurement of OS software within the university.
@@ -90,7 +90,7 @@ There are funding opportunities for many of this activities. Some are: [SLOAN](h
 #### Collaborations
 - thought leadership: Advertise courses to outside stakeholders
 - OpenUK - Could we coordinate something across UK universities
-- [Institute of Innovation and Public purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about-0) may be key collaborator within UCL
+- [Institute of Innovation and Public purpose](https://www.ucl.ac.uk/bartlett/public-purpose/about) may be key collaborator within UCL
 - Linux Foundation Education (free courses / paid certificates)
 - Partner with /get sponsorship from (for e.g. a yearly workshop) finance firms to educate math/economy students about OS practices, law firms to educate law students about OS practices,  Biotech firms to educate biology students about OS practices, etc…
 - teach about career opportunities in OS

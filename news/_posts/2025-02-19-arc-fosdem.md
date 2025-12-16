@@ -4,7 +4,7 @@ title: ARC at FOSDEM
 date: 2025-02-19
 ---
 
-A couple of weeks ago various members of ARC attended [FOSDEM](https://fosdem.org/2025/), the amazing festival of Open Source and some of its satellite events.
+A couple of weeks ago various members of ARC attended [FOSDEM](https://archive.fosdem.org/2025/), the amazing festival of Open Source and some of its satellite events.
 
 Read the posts that three of our members wrote on their return:
 
