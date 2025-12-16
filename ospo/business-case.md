@@ -18,12 +18,12 @@ crumbs:
 
 UCL has a long history of open-source software development for research and open-source educational materials.
 
-In a recent study, we identified more than a thousand open-source projects owned[^1] by the UCL community that are directly related to UCL research, publications or teaching, on the GitHub platform.
+In a recent study, we identified more than a thousand open-source projects owned[^1] by the UCL community that are directly related to UCL research, publications, or teaching on the GitHub platform.
 The oldest of these projects dates back to 1997, notably before the invention of git itself, and is still one of our most active projects today.
 
-[^1]: _TODO define 'owned' jargon here (or reword)._
+[^1]: Where "owned" simply denotes project ownership: open source development work done by UCL staff in aid of UCL research or education.
 
-## What is an OSPO
+## What is an OSPO?
 
 An Open Source Programme Office (OSPO) is a body within an organisation to look after their open source strategy and operations. OSPOs has been widely adopted in the commercial world[^OSPO-commerce], governmental institutions and world organisations[^OSPO-public]. More recently, various academic and research institutions have also found the value of having OSPOs. Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu], [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] to name a few from US, whereas in Europe we've got universities like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt] and [ETH Zurich][ospo-eth] in Switzerland.
 
@@ -100,7 +100,6 @@ Publicly available and licensed reusable material is increasingly understood as 
 A major risk that an OSPO mitigates is a legal one.
 One of the mandates of an OSPO is to develop an informed organisation-wide strategy for licensing open source projects and to provide guidance to developers and maintainers.
 In our study, we noted 36.1% of UCL's open-source projects are unlicensed.
-
 
 
 It will be harder to support our community with what they need, they will reinvent rather than collaborate.
