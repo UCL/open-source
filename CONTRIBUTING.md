@@ -36,7 +36,7 @@ python3 -m http.server
 ```
 
 You can then access the preview at `http://127.0.0.1:8000/open-source/`.
-You're encouraged to open a draft pull request while you're developing. 
+You're encouraged to open a draft pull request while you're developing.
 This will still trigger a build.
 
 ## Running the linters locally
@@ -67,7 +67,7 @@ lychee _site
 
 There is a top-level `.lycheeignore` file for anything that is a false positive.
 
-[`vale`], and [`typos`] can run directly over the site output or directly over the markdown files:
+[`vale`] and [`typos`] can run directly over the site output or directly over the markdown files:
 
 ```sh
 vale sync
