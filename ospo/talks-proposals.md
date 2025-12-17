@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Talks, Event Submissions and Proposals
+short: Talks, Event Submissions and Proposals
 crumbs:
-  - link: /ospo/talks-proposals
-    text: "Talks, Event Submissions, and Proposals"
+  - link: /ospo/
+    text: OSPO
 ---
 
 ### Talks and Event Submissions
