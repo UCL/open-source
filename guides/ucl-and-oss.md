@@ -2,9 +2,9 @@
 layout: default
 title: UCL and open-source software
 crumbs:
-- text: "UCL and open source"
-  link: /guides/ucl-and-oss.html
-  # TODO: the breadcrumb above is not working as expected: ask DPS
+- text: "guides"
+  link: /guides/
+short: "UCL and open source"
 ---
 
 # UCL and open source
