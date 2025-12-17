@@ -2,7 +2,7 @@
 layout: default
 title: UCL and open-source software
 crumbs:
-- text: "guides"
+- text: "Guides"
   link: /guides/
 short: "UCL and open source"
 ---
