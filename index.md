@@ -4,12 +4,12 @@ layout: default
 
 # Open Source
 
-<section class="content-box news-summary">
+<div class="content-box news-summary">
 
 UCL has a long history of open-source software development and open research.
 Openness and inclusion form part of UCL's core values.
 
-</section>
+</div>
 
 These pages are dedicated to supporting and promoting open-source software and materials by UCL staff and students.
 We are also in the process of building an [Open Source Programme Office at UCL](./ospo).
