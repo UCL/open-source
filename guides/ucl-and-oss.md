@@ -18,10 +18,12 @@ UCL's position on open source is given by the [staff guidance on intellectual pr
 That is: UCL retains the intellectual property of any software written by members of staff but does not object to sharing software under open source licences.
 
 
-## [ARC](https://ucl.ac.uk/arc) and open source
+## [ARC] and open source
 
-The [Centre for Advanced Research computing](https://ucl.ac.uk/arc) recommends that people always add a licence and copyright to any software that is produced and shared with a third party.
+The [Centre for Advanced Research computing][ARC] recommends that people always add a licence and copyright to any software that is produced and shared with a third party.
 However ARC does not offer legal advice.
+
+[ARC]: https://ucl.ac.uk/arc
 
 ### Which licence?
 
