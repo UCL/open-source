@@ -14,6 +14,12 @@ If you've spotted a bug, or want to contribute to **these website pages**, pleas
 You can build and test your changes locally with the [official Jekyll Docker image](https://hub.docker.com/r/jekyll/jekyll):
 
 ```sh
+curl -O https://raw.githubusercontent.com/actions/jekyll-build-pages/refs/heads/main/Gemfile
+docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" -p 4000:4000 -it jekyll/jekyll:latest jekyll serve
+```
+or 
+```sh
+curl -O https://raw.githubusercontent.com/actions/jekyll-build-pages/refs/heads/main/Gemfile
 docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" -p 4000:4000 -it jekyll/jekyll:latest jekyll serve
 ```
 
