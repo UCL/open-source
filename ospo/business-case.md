@@ -12,9 +12,18 @@ crumbs:
 *Executive Summary*
 > help them understand the project’s purpose, benefits and implications. Some components of an executive summary include the project overview, business need, proposed solution to the need, cost estimate, return on investment, risks, timeline and a call to action.
 
-## What is an OSPO?
+## Context
 
-> context for your project, explaining the problem that it's meant to solve and how it aligns with organisation's vision and strategic plan
+> context for your project, explaining the problem that it's meant to solve and how it aligns with the organisation's vision and strategic plan
+
+UCL has a long history of open-source software development for research and open-source educational materials.
+
+In a recent study, we identified more than a thousand open-source projects owned[^1] by the UCL community that are directly related to UCL research, publications, or teaching on the GitHub platform.
+The oldest of these projects dates back to 1997, notably before the invention of git itself, and is still one of our most active projects today.
+
+[^1]: Where "owned" simply denotes project ownership: open source development work done by UCL staff in aid of UCL research or education.
+
+## What is an OSPO?
 
 An Open Source Programme Office (OSPO) is a body within an organisation to look after their open source strategy and operations. OSPOs has been widely adopted in the commercial world[^OSPO-commerce], governmental institutions and world organisations[^OSPO-public]. More recently, various academic and research institutions have also found the value of having OSPOs. Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] to name a few from US, whereas in Europe we've got universities like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt] and [ETH Zurich][ospo-eth] in Switzerland.
 
@@ -87,9 +96,16 @@ Open Source is a fundamental component of our research and university infrastruc
 *mission statement*
 > You’ll need to define your project vision, goals and objectives.
 
+Publicly available and licensed reusable material is increasingly understood as a research output or project deliverable.
+
 *explain how it fits a niche or serves a need*
 
-> what are the risk of not having one?
+> What is the risk of not having one?
+
+A major risk that an OSPO mitigates is a legal one.
+One of the mandates of an OSPO is to develop an informed organisation-wide strategy for licensing open source projects and to provide guidance to developers and maintainers.
+In our study, we noted 36.1% of UCL's open-source projects are unlicensed.
+
 
 It will be harder to support our community with what they need, they will reinvent rather than collaborate.
 
@@ -97,7 +113,7 @@ It will be harder to support our community with what they need, they will reinve
 
 ### Plan 
 
-- 3 year plan, 5 year plan, beyond
+- 3-year plan, 5-year plan, beyond
 
 *project definition*
 > provide general information about your projects, such as the business objectives that will be achieved and the project plan outline. It offers a comprehensive overview of the project including its objectives and scope. Here, include details such as the objectives, stakeholders, scope, expected outcomes and constraints.
@@ -106,7 +122,7 @@ It will be harder to support our community with what they need, they will reinve
 > Figure out the tasks you’ll have to take to get the project done. Estimate how long it will take to complete each one.
 
 *risk assessment*
-> identify and analyze the risks associated with your project activities. From there, you can assess the likelihood and impact of each and rank them based on this information. The risk assessment makes it easier to focus on the most pressing risks and includes a mitigation strategy to reduce the impact in case the risk comes to fruition.
+> identify and analyse the risks associated with your project activities. From there, you can assess the likelihood and impact of each and rank them based on this information. The risk assessment makes it easier to focus on the most pressing risks and includes a mitigation strategy to reduce the impact in case the risk comes to fruition.
 #### Activities 
 
 - Define the governance structure for year 2 onwards
@@ -155,7 +171,7 @@ It will be harder to support our community with what they need, they will reinve
 > a timeline for the project by estimating how long it will take to get each task completed. Gantt chart
 
 *Marketing Strategy*
-> distribution channels, pricing, target customers among other aspects of your marketing plan or strategy.
+> distribution channels, pricing, target customers, among other aspects of your marketing plan or strategy.
 
 
 #### Resources
