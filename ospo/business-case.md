@@ -140,12 +140,14 @@ It will be harder to support our community with what they need, they will reinve
 - Community
   - Support and promote community initiatives (Linux user group, Latex user group, Python Community of Practice, R Users, ..)
   - Working with funding bodies and external stakeholders to promote Open Source, such as UKRI, DiRAC, Software Sustainability Institute, ...
+ - [Open Science awards][osci-award] people at UCL (they've got a software component)
   - Strength ties with OS networks, CURIOSS, CHAOSS, and support other universities that they want to create an OSPO.
   
   
 [uw-survey]: https://uw-madison-dsi.github.io/open_source_survey_results/
 [uc-survey]: https://www.youtube.com/watch?v=fFoLmb6o7Z8
 [uc-survey-abs]: https://web.archive.org/web/20250905052446/https://2025.fossy.us/schedule/presentation/334/
+[osci-award]: https://www.ucl.ac.uk/library/open-science-research-support/open-science/about-office-open-science-scholarship/ucl-open-science
 *project scope*
 > all the tasks and deliverables that will be executed in your project to reach your business objectives
 
@@ -174,6 +176,7 @@ departments and overseen from stakeholders across the university.  At the
 moment few people have been identified 7 members, 1 from SWC, 1 from
 CS, 1 from CASA, 1 from office of Open Science and Scholarship, 1 from
 ISD, 1 from DigiEd, 1 from Mech Eng.
+Governance to use UCL's structure digital research board (ARC) or the one from Library.
 
 Roles:
 
