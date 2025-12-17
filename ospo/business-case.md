@@ -109,6 +109,43 @@ It will be harder to support our community with what they need, they will reinve
 > identify and analyze the risks associated with your project activities. From there, you can assess the likelihood and impact of each and rank them based on this information. The risk assessment makes it easier to focus on the most pressing risks and includes a mitigation strategy to reduce the impact in case the risk comes to fruition.
 #### Activities 
 
+- Define the governance structure for year 2 onwards
+  - how is formed, how is renovated, how are decisions taken
+- Continue and augment OSS metrics at UCL
+  - Add more OSS projects we've find developed within UCL
+  - Measure citations to OSS from publications
+  - Start measuring UCL contributions to external maintained projects
+  - Generate reports every 6 months of impact (what we create, what we contribute to, what we use)
+	- Separate between research, infrastructure,
+    - Report on risks of dependencies/sustainability
+  - Measure Open Source dependencies of closed source software
+    - this will require access to organisations and reposiotories we may not have at the moment and stakeholders will need to promote the need.
+    - This is also an important security exercise (ISG must be involved)
+- UCL-wide survey to understand the OS landscape and the needs of the community
+  - Design based on surveys run by other universities
+  - Users ([University of Wisconsin Madison results][uw-survey]), contributors ([University of California results][uc-survey])
+- Publish a guidance on how to release open source outcomes within UCL
+  - Including license, development models, community engagement, and commercial opportunities
+  - Outcomes such as: software, hardware, data, educational resources, 
+  - Ideally work with Library, Arena/DigiEd, UCLB and UCLC. Probably Institute of Making too.
+- Education. Make a call with all educators across UCL that uses OS in their modules/classes
+  - Find out what support they need
+  - Catalogue and highlight on the website those courses
+- Education - collaboration
+  - Promote collaborations on students project with open source communities (e.g., master projects) (AIDE and SoftEng master programmes may be ready from 2026-2027)
+  - Support participation on Summer of Code programmes
+- Education - Skills development
+  - Create and deliver series of short courses/workshops covering Open Source basics (what's it, meaning of licensing, how to contribute,...)
+  - Hackathon - find partners wot work with, e.g., UN Hackathon, NASA Open Science, ...
+- Community
+  - Support and promote community initiatives (Linux user group, Latex user group, Python Community of Practice, R Users, ..)
+  - Working with funding bodies and external stakeholders to promote Open Source, such as UKRI, DiRAC, Software Sustainability Institute, ...
+  - Strength ties with OS networks, CURIOSS, CHAOSS, and support other universities that they want to create an OSPO.
+  
+  
+[uw-survey]: https://uw-madison-dsi.github.io/open_source_survey_results/
+[uc-survey]: https://www.youtube.com/watch?v=fFoLmb6o7Z8
+[uc-survey-abs]: https://web.archive.org/web/20250905052446/https://2025.fossy.us/schedule/presentation/334/
 *project scope*
 > all the tasks and deliverables that will be executed in your project to reach your business objectives
 
@@ -131,6 +168,17 @@ It will be harder to support our community with what they need, they will reinve
 
 *Project Governance*
 > ll the project management rules and procedures that apply to your project. For example, it defines the roles and responsibilities of the project team members and the framework for decision-making.
+
+A core group led by ARC with contributions from members of other
+departments and overseen from stakeholders across the university.  At the
+moment few people have been identified 7 members, 1 from SWC, 1 from
+CS, 1 from CASA, 1 from office of Open Science and Scholarship, 1 from
+ISD, 1 from DigiEd, 1 from Mech Eng.
+
+Roles:
+
+working groups
+
 
 *Communication Plan*
 > The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and has a shared understanding.
