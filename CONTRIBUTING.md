@@ -18,7 +18,7 @@ docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/lo
 ```
 or 
 ```sh
-wget https://raw.githubusercontent.com/actions/jekyll-build-pages/refs/heads/main/Gemfile
+curl -O https://raw.githubusercontent.com/actions/jekyll-build-pages/refs/heads/main/Gemfile
 docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" -p 4000:4000 -it jekyll/jekyll:latest jekyll serve
 ```
 
