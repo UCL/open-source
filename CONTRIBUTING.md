@@ -42,7 +42,7 @@ This will still trigger a build.
 ## Running the linters locally
 
 We use [`lychee`] to check for broken links and [`vale`] (with [`proselint`]) to try to keep the prose consistent (particularly as different people are contributing to our business case).
-We also use [`typos`](https://github.com/crate-ci/typos) to check for... typos.
+We also use [`typos`](https://github.com/crate-ci/typos) to check for… typos.
 These can be installed in several ways.
 
 macOS Homebrew users can simply:
