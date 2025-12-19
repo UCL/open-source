@@ -10,11 +10,11 @@ crumbs:
 
 Tips, best practices and advice when open-sourcing your work, or when contributing to open source software.
 
+- [UCL and open-source](./ucl-and-oss.html): UCL's current position and advice on open source software licences.
+
 ## 🚧 Under construction 🚧
 
-We plan to populate these pages with advice for UCL staff and student software developers.
-
-- Choosing a license for research software.
+- Choosing a license for open educational material.
 - Choosing a license for website development projects.
 
 ## Other resources
