@@ -1,10 +1,10 @@
 ---
 layout: default
 title: People
-permalink: /people/
 crumbs:
-  - link: "/people/"
-    text: "People"
+  - link: /ospo/
+    text: "OSPO"
+short: "Who are we?"
 ---
 
 # Who are we?
