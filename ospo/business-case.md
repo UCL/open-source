@@ -19,7 +19,10 @@ crumbs:
 UCL has a long history of open-source software development for research and open-source educational materials.
 
 In a recent study, we identified more than a thousand open-source projects owned[^1] by the UCL community that are directly related to UCL research, publications, or teaching on the GitHub platform.
-The oldest of these projects dates back to 1997, notably before the invention of git itself, and is still one of our most active projects today.
+The oldest[^2] of these projects dates back to 1997, notably before the invention of git itself, and is still one of our most active projects today.
+
+
+[^2]: [STIR](https://github.com/UCL/STIR) - The Software for Tomographic Image Reconstruction.
 
 [^1]: Where "owned" simply denotes project ownership: open source development work done by UCL staff in aid of UCL research or education.
 
@@ -35,7 +38,9 @@ An Open Source Programme Office (OSPO) is a body within an organisation to look 
 Though the goals of organisations across these domains differ when establishing an OSPO, they create a fabric that helps those organisations to collaborate and combine efforts to maximise the impact (and support) of open source software. Some activities that an OSPO may do are:
 
 - To advocate for Open Source practises between an organisation through community engagement;
-- To measure usage and dependency on open (and closed!) source software/hardware to increase impact and reduce risks;
+- To measure usage and dependency on open (and closed!) source projects;
+- To measure UCL's impact on open source;
+- To mitigate associate risks (unlicensed code, closed source, etc);
 - To promote, guide and educate internal and external community members on open source culture from technical, social, political and economical perspectives;
 - To push policy forward that safeguards open source and protects technological sovereignty of the institution.
 
