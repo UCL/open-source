@@ -12,6 +12,37 @@ crumbs:
 *Executive Summary*
 > help them understand the project’s purpose, benefits and implications. Some components of an executive summary include the project overview, business need, proposed solution to the need, cost estimate, return on investment, risks, timeline and a call to action.
 
+
+Our institution as many institutions and organisations around the globe depends on Open Source,
+whether it's software, hardware, data or other resources as research and educational outputs.
+Open source software is everywhere and it has a huge economic impact.
+The [State of Open Source paper][sospaper], shows that 96% of all software included open source software.
+Moreover, a [study from the Harvard Business School][harvard-oss] has shown recently that open source software generated $8.8 trillion of value and production costs are reduced a factor of 3.5.
+Other open source products haven't been under such a detailed analysis yet, however, from the point of view of an University,
+they are still very important, for example for the Open Science reproducibility mission as well as for the creation of Open Educational resources.
+
+The creation of an Open Source Programme Office (OSPO) helps to coordinate its usage and development as well as to nurture its adoption across the university.
+We propose three main pillars that an OSPO in UCL should cover: Research, Education and Infrastructure,
+supported by three main foundations: Training, Community and Policy.
+With those six aspects we are increasing collaboration and visibility (within and outside UCL) as well as providing an overview about the stronger and weakest points of our ecosystem and dependencies.
+This office will provide a service to obtain metrics, deliver training and provide mentorship and guidance on running open source projects;
+a medium to support grant applications and compliance with respect to open source requirements;
+a hub of communication between the UCL community, innovation and enterprise team and external partners;
+and an advocacy platform for promoting open source culture practices and provide policy recommendations across the university.
+To be able to offer all this, we propose to build on above what [UCL's Advanced Research Computing Centre][arc] (ARC) and [UCL Office for Open Science and Scholarship][OOSS] has created
+and add components through out the next five years,
+with costs shared across different departments across UCL,
+starting with the current 0.25 FTE from ARC and increase it to 3 FTE at the end of this period.
+
+Being the first UK university to have an OSPO provides a service no available in the country to our researchers, staff and students,
+as well as brings visibility in open source communities, attracting workforce and students, as well as investment from external bodies.
+
+
+[sospaper]: https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html#introMenu
+[harvard-oss]: http://dx.doi.org/10.2139/ssrn.4693148
+[arc]: https://www.ucl.ac.uk/arc
+[OOSS]: https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholarship
+
 ## Context
 
 > context for your project, explaining the problem that it's meant to solve and how it aligns with the organisation's vision and strategic plan
