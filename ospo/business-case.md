@@ -156,11 +156,11 @@ It will be harder to support our community with what they need, they will reinve
   - Promote collaborations on students project with open source communities (e.g., master projects) (AIDE and SoftEng master programmes may be ready from 2026-2027)
   - Support participation on Summer of Code programmes
 - Education - Skills development
-  - Create and deliver series of short courses/workshops covering Open Source basics (what's it, meaning of licensing, how to contribute,...)
-  - Hackathon - find partners wot work with, e.g., UN Hackathon, NASA Open Science, ...
+  - Create and deliver series of short courses/workshops covering Open Source basics (what's it, meaning of licensing, how to contribute, …)
+  - Hackathon - find partners wot work with, e.g., UN Hackathon, NASA Open Science, …
 - Community
-  - Support and promote community initiatives (Linux user group, Latex user group, Python Community of Practice, R Users, ..)
-  - Working with funding bodies and external stakeholders to promote Open Source, such as UKRI, DiRAC, Software Sustainability Institute, ...
+  - Support and promote community initiatives (Linux user group, Latex user group, Python Community of Practice, R Users, …)
+  - Working with funding bodies and external stakeholders to promote Open Source, such as UKRI, DiRAC, Software Sustainability Institute, …
  - [Open Science awards][osci-award] people at UCL (they've got a software component)
   - Strength ties with OS networks, CURIOSS, CHAOSS, and support other universities that they want to create an OSPO.
   
