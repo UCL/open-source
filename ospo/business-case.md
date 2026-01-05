@@ -28,7 +28,7 @@ The oldest of these projects dates back to 1997, notably before the invention of
 An Open Source Programme Office (OSPO) is a body within an organisation to look after their open source strategy and operations. OSPOs has been widely adopted in the commercial world[^OSPO-commerce], governmental institutions and world organisations[^OSPO-public]. More recently, various academic and research institutions have also found the value of having OSPOs. Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] to name a few from US, whereas in Europe we've got universities like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt] and [ETH Zurich][ospo-eth] in Switzerland.
 
 <!-- Footnotes -->
-[^OSPO-commerce]: The two biggest OSPO networks in industry are: [OSPO Alliance][ospo-allience] supported by the [Eclipse Foundation][eclipse] and [TODO Group][ospo-todogrp] supported by the [Linux Foundation][LF]. In a [report published in 2024 by the TODO Group][state-of-ospo-2024], it's found that 77% of large organizations have an OSPO (DOI: 10.70828/FXMR3018).
+[^OSPO-commerce]: The two biggest OSPO networks in industry are: [OSPO Alliance][ospo-allience] supported by the [Eclipse Foundation][eclipse] and [TODO Group][ospo-todogrp] supported by the [Linux Foundation][LF]. In a [report published in 2024 by the TODO Group][state-of-ospo-2024], it's found that 77% of large organizations have an OSPO (DOI: 10.70828/FXMR3018). <!-- typos: ignore -->
 [^OSPO-public]: Covering this space there is the [EU OSPO Network][ospo-eu] lead by the [EC OSPO][ospo-ec] and the [Public Sector OSPOs Network][ospo-public]. They include OSPOs from [United Nations][ospo-un]; from country wide like [France government][ospo-fr] or the [Netherlands](https://opensourcewerken.nl/); cities such as [City of Paris][ospo-paris] or [Munich][ospo-munich]; and specialised public organisations like [Digital Service at the Centers for Medicare and Medicaid Services in US][ospo-cms].
 <!-- End Footnotes -->
 
@@ -44,7 +44,7 @@ Though the goals of organisations across these domains differ when establishing 
 
 Those activities, however, are not new to OSPOs. Over the years, different groups within organisations or wider institutions have been engaging on some of those activities. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open source software, and open source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
 
-A more detailed definition of ana academic OSPO can be found in [Young, et al. (2024)][young-2024]
+A more detailed definition of an academic OSPO can be found in [Young, et al. (2024)][young-2024]
 
 [LF]: https://www.linuxfoundation.org/
 [eclipse]: https://www.eclipse.org/
@@ -135,7 +135,7 @@ It will be harder to support our community with what they need, they will reinve
 	- Separate between research, infrastructure,
     - Report on risks of dependencies/sustainability
   - Measure Open Source dependencies of closed source software
-    - this will require access to organisations and reposiotories we may not have at the moment and stakeholders will need to promote the need.
+    - this will require access to organisations and repositories we may not have at the moment and stakeholders will need to promote the need.
     - This is also an important security exercise (ISG must be involved)
 - UCL-wide survey to understand the OS landscape and the needs of the community
   - Design based on surveys run by other universities
@@ -187,11 +187,19 @@ It will be harder to support our community with what they need, they will reinve
 *Project Governance*
 > ll the project management rules and procedures that apply to your project. For example, it defines the roles and responsibilities of the project team members and the framework for decision-making.
 
-A core group led by ARC with contributions from members of other
-departments and overseen from stakeholders across the university.  At the
-moment few people have been identified 7 members, 1 from SWC, 1 from
-CS, 1 from CASA, 1 from office of Open Science and Scholarship, 1 from
-ISD, 1 from DigiEd, 1 from Mech Eng.
+The UCL OSPO will comprise a core team from ARC and _at least one_ delegated representative from each team or department in the university that has a stake in open source.
+
+These teams are:
+- The Department of Computer Science;
+- The Sainsbury Wellcome Centre's Neuroinformatics Unit;
+- The Office of Open Science and Scholarship;
+- ISD;
+- Digital education;
+- The Bartlett Centre for Advanced Spatial Analysis;
+- and Mechanical Engineering.
+
+The emphasis is on _at least_, because we aim to encourage members from these and other teams to join voluntarily.
+
 Governance to use UCL's structure digital research board (ARC) or the one from Library.
 
 Roles:
