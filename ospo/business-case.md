@@ -59,32 +59,32 @@ The oldest[^2] of these projects dates back to 1997, notably before the inventio
 
 ## What is an OSPO?
 
-An Open Source Programme Office (OSPO) is a body within an organisation to look after their open source strategy and operations. OSPOs has been widely adopted in the commercial world[^OSPO-commerce], governmental institutions and world organisations[^OSPO-public]. More recently, various academic and research institutions have also found the value of having OSPOs. Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] to name a few from US, whereas in Europe we've got universities like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt] and [ETH Zurich][ospo-eth] in Switzerland.
+An Open Source Programme Office (OSPO) is a body within an organisation to look after its open source strategy and operations. OSPOs have been widely adopted in the commercial world[^OSPO-commerce], governmental institutions and world organisations[^OSPO-public]. More recently, various academic and research institutions have also found the value of having OSPOs. Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (the first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] in the USA, or European examples like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt], and [ETH Zurich][ospo-eth] in Switzerland.
 
 <!-- Footnotes -->
-[^OSPO-commerce]: The two biggest OSPO networks in industry are: [OSPO Alliance][ospo-allience] supported by the [Eclipse Foundation][eclipse] and [TODO Group][ospo-todogrp] supported by the [Linux Foundation][LF]. In a [report published in 2024 by the TODO Group][state-of-ospo-2024], it's found that 77% of large organizations have an OSPO (DOI: 10.70828/FXMR3018). <!-- typos: ignore -->
-[^OSPO-public]: Covering this space there is the [EU OSPO Network][ospo-eu] lead by the [EC OSPO][ospo-ec] and the [Public Sector OSPOs Network][ospo-public]. They include OSPOs from [United Nations][ospo-un]; from country wide like [France government][ospo-fr] or the [Netherlands](https://opensourcewerken.nl/); cities such as [City of Paris][ospo-paris] or [Munich][ospo-munich]; and specialised public organisations like [Digital Service at the Centers for Medicare and Medicaid Services in US][ospo-cms].
+[^OSPO-commerce]: The two biggest OSPO networks in industry are: [OSPO Alliance][ospo-alliance] supported by the [Eclipse Foundation][eclipse] and [TODO Group][ospo-todogrp] supported by the [Linux Foundation][LF]. A [report published in 2024 by the TODO Group][state-of-ospo-2024] found that 77% of large organisations have an OSPO (DOI: 10.70828/FXMR3018). <!-- typos: ignore -->
+[^OSPO-public]: Covering this space there is the [EU OSPO Network][ospo-eu] led by the [EC OSPO][ospo-ec], and the [Public Sector OSPOs Network][ospo-public]. They include OSPOs from the [United Nations][ospo-un]; country-wide examples like the [French government][ospo-fr] or the [Netherlands](https://opensourcewerken.nl/); cities such as [City of Paris][ospo-paris] or [Munich][ospo-munich]; and specialised public organisations like [Digital Service at the Centers for Medicare and Medicaid Services in US][ospo-cms].
 <!-- End Footnotes -->
 
 Though the goals of organisations across these domains differ when establishing an OSPO, they create a fabric that helps those organisations to collaborate and combine efforts to maximise the impact (and support) of open source software. Some activities that an OSPO may do are:
 
 - To advocate for Open Source practises between an organisation through community engagement;
-- To measure usage and dependency on open (and closed!) source projects;
-- To measure UCL's impact on open source;
+- To measure usage of and dependency on open (and closed!) source projects;
+- To measure the organisation's impact on open source;
 - To mitigate associate risks (unlicensed code, closed source, etc);
-- To promote, guide and educate internal and external community members on open source culture from technical, social, political and economical perspectives;
+- To promote, guide and educate internal and external community members on open source culture from technical, social, political and economic perspectives;
 - To push policy forward that safeguards open source and protects technological sovereignty of the institution.
 
 ![](./Activities-of-academic-OSPO.png)
 *Figure 1: Activities of an Academic OSPO - From [Young, et al. (2024)][young-2024] - Licensed under CC-BY*
 
-Those activities, however, are not new to OSPOs. Over the years, different groups within organisations or wider institutions have been engaging on some of those activities. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open source software, and open source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
+Those activities, however, are not new to OSPOs. Over the years, different groups within organisations have been engaging in some of those activities. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open source software, and open source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
 
 A more detailed definition of an academic OSPO can be found in [Young, et al. (2024)][young-2024]
 
 [LF]: https://www.linuxfoundation.org/
 [eclipse]: https://www.eclipse.org/
-[ospo-allience]: https://ospo-alliance.org/
+[ospo-alliance]: https://ospo-alliance.org/
 [ospo-cern]: https://opensource.web.cern.ch/
 [ospo-cms]: https://cms.gov/digital-service/open-source-program-office
 [ospo-cmu]: https://www.library.cmu.edu/services/ospo
@@ -107,14 +107,15 @@ A more detailed definition of an academic OSPO can be found in [Young, et al. (2
 [ssi]: https://www.software.ac.uk/
 [state-of-ospo-2024]: https://www.linuxfoundation.org/research/ospo-2024
 [young-2024]: https://doi.org/10.5281/zenodo.13910682
-## Why does UCL need an OSPO? / What benefits does it give?
 
-Open Source is a fundamental component of our research and university infrastructure. However, this is usually forgotten and considered as a given. We do not know how much we depend on it. Equally, we know very little about the social, research, and economic impact that the open source code generated by the UCL has. Contributing to Open Source projects requires more than technical knowledge, it is tied to social and economic aspects, and an OSPO helps to make it more accessible. An OSPO in UCL will benefit the following areas:
+## Why does UCL need an OSPO? What benefits does it give?
+
+Open Source is a fundamental component of our research and university infrastructure. However, this is usually forgotten and considered as a given. We do not know how much we depend on it. Equally, we know very little about the social, research, and economic impact that the open source code generated by UCL has. Contributing to Open Source projects requires more than technical knowledge, it is tied to social and economic aspects, and an OSPO helps to make it more accessible. An OSPO in UCL will benefit the following areas:
 
 - research
-  - Provide guidance with sustainability, community engagement and licensing.
+  - Provide guidance on sustainability, community engagement and licensing.
 - education
-  - Train students and staff on the use and contribution of Open Source projects.
+  - Train students and staff on the use of and contribution to Open Source projects.
   - Promote Open source alternatives to tools taught on courses to allow learners improve skills when losing access to closed source tools
 - infrastructure (HPC, Moodle, Portico, HR & Finances, Department administration)
   - Provide support to open source tooling
