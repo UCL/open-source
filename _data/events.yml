@@ -10,6 +10,15 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
+- title: Working With Open Source: A roundtable for PhD students and early-career researchers
+  organiser: UCL Centre for Digital Humanities
+  url: https://forms.cloud.microsoft/e/Gi72LxrjN7
+  time: 2026-02-12
+  time: "14:00"
+  duration:
+    hours: 1.5
+  location: Room 104 (Elvin Hall), IOE Bedford Way (20)
+  location_url: https://www.openstreetmap.org/?mlat=51.523078&mlon=-0.128082&zoom=16 
 - title: Open source good-first issue hackathon
   organiser: ARC
   url: https://pretix.eu/ucl-open-source/good-first-issue/
