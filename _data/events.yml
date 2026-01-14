@@ -10,7 +10,7 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
-- title: Working With Open Source: A roundtable for PhD students and early-career researchers
+- title: "Working With Open Source: A roundtable for PhD students and early-career researchers"
   organiser: UCL Centre for Digital Humanities
   url: https://forms.cloud.microsoft/e/Gi72LxrjN7
   time: 2026-02-12
