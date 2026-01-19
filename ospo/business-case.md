@@ -223,9 +223,11 @@ Whereas if included open source metrics within the procurement process and help 
 
 ## How would it work at UCL?
 
-### Plan 
+An OSPO in UCL will become a team providing a central hub of communication, research, training and support, with different scopes. 
+The team will be composed by a pool of staff and students from across the university and managed by a committee formed by delegates representing different aspect of the university (namely research, education, infrastructure, community, policy,services).
+This support is expected to be provided in-kind by different departments (0.2-0.4FTE each). However, for certain projects and activities OSPO members will look for funding sources to accomplish them.
 
-- 3-year plan, 5-year plan, beyond
+### Plan
 
 *project definition*
 > provide general information about your projects, such as the business objectives that will be achieved and the project plan outline. It offers a comprehensive overview of the project including its objectives and scope. Here, include details such as the objectives, stakeholders, scope, expected outcomes and constraints.
@@ -235,47 +237,87 @@ Whereas if included open source metrics within the procurement process and help 
 
 *risk assessment*
 > identify and analyse the risks associated with your project activities. From there, you can assess the likelihood and impact of each and rank them based on this information. The risk assessment makes it easier to focus on the most pressing risks and includes a mitigation strategy to reduce the impact in case the risk comes to fruition.
-#### Activities 
 
-- Define the governance structure for year 2 onwards
-  - how is formed, how is renovated, how are decisions taken
-- Continue and augment OSS metrics at UCL
-  - Add more OSS projects we've find developed within UCL
-  - Measure citations to OSS from publications
-  - Start measuring UCL contributions to external maintained projects
-  - Generate reports every 6 months of impact (what we create, what we contribute to, what we use)
-	- Separate between research, infrastructure,
-    - Report on risks of dependencies/sustainability
-  - Measure Open Source dependencies of closed source software
-    - this will require access to organisations and repositories we may not have at the moment and stakeholders will need to promote the need.
-    - This is also an important security exercise (ISG must be involved)
-- UCL-wide survey to understand the OS landscape and the needs of the community
-  - Design based on surveys run by other universities
-  - Users ([University of Wisconsin Madison results][uw-survey]), contributors ([University of California results][uc-survey])
-- Publish a guidance on how to release open source outcomes within UCL
-  - Including license, development models, community engagement, and commercial opportunities
-  - Outcomes such as: software, hardware, data, educational resources, 
-  - Ideally work with Library, Arena/DigiEd, UCLB and UCLC. Probably Institute of Making too.
-- Education. Make a call with all educators across UCL that uses OS in their modules/classes
-  - Find out what support they need
-  - Catalogue and highlight on the website those courses
-- Education - collaboration
-  - Promote collaborations on students project with open source communities (e.g., master projects) (AIDE and SoftEng master programmes may be ready from 2026-2027)
-  - Support participation on Summer of Code programmes
-- Education - Skills development
-  - Create and deliver series of short courses/workshops covering Open Source basics (what's it, meaning of licensing, how to contribute, …)
-  - Hackathon - find partners wot work with, e.g., UN Hackathon, NASA Open Science, …
-- Community
-  - Support and promote community initiatives (Linux user group, Latex user group, Python Community of Practice, R Users, …)
-  - Working with funding bodies and external stakeholders to promote Open Source, such as UKRI, DiRAC, Software Sustainability Institute, …
- - [Open Science awards][osci-award] people at UCL (they've got a software component)
-  - Strength ties with OS networks, CURIOSS, CHAOSS, and support other universities that they want to create an OSPO.
-  
-  
+#### Continue work
+
+Through the past years, members of the proposed OSPO has been already providing some community support. These are expected to continue through out the following years.
+
+Few members of the UCL have been participating on Summer of Code programmes such as Google's. We help to organise and advertise those through out the student community.
+
+There are already communities that are related with open source across campus, such as Linux User Group, Latex User Group, Python Community of Practice, R Users, and various code clubs and student societies. The OSPO with support from ARC will continue supporting and promoting those community initiatives.
+
+We are working with funding bodies and external stakeholders to promote Open Source, such as UKRI, DiRAC, Software Sustainability Institute. Helping to draft future policy and funding calls.
+
+Continue to strength ties with international open source networks we are members from, such as the Community for University and Research Institution OSPOs ([CURIOSS][curioss]), the Community Health Analytics in Open Source Software ([CHAOSS][chaoss]) and the [High Performance Software foundation][hpsf], as well as support other UK universities that want to develop an OSPO.
+
+#### Year 1
+
+During the first year the OSPO will continue to maintain and augment the metrics analysis we started last year measuring all the open source software projects we learn about. Additionally, we will start to measure with external projects the UCL community contributes to. Impact reports will be published every six months from the data extracted.
+
+The OSPO committee will be formed with the UCL staff who has already reached us, and as part of their commitment will be to define the membership terms and structure of this committee.
+
+In collaboration with ARC education team, OSPO team will map and advertise on the web which programs, training and resources exists on the university that are providing training related with open source. 
+For example, ARC's led [Centre for Doctoral Training in Collaborative Computational Modelling at the Interface][ccmi] has a strong emphasis on learning to contribute to open source communities.
+
+Design, distribute and analyse a survey to understand the open source needs across the UCL community. 
+The design will be based on surveys run by other universities, focusing on users ([University of Wisconsin Madison results][uw-survey]), and contributors ([University of California results][uc-survey]).
+This may require applying for a small grant to pay students to carry out the analysis.
+
+Collaborate with the Library for the [Open Science awards][osci-award] open-source component.
+
+Open a digital forum for the UCL community ask questions and provide answers about open source topics. This will first start as an email forum, but it may develop into something else as the community grows.
+
+#### Year 2-3
+
+Data scrapping and metrics analysis will be improved to measure citations on publications, risk of software dependencies and licensing.
+Additionally, the same analysis will be done on closed software developed within UCL. This will highlight risks and needs of that closed source software while encourage inner source[^innersource] practices within UCL.
+This will require access to organisations and repositories we may not have at the moment and stakeholders will need to promote the need.
+This is also an important security exercise and we expect ISD's Information Security Group to be involved.
+
+Develop and publish guidance on how to release open source outcomes (software, hardware, data, or educational resources) withing UCL. 
+Including licenses, development models, community engagement, and commercial opportunities.
+This will need to involve the Library, ARC, Computer Science, Arena, ISD DigiEd, Innovation & Enterprise, UCLB, UCLC and Institute of Making.
+
+Once those guides are developed, ARC Education will develop and deliver short courses covering them in a practical manner. 
+Those courses will be available to all the university through Organisational Development for post-graduate students and staff, and through the Extended Learning Opportunities Programme for undergraduate students. 
+
+Promote existing and develop new opportunities for students to collaborate with open source communities through out their degree. 
+We are aware of Computer Science modules and master programmes[^csprogs]. 
+Through those opportunities, students will be also interacting with various industries that are also open source users and contributors.
+Though this may start with Computer Science students, it won't only be focused on STEM disciplines, but aimed to all programs.
+
+Collaborate with already established international open source hackathons such asUN Hackathon and/or NASA Open Science.
+
+
+#### Year 3-5
+
+Continue with the metrics analysis adding new parameters and properties that help us to get a better picture. Developing therefore a recommendation on where the university should invest money or efforts based on the estimated risks of the projects and their dependencies.
+
+Continue supporting and delivering open source training programmes.
+
+Launch a mentoring programme for people with larger experience in open source to help others to implement practices to nurture the community around their open source product.
+
+Develop guidance about Commercial Open Source Software (COSS), collaborating with the Library, Centre for Digital Innovation (CDI), the School of management, Innovation & Enterprise, and UCLB.
+This should cover licensing possibilities as well as business models.
+
+<!-- footnotes -->
+[^innersource]: Inner source is the use of open source software development best practices and culture within an organisation during the development of closed source software.
+[^csprogs]: Artificial Intelligence and Data engineering and Software Engineering master programmes are two programs which in collaboration with ARC will include group projects with open source communities on 2026-2027.
+<!-- TODO: ASK alex for module he's doing app for -->
+<!-- end footnotes -->
+
+<!-- links -->
+[ccmi]: https://ccmi-cdt.org/
+[curioss]: https://curioss.org/
+[chaoss]: https://chaoss.community/
+[hpsf]: https://hpsf.io
 [uw-survey]: https://uw-madison-dsi.github.io/open_source_survey_results/
 [uc-survey]: https://www.youtube.com/watch?v=fFoLmb6o7Z8
 [uc-survey-abs]: https://web.archive.org/web/20250905052446/https://2025.fossy.us/schedule/presentation/334/
 [osci-award]: https://www.ucl.ac.uk/library/open-science-research-support/open-science/about-office-open-science-scholarship/ucl-open-science
+<!-- end links -->
+
+
 *project scope*
 > all the tasks and deliverables that will be executed in your project to reach your business objectives
 
