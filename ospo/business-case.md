@@ -332,8 +332,26 @@ This should cover licensing possibilities as well as business models.
 *project budget*
 > Your budget is an estimate of everything in your project plan and what it will cost to complete the project over the scheduled time allotted. Personnel costs, software or hardware costs, consulting fees, training costs and contingency funds
 
+At the moment we have been developing the office with a 0.3 FTE provided by ARC.
+We estimate that for year 1 we will required a combined effort of 1 FTE,
+and increase that through out the years to reach 3 FTE.
+
+We believe this could be done by contributions from other departments with a maximum of 1 FTE from ARC.
+
+Additionally, there will be costs required to participation on conferences. Those costs could be covered by the department of the delegate.
+
+The OSPO members will look out for funding opportunities that could help to buy out time from UCL members or pay for students to carry out some of the propose tasks.
+
 *Financial Appraisal*
 > explain how the financial benefits outweigh the project costs.
+
+UCL would be the first UK university to have an OSPO, this provides a leading position that will help
+to attract talent from open source communities,
+through providing open source training, our students will gain employability opportunities and our staff will grow their skills,
+to save licensing costs by using open source alternatives rather than closed source software,
+to avoid time spent reinventing software or falling into licensing incompatibilities,
+to recommend where the university should invest efforts to support sustainability of projects,
+
 
 
 ### Organisation
