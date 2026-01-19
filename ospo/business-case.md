@@ -13,12 +13,12 @@ crumbs:
 > help them understand the project’s purpose, benefits and implications. Some components of an executive summary include the project overview, business need, proposed solution to the need, cost estimate, return on investment, risks, timeline and a call to action.
 
 
-Our institution as many institutions and organisations around the globe depends on Open Source,
+Our university as many institutions and organisations around the globe depends on Open Source,
 whether it's software, hardware, data or other resources as research and educational outputs.
 Open source software is everywhere and it has a huge economic impact.
 The [State of Open Source paper][sospaper], shows that 96% of all software included open source software.
 Moreover, a [study from the Harvard Business School][harvard-oss] has shown recently that open source software generated $8.8 trillion of value and production costs are reduced a factor of 3.5.
-Other open source products haven't been under such a detailed analysis yet, however, from the point of view of an University,
+Other open source "products" haven't been under such a detailed analysis yet, however, from the point of view of an university,
 they are still very important, for example for the Open Science reproducibility mission as well as for the creation of Open Educational resources.
 
 The creation of an Open Source Programme Office (OSPO) helps to coordinate its usage and development as well as to nurture its adoption across the university.
@@ -32,7 +32,7 @@ and an advocacy platform for promoting open source culture practices and provide
 To be able to offer all this, we propose to build on above what [UCL's Advanced Research Computing Centre][arc] (ARC) and [UCL Office for Open Science and Scholarship][OOSS] has created
 and add components through out the next five years,
 with costs shared across different departments across UCL,
-starting with the current 0.25 FTE from ARC and increase it to 3 FTE at the end of this period.
+starting with the current 0.25 FTE provided by ARC and increase it to a shared 3 FTE across the university at the end of this period.
 
 Being the first UK university to have an OSPO provides a service no available in the country to our researchers, staff and students,
 as well as brings visibility in open source communities, attracting workforce and students, as well as investment from external bodies.
@@ -47,15 +47,52 @@ as well as brings visibility in open source communities, attracting workforce an
 
 > context for your project, explaining the problem that it's meant to solve and how it aligns with the organisation's vision and strategic plan
 
-UCL has a long history of open-source software development for research and open-source educational materials.
+UCL has a long history of open-source software development for research and open-source educational resources.
 
-In a recent study, we identified more than a thousand open-source projects owned[^1] by the UCL community that are directly related to UCL research, publications, or teaching on the GitHub platform.
-The oldest[^2] of these projects dates back to 1997, notably before the invention of git itself, and is still one of our most active projects today.
+In a recent study, we identified more than a thousand open-source software projects owned[^owned] by the UCL community that are directly related to UCL research, publications, or teaching on the GitHub platform.
+The oldest[^oldest] of these projects dates back to 1997, notably before the invention of git itself[^?Do people know what's git], and is still one of our most active projects today.
 
+We know that UCL has given birth to open source communities such as the [Open Street Map][osm][^osmap-ucl], which was supported and hosted by UCL from 2004 when it was created, to at least 2008. This platform has been providing open-source licensed map data free to use, to edit and distribute, to everyone, being used by lots of mapping applications, transport companies, government agencies, humanitarian organisations, news sites and websites[^osm-companies].
+A more recent example is the [BrainGlobe Initiative][bgi] that was established between researches at the Sainsbury Wellcome Centre and the Technical University of Munich since 2XXX(FIXME). They have developed a whole ecosystem of research software tools and nurture a community of researcher over the years, that was, last year, recognised by receiving an international award for its contribution to open, accessible and collaborative neuroscience[^bgi-award]. 
 
-[^2]: [STIR](https://github.com/UCL/STIR) - The Software for Tomographic Image Reconstruction.
+Those are only three examples, but we are sure that there are many others that we don't know within UCL. As researchers have become more familiar with the benefits of open source development, as well as, funding bodies around the world, have started to request to open source what is created with public money, at ARC we've seen an increase of researchers being interested to follow those practice.
 
-[^1]: Where "owned" simply denotes project ownership: open source development work done by UCL staff in aid of UCL research or education.
+Open source projects enables collaboration and discoverability, however, open source projects also suffer from support and most of the times it relies on volunteering efforts. As a organisation that uses and produces open source, we should be more aware of our production and dependencies and how to support them better.
+This is the main objective of the Open Source Programme Office we propose. Mapping and cataloguing all the open source we generate helps us to have an overview of where are the needs for our community, and therefore act on it. <!-- Through training, guidance, collaborating, lobbing,  -->
+
+This problem is commonly represented by this xkcd.com webcomic by Randall Munroe, where it represents the fragility of the digital infrastructure.
+
+<center>
+
+**Dependency**
+
+![XKCD comic strip showing a structure form by blocks one on top of each other. With the text on top saying "All modern digital infrastructure". In the bottom right there's a small block that give support to the whole structure above. That's got a text saying "A project some random person in Nebraska has been thanklessly maintaining since 2003".](https://imgs.xkcd.com/comics/dependency_2x.png "Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble.")
+
+*Figure 1: [Dependency comic strip from xkcd.com][xkcd-dep]. Licensed as CC-by-NC*
+
+</center>
+
+<!-- UCL vision + strategic plan. (ARC + OOSS) -->
+As the [Advanced Research Computing Centre (ARC)][arc] has led nationally the creation of research software engineering (and other digital research professional) roles within the sector, 
+and the [Office of Open Science and Scholarship][OOSS] has promoted the adoption of open practices and approaches across universities, 
+this puts UCL at an exceptional position to provide the support that Open Source needs across all the layers in the university and be in the forefront of open source within the UK.
+
+<!-- Footnotes -->
+[^owned]: Where "owned" simply denotes project ownership: open source development work done by UCL staff in aid of UCL research or education.
+[^oldest]: [STIR](https://github.com/UCL/STIR) - The Software for Tomographic Image Reconstruction.
+[^osmap-ucl]: [Open Street Map][osm] is a crowdsourced mapping platform initiated in [2004 at UCL][osmapref] by Steve Coast at CASA
+[^osm-companies]: [Open Street Map list of prominent users][osmap-users] list also some universities, but unfortunately not UCL.
+[^bgi-award]: The 2025 International Prize by the Neuro-Irv and Helga Cooper Foundation Open Science Prizes Selection Committee is organised by The Tanenbaum Open Science Institute. More information in [Sainbury Wellcome Centre press release][swc-pr].
+<!-- End Footnotes -->
+
+<!-- links -->
+[osm]: https://www.openstreetmap.org/
+[osmapref]: https://discovery.ucl.ac.uk/id/eprint/13849/1/13849.pdf
+[osmap-users]: https://welcome.openstreetmap.org/about-osm-community/consumers/
+[bgi]: https://brainglobe.info/about.HTML
+[swc-pr]: https://www.sainsburywellcome.org/web/research-news/brainglobe-initiative-wins-2025-international-prize
+[xkcd-dep]: https://xkcd.com/2347/
+<!-- end links -->
 
 ## What is an OSPO?
 
