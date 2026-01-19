@@ -112,8 +112,14 @@ Though the goals of organisations across these domains differ when establishing 
 - To promote, guide and educate internal and external community members on open source culture from technical, social, political and economic perspectives;
 - To push policy forward that safeguards open source and protects technological sovereignty of the institution.
 
+
+<center>
+
 ![](./Activities-of-academic-OSPO.png)
-*Figure 1: Activities of an Academic OSPO - From [Young, et al. (2024)][young-2024] - Licensed under CC-BY*
+
+*Figure 2: Activities of an Academic OSPO - From [Young, et al. (2024)][young-2024] - Licensed under CC-BY*
+
+</center>
 
 Those activities, however, are not new to OSPOs. Over the years, different groups within organisations have been engaging in some of those activities. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open source software, and open source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
 
