@@ -167,21 +167,59 @@ Open Source is a fundamental component of our research and university infrastruc
   - gain technical sovereignty
 
 
-*mission statement*
+**mission statement** <!-- What and How; Doing now towards goals -->
 > You’ll need to define your project vision, goals and objectives.
 
-Publicly available and licensed reusable material is increasingly understood as a research output or project deliverable.
+To support and train UCL community to reinforcing involvement and collaboration with open source communities, increasing students employability and strengthen industry links.
 
-*explain how it fits a niche or serves a need*
+**vision** <!-- Why | meaning; Building towards the future -->
 
+To establish UCL as a university that nurtures open source development supporting students and staff in their open source needs.
+
+**goals**
+
+- Identify projects that need support (internal and external);
+- Train UCL members on open source technically and culturally;
+- Promote open source infrastructure;
+- Study impact of open source within the university;
+- Collaborate with external communities and industry;
+- Provide legal guidance on licensing and open source contributions.
+
+**objectives**
+
+<!-- what would be the difference between objectvies here and the one set under § Plan? -->
+
+
+> *explain how it fits a niche or serves a need*
+**Risks of not having an OSPO**
 > What is the risk of not having one?
+
+One of the biggest difficulties on large institutions is communication. And this is more aggravated when there's not a central hub.
+In the case of open source, members of our community are mostly self-guided, having to rediscover all from scratch.
+Not having one central hub of training and information on these topics mean keeping the statue quo and our community keeps reinventing rather than collaborating.
+
+Additionally, publicly available and licensed reusable material is increasingly understood as a research output or project deliverables. This is being required and recognised by funding bodies as well as by excellence frameworks. Having an OSPO will help identify those while providing guidance on how to support the long-term sustainability of those outputs.
 
 A major risk that an OSPO mitigates is a legal one.
 One of the mandates of an OSPO is to develop an informed organisation-wide strategy for licensing open source projects and to provide guidance to developers and maintainers.
-In our study, we noted 36.1% of UCL's open-source projects are unlicensed.
+In our recent study, we noted 36.1% of UCL's open-source projects are unlicensed, meaning legally unusable by anyone.
+While we also detected some projects violating licencing rules required. This could result on lawsuits and incur on costs.
 
+Finally, there are also some financial risks,
+without an OSPO, the university
+may spend on closed source products when there are good and cheaper open source alternatives;
+can fall into vendor lock-in leading to inability to pivot away from expensive contracts (at least without significant costs);
+be locked-out in case of geopolitical circumstances[^icc-case];
+take poor choices of open source solutions that lead to expensive failures or support costs.
+Whereas if included open source metrics within the procurement process and help to support teams to develop the skills to maintain that software not just puts UCL in a better position, but it also contributes to improvements for users around the world and to the growth of the internal team.
 
-It will be harder to support our community with what they need, they will reinvent rather than collaborate.
+<!-- footnotes -->
+[^icc-case]: [Microsoft suspend access to email account to an International Criminal Court prosecutor][ms-icc] is a very recent case of situations that could arise when running most of our infrastructures on foreign companies.
+<!-- end footnotes -->
+
+<!-- links -->
+[ms-icc]: https://www.nytimes.com/2025/06/20/technology/us-tech-europe-microsoft-trump-icc.html
+<!-- endlinks -->
 
 ## How would it work at UCL?
 
