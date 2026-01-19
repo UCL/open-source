@@ -105,10 +105,10 @@ An Open Source Programme Office (OSPO) is a body within an organisation to look 
 
 Though the goals of organisations across these domains differ when establishing an OSPO, they create a fabric that helps those organisations to collaborate and combine efforts to maximise the impact (and support) of open source software. Some activities that an OSPO may do are:
 
-- To advocate for Open Source practises between an organisation through community engagement;
+- To advocate for Open Source practises within an organisation through community engagement;
 - To measure usage of and dependency on open (and closed!) source projects;
-- To measure the organisation's impact on open source;
-- To mitigate associate risks (unlicensed code, closed source, etc);
+- To measure UCL's impact on open source;
+- To mitigate associate risks (unlicensed code, vendor lock-in, licensing misuse, etc);
 - To promote, guide and educate internal and external community members on open source culture from technical, social, political and economic perspectives;
 - To push policy forward that safeguards open source and protects technological sovereignty of the institution.
 
@@ -159,19 +159,22 @@ Open Source is a fundamental component of our research and university infrastruc
   - Provide guidance on sustainability, community engagement and licensing.
 - education
   - Train students and staff on the use of and contribution to Open Source projects.
-  - Promote Open source alternatives to tools taught on courses to allow learners improve skills when losing access to closed source tools
+  - Promote open source alternatives to tools used on modules allowing students to continue practising the learnt skills once left UCL and therefore losing access to licensed tools.
 - infrastructure (HPC, Moodle, Portico, HR & Finances, Department administration)
   - Provide support to open source tooling
   - Enable cross-department collaboration
 - community
   - Ease collaboration with different institutions for similar tasks (from research software to infrastructure)
 - policy
-  - Include Open Source solutions and technical sovereignty into UCL procurement,
+  - Include Open Source solutions and digital sovereignty[^sovereignty] into UCL procurement,
 - impact
-  - metrics - what's created within/with help from UCL, what are we depending on. Attract funding and collaborations
-  - skills promoted will help students employment while also attract talent from open source communities
-  - gain technical sovereignty
+  - metrics - what's created within/with help from UCL, what are we depending on. Attract funding and collaborations,
+  - skills promoted will help students employment while also attract talent from open source communities,
+  - gain on digital sovereignty,
+  - leadership experience - mentorship, coaching and collaborations are skills that will be gained as part of successful open-source projects.
 
+
+[^sovereignty]: Ther term digital soverignty refers to an instution being able to exercise control over their technology infrastructure. This becoming more common now a days with the growth of Artificial Intelligence solutions and where the data used to generate the models as the models produced are kept (data residency) as well as who operates and controls the technology and how the data is accessed. 
 
 **mission statement** <!-- What and How; Doing now towards goals -->
 > You’ll need to define your project vision, goals and objectives.
@@ -352,13 +355,13 @@ The OSPO members will look out for funding opportunities that could help to buy 
 > explain how the financial benefits outweigh the project costs.
 
 UCL would be the first UK university to have an OSPO, this provides a leading position that will help
-to attract talent from open source communities,
-through providing open source training, our students will gain employability opportunities and our staff will grow their skills,
-to save licensing costs by using open source alternatives rather than closed source software,
-to avoid time spent reinventing software or falling into licensing incompatibilities,
-to recommend where the university should invest efforts to support sustainability of projects,
+- to attract talent from open source communities,
+- through providing open source training, our students will gain employability opportunities and our staff will grow their skills,
+- to save licensing costs by using open source alternatives rather than closed source software,
+- to avoid time spent reinventing software or falling into licensing incompatibilities,
+- to recommend where the university should invest efforts to support sustainability of projects,
 
-
+<!-- NOTE: Is this sufficient to make it financially sustainable for UCL? -->
 
 ### Organisation
 
