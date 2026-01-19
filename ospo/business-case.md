@@ -10,8 +10,9 @@ crumbs:
 # UCL's Open Source Programme Office
 
 *Executive Summary*
+<!--
 > help them understand the project’s purpose, benefits and implications. Some components of an executive summary include the project overview, business need, proposed solution to the need, cost estimate, return on investment, risks, timeline and a call to action.
-
+-->
 
 Our university as many institutions and organisations around the globe depends on Open Source,
 whether it's software, hardware, data or other resources as research and educational outputs.
@@ -44,8 +45,9 @@ as well as brings visibility in open source communities, attracting workforce an
 [OOSS]: https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholarship
 
 ## Context
-
+<!--
 > context for your project, explaining the problem that it's meant to solve and how it aligns with the organisation's vision and strategic plan
+-->
 
 UCL has a long history of open-source software development for research and open-source educational resources.
 
@@ -177,7 +179,9 @@ Open Source is a fundamental component of our research and university infrastruc
 [^sovereignty]: Ther term digital soverignty refers to an instution being able to exercise control over their technology infrastructure. This becoming more common now a days with the growth of Artificial Intelligence solutions and where the data used to generate the models as the models produced are kept (data residency) as well as who operates and controls the technology and how the data is accessed. 
 
 **mission statement** <!-- What and How; Doing now towards goals -->
+<!--
 > You’ll need to define your project vision, goals and objectives.
+-->
 
 To support and train UCL community to reinforcing involvement and collaboration with open source communities, increasing students employability and strengthen industry links.
 
@@ -199,9 +203,11 @@ To establish UCL as a university that nurtures open source development supportin
 <!-- what would be the difference between objectvies here and the one set under § Plan? -->
 
 
+<!--
 > *explain how it fits a niche or serves a need*
+-->
+
 **Risks of not having an OSPO**
-> What is the risk of not having one?
 
 One of the biggest difficulties on large institutions is communication. And this is more aggravated when there's not a central hub.
 In the case of open source, members of our community are mostly self-guided, having to rediscover all from scratch.
@@ -238,6 +244,7 @@ This support is expected to be provided in-kind by different departments (0.2-0.
 
 ### Plan
 
+<!--
 *project definition*
 > provide general information about your projects, such as the business objectives that will be achieved and the project plan outline. It offers a comprehensive overview of the project including its objectives and scope. Here, include details such as the objectives, stakeholders, scope, expected outcomes and constraints.
 
@@ -246,6 +253,7 @@ This support is expected to be provided in-kind by different departments (0.2-0.
 
 *risk assessment*
 > identify and analyse the risks associated with your project activities. From there, you can assess the likelihood and impact of each and rank them based on this information. The risk assessment makes it easier to focus on the most pressing risks and includes a mitigation strategy to reduce the impact in case the risk comes to fruition.
+-->
 
 #### Continue work
 
@@ -326,7 +334,7 @@ This should cover licensing possibilities as well as business models.
 [osci-award]: https://www.ucl.ac.uk/library/open-science-research-support/open-science/about-office-open-science-scholarship/ucl-open-science
 <!-- end links -->
 
-
+<!--
 *project scope*
 > all the tasks and deliverables that will be executed in your project to reach your business objectives
 
@@ -335,11 +343,13 @@ This should cover licensing possibilities as well as business models.
 
 *Marketing Strategy*
 > distribution channels, pricing, target customers, among other aspects of your marketing plan or strategy.
-
+-->
 
 #### Resources
 *project budget*
+<!--
 > Your budget is an estimate of everything in your project plan and what it will cost to complete the project over the scheduled time allotted. Personnel costs, software or hardware costs, consulting fees, training costs and contingency funds
+-->
 
 At the moment we have been developing the office with a 0.3 FTE provided by ARC.
 We estimate that for year 1 we will required a combined effort of 1 FTE,
@@ -352,7 +362,9 @@ Additionally, there will be costs required to participation on conferences. Thos
 The OSPO members will look out for funding opportunities that could help to buy out time from UCL members or pay for students to carry out some of the propose tasks.
 
 *Financial Appraisal*
+<!--
 > explain how the financial benefits outweigh the project costs.
+-->
 
 UCL would be the first UK university to have an OSPO, this provides a leading position that will help
 - to attract talent from open source communities,
@@ -366,7 +378,9 @@ UCL would be the first UK university to have an OSPO, this provides a leading po
 ### Organisation
 
 *Project Governance*
+<!--
 > ll the project management rules and procedures that apply to your project. For example, it defines the roles and responsibilities of the project team members and the framework for decision-making.
+-->
 
 The UCL OSPO will comprise a core team from ARC and _at least one_ delegated representative from each team or department in the university that has a stake in open source.
 
@@ -384,7 +398,9 @@ The emphasis is on _at least_, because we aim to encourage members from these an
 This committee will report to UCL's digital research board (ARC) and the Open Science & Scholarship Committee.
 
 *Communication Plan*
+<!--
 > The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and has a shared understanding.
+-->
 
 The OSPO will follow what's known as Open Development practices, publishing everything in the website with all the decisions and minutes publicly available.
 At the moment this is available on the [wiki of this repository][wiki].
