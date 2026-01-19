@@ -372,21 +372,39 @@ These teams are:
 
 The emphasis is on _at least_, because we aim to encourage members from these and other teams to join voluntarily.
 
-Governance to use UCL's structure digital research board (ARC) or the one from Library.
-
-Roles:
-
-working groups
-
+This committee will report to UCL's digital research board (ARC) and the Open Science & Scholarship Committee.
 
 *Communication Plan*
 > The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and has a shared understanding.
+
+The OSPO will follow what's known as Open Development practices, publishing everything in the website with all the decisions and minutes publicly available.
+At the moment this is available on the [wiki of this repository][wiki].
+
 *Progress Reports*
 
+Yearly reports on activities and outcomes are and will be published on the website.
+Metrics results will be published every six months on the website.
+
+<!-- links -->
+[wiki]: https://github.com/UCL/open-source/wiki
+<!-- end links -->
 ### Supporters
+
+ARC supports this initiative, providing at the moment 0.2 FTE and funding the 4-week deployment of the open source metrics tool last year.
+
+<!-- Can any provide FTEs or financial support? -->
+The Neuroinformatics Unit at the Sainsbury Welcome Centre supports the OSPO and has developed an Open Source week workshop aligned with the OSPO objectives.
+
+ISD ...
+
+CASA ...
+
 
 ## How will we know if this worked out?
 *Success Criteria*
+
+If the community feels that the OSPO has supported them. For this we will keep some metrics on our efforts, like people helped and projects supported.
+Community activities and participation will provide insights of whether we are doing a good work reaching all the departments and their interests.
 
 ## References
 
