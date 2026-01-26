@@ -31,10 +31,10 @@ a medium to support grant applications and compliance with respect to open sourc
 a hub of communication between the UCL community, innovation and enterprise team and external partners;
 and an advocacy platform for promoting open source culture and practices, producing policy recommendations for the university.
 
-To achieve this, we propose to build on what UCL's [Advanced Research Computing Centre][arc] (ARC) and [Office for Open Science and Scholarship][OOSS] have created,
+To achieve this, we propose to build on what UCL's [Advanced Research Computing Centre][arc] (ARC) and [Office for Open Science and Scholarship][ooss] have created,
 and add components through out the next five years.
 Costs will be shared across different departments across UCL,
-starting with the current 0.25 FTE provided by ARC and increasing it to a shared 3 FTE across the university at the end of this period.
+starting with the current 0.3 FTE provided by ARC and increasing it to a shared 3 FTE across the university at the end of this period.
 
 Being the first UK university to have an OSPO will provide a service not available elsewhere in the country to our researchers, staff and students.
 It will also bring UCL greater visibility in open source communities, attracting talented workers and students, as well as investment from external bodies.
@@ -43,7 +43,7 @@ It will also bring UCL greater visibility in open source communities, attracting
 [sospaper]: https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html#introMenu
 [harvard-oss]: http://dx.doi.org/10.2139/ssrn.4693148
 [arc]: https://www.ucl.ac.uk/arc
-[OOSS]: https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholarship
+[ooss]: https://www.ucl.ac.uk/library/open-science-research-support/ucl-office-open-science-and-scholarship
 
 ## Context
 <!--
@@ -83,7 +83,7 @@ This problem is commonly represented by this xkcd.com webcomic by Randall Munroe
 
 <!-- UCL vision + strategic plan. (ARC + OOSS) -->
 UCL's [Advanced Research Computing Centre (ARC)][arc] has led nationally the creation of research software engineering (and other digital research technical professional) roles within the sector.
-Similarly the [Office of Open Science and Scholarship][OOSS] has promoted the adoption of open practices and approaches across universities.
+Similarly the [Office of Open Science and Scholarship][ooss] has promoted the adoption of open practices and approaches across universities.
 This puts UCL in an exceptional position to provide the support that open source needs across all parts of the university, and be at the forefront of open source within the UK.
 
 <!-- Footnotes -->
@@ -114,12 +114,12 @@ An Open Source Programme Office (OSPO) is a body within an organisation to look 
 
 Though the goals of organisations across these domains differ when establishing an OSPO, they create a fabric that helps those organisations to collaborate and combine efforts to maximise the impact (and support) of open-source software. Some activities that an OSPO may do are:
 
-- To advocate for open source practises within an organisation through community engagement;
-- To measure usage of and dependency on open (and closed!) source projects;
-- To measure UCL's impact on open source;
-- To mitigate associate risks (unlicensed code, vendor lock-in, licensing misuse, etc);
-- To promote, guide and educate internal and external community members on open source culture from technical, social, political and economic perspectives;
-- To push policy forward that safeguards open source and protects the technological sovereignty of the institution.
+- to advocate for open source practises within an organisation through community engagement;
+- to measure usage of and dependency on open (and closed!) source projects;
+- to measure UCL's impact on open source;
+- to mitigate associate risks (unlicensed code, vendor lock-in, licensing misuse, etc);
+- to promote, guide and educate internal and external community members on open source culture from technical, social, political and economic perspectives;
+- to push policy forward that safeguards open source and protects the technological sovereignty of the institution.
 
 
 <center>
@@ -312,7 +312,7 @@ Those courses will be available to all the university through Organisational Dev
 The OPSO will promote existing and develop new opportunities for students to collaborate with open source communities throughout their degree.
 Through those opportunities, students will be interacting with various industries that are open source users and contributors.
 We are already aware of relevant Computer Science modules and master programmes[^csprogs],
-and will build from this to cover all programmes where students develop software, not just STEM disciplines.
+and will build from this to cover all programmes where students develop software or hardware, not just STEM disciplines.
 
 Collaborations will be formed with established international open source hackathons such as UN Hackathon or NASA Open Science.
 
@@ -406,7 +406,8 @@ These teams include:
 
 The emphasis is on _at least_, because we aim to encourage members from these and other teams to join voluntarily.
 
-This committee will report to UCL's [Digital Research Board](https://www.ucl.ac.uk/advanced-research-computing/digital-research-and-innovation-board-terms-reference) and the Open Science & Scholarship Committee.
+This committee will report to UCL's [Digital Research Board][drb] and the Open Science & Scholarship Committee.
+<!-- Does OSSC has a website? -->
 
 *Communication Plan*
 <!--
@@ -423,10 +424,11 @@ Metrics results will be published every six months on the website.
 
 <!-- links -->
 [wiki]: https://github.com/UCL/open-source/wiki
+[drb]: https://www.ucl.ac.uk/advanced-research-computing/digital-research-and-innovation-board-terms-reference
 <!-- end links -->
 ### Supporters
 
-ARC supports this initiative, providing at the moment 0.2 FTE and funding the 4-week deployment of the open source metrics tool last year.
+ARC supports this initiative, providing at the moment 0.3 FTE and funding the 4-week deployment of the open source metrics tool last year.
 
 <!-- Can any provide FTEs or financial support? -->
 The Neuroinformatics Unit at the Sainsbury Welcome Centre supports the OSPO and has developed an open source summer school aligned with the OSPO objectives.
