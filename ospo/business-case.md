@@ -1,15 +1,16 @@
 ---
 layout: default
-title: Draft Business Case
+title: Proposed Business Case
 crumbs:
   - link: /ospo/business-case
-    text: "Draft Business Case for UCL's Open Source Programme Office"
+    text: "Proposed Business Case for UCL's Open Source Programme Office"
 ---
 
 
-# UCL's Open Source Programme Office
+# UCL's Open Source Programme Office - Business Case
 
-*Executive Summary*
+#### *Executive Summary*
+
 <!--
 > help them understand the project’s purpose, benefits and implications. Some components of an executive summary include the project overview, business need, proposed solution to the need, cost estimate, return on investment, risks, timeline and a call to action.
 -->
