@@ -65,9 +65,9 @@ As researchers have become more familiar with the benefits of open source develo
 
 Open source projects enable collaboration and discoverability.
 However, open source projects often also suffer from a lack of support and rely heavily on volunteer effort.
-As a organisation that uses and produces open source, we should be more aware of our production and dependencies, and how to support them better.
+As an organisation that uses and produces open source, we should be more aware of our production and dependencies, and how to support them better.
 This is the main objective of the Open Source Programme Office we propose.
-Mapping and cataloguing all the open source we use and generate helps us to have an overview of where the needs are within our community, and therefore act on them. <!-- Through training, guidance, collaborating, lobbing,  -->
+Mapping and cataloguing all the open source we use and generate, as well as what we depend on, helps us to have an overview of where the needs are within our community, and therefore act on them. <!-- Through training, guidance, collaborating, lobbing,  -->
 
 This problem is commonly represented by this xkcd.com webcomic by Randall Munroe, which represents the fragility of modern digital infrastructure.
 
@@ -112,7 +112,7 @@ An Open Source Programme Office (OSPO) is a body within an organisation to look 
 [^OSPO-public]: Covering this space there is the [EU OSPO Network][ospo-eu] led by the [EC OSPO][ospo-ec], and the [Public Sector OSPOs Network][ospo-public]. They include OSPOs from the [United Nations][ospo-un]; country-wide examples like the [French government][ospo-fr] or the [Netherlands](https://opensourcewerken.nl/); cities such as [City of Paris][ospo-paris] or [Munich][ospo-munich]; and specialised public organisations like [Digital Service at the Centers for Medicare and Medicaid Services in US][ospo-cms].
 <!-- End Footnotes -->
 
-Though the goals of organisations across these domains differ when establishing an OSPO, they create a fabric that helps those organisations to collaborate and combine efforts to maximise the impact (and support) of open-source software. Some activities that an OSPO may do are:
+Though the goals of organisations across these domains differ when establishing an OSPO, they create a fabric that helps those organisations to collaborate and combine efforts to maximise the impact (and support) of open-source products. Some activities that an OSPO may do are:
 
 - to advocate for open source practises within an organisation through community engagement;
 - to measure usage of and dependency on open (and closed!) source projects;
@@ -132,7 +132,7 @@ Though the goals of organisations across these domains differ when establishing 
 
 These activities, however, are not new to OSPOs. Over the years, different groups within organisations have been engaging in some of them. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open source software, and open source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
 
-A more detailed definition of an academic OSPO can be found in [Young, et al. (2024)][young-2024]
+A more detailed definition of an academic OSPO can be found in [Young, et al. (2024)][young-2024].
 
 [LF]: https://www.linuxfoundation.org/
 [eclipse]: https://www.eclipse.org/
@@ -166,8 +166,8 @@ Open Source is a fundamental component of our research and university infrastruc
 
 - Research
   - Provide guidance on sustainability, community engagement and licensing to increase reuse and impact of UCL's software.
-- education
-  - Train students and staff on the use of and contribution to Open Source projects.
+- Education
+  - Train students and staff on the use of and contribution to open source projects.
   - Promote open source alternatives to tools used in modules, allowing students to continue practising the learnt skills once they have left UCL and therefore lose access to licensed tools.
 - Digital infrastructure
   - Reveal the extent to which business-critical systems such as Moodle, Portico, HR and financial management, and departmental administration are dependent on open source.
@@ -183,8 +183,8 @@ Open Source is a fundamental component of our research and university infrastruc
   - Promote development of skills that will help students gain employment. Mentorship, coaching and collaborations are skills that will be gained as part of successful open-source projects.
   - Attract talent from open source communities.
 
+[^sovereignty]: The term digital sovereignty refers to an institution being able to exercise control over its technology infrastructure. It is also referred as digital idependence of vendor lock-in. This is an increasing challenge with the growth of Artificial Intelligence solutions; factors such as where the data used to generate the models is stored (data residency), as well as the models themselves, who operates and controls the technology, and how the data are accessed, can all lead to a lack of control and complex risk landscape.
 
-[^sovereignty]: The term digital sovereignty refers to an institution being able to exercise control over its technology infrastructure. This is an increasing challenge with the growth of Artificial Intelligence solutions; factors such as where the data used to generate the models is stored (data residency), as well as the models themselves, who operates and controls the technology, and how the data are accessed, can all lead to a lack of control and complex risk landscape.
 
 **mission statement** <!-- What and How; Doing now towards goals -->
 <!--
