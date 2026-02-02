@@ -69,17 +69,19 @@ As an organisation that uses and produces open source, we should be more aware o
 This is the main objective of the Open Source Programme Office we propose.
 Mapping and cataloguing all the open source we use and generate, as well as what we depend on, helps us to have an overview of where the needs are within our community, and therefore act on them. <!-- Through training, guidance, collaborating, lobbing,  -->
 
-This problem is commonly represented by this xkcd.com webcomic by Randall Munroe, which represents the fragility of modern digital infrastructure.
+This problem is commonly represented by [the Dependency xkcd.com webcomic by Randall Munroe][xkcd-dep] (shown below), which represents the fragility of modern digital infrastructure.
 
-<center>
+{% include figure.html
+   path="https://imgs.xkcd.com/comics/dependency_2x.png"
+   overtitle="Dependency"
+   alt="XKCD comic strip showing a structure formed by blocks one on top of each other. The text on top says ''All modern digital infrastructure''. In the bottom right there's a small block that gives support to the whole structure above, labelled ''A project some random person in Nebraska has been thanklessly maintaining since 2003''"
+   title="Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble."
+   fignum="1"
+   caption="Dependency comic strip from xkcd.com."
+   captionurl="https://xkcd.com/2347/"
+   captionlicense="CC-By-NC"
+   height="300px" %}
 
-**Dependency**
-
-![XKCD comic strip showing a structure formed by blocks one on top of each other. The text on top says "All modern digital infrastructure". In the bottom right there's a small block that gives support to the whole structure above, labelled "A project some random person in Nebraska has been thanklessly maintaining since 2003".](https://imgs.xkcd.com/comics/dependency_2x.png "Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble.")
-
-*Figure 1: [Dependency comic strip from xkcd.com][xkcd-dep]. Licensed as CC-by-NC*
-
-</center>
 
 <!-- UCL vision + strategic plan. (ARC + OOSS) -->
 UCL's [Advanced Research Computing Centre (ARC)][arc] has led nationally the creation of research software engineering (and other digital research technical professional) roles within the sector.
@@ -123,13 +125,13 @@ Though the goals of organisations across these domains differ when establishing 
 
 Those activities refer to all areas of the organisation, whether research, teaching or their business side, while promoting internal collaboration between departments and external collaboration across institutions.
 
-<center>
-
-![](./Activities-of-academic-OSPO.png)
-
-*Figure 2: Activities of an Academic OSPO - From [Young, et al. (2024)][young-2024] - Licensed under CC-BY*
-
-</center>
+{% include figure.html
+   path="./Activities-of-academic-OSPO.png"
+   alt="A set of circles with arrows pointing to a central larger circle with the acronym OSPO written in the Centre. Each of the small circles contain a small icon related with the activity they refer to and coloured differently of the rest. There's also a text description for each circle, and they say: Developing and sharing best practices; Educational efforts; Working with Tech Transfer and External Partners; Tools and infrastructure to support OSS; Community Building; Supporting the creation of new OSS by the academic community; Advocacy and Policy; and, Funding and financial support."
+   fignum="2"
+   caption="Common activities managed by an academic OSPO. From <a href='https://doi.org/10.5281/zenodo.13910682'>Young, et al. (2024)</a>."
+   captionlicense="CC-By"
+   height="300px" %}
 
 These activities, however, are not new to OSPOs. Over the years, different groups within organisations have been engaging in some of them. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open-source software, and open-source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
 

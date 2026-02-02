@@ -79,9 +79,29 @@ li.inactive {
 
 .image-post {
     text-align: center;
-    height: 300px;
 }
-.image-post
-img {
-    height: 300px;
+.image-post figure {
+  display: inline-block;
+  border: thin silver solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 220px;
+  margin: auto;
+}
+
+.image-post figcaption {
+  background-color: #FEFEFE;
+  color: gray;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+  width: 35%;
+  position: relative;
+  left: 30%;
+}
+
+.image-post figure img {
+    width: auto;
+    display: block;
 }

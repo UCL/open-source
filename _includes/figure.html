@@ -1,0 +1,13 @@
+<figure class="image-post">
+  {% if include.overtitle %}<h5>{{ include.overtitle }}</h5>{% endif %} 
+  <img src="{{ include.path }}" {% if include.title %}title="{{ include.title }}"{% endif %} {% if include.width %}width="{{ include.width }}"{% endif %} {% if include.height %}height="{{ include.height }}" style="height: {{ include.height }}; width: auto;"{% endif %} alt="{{ include.alt }}" >
+  {% if include.caption %}  
+  <figcaption class="text-center">
+    {% if include.fignum %}<b>Figure {{ include.fignum }}: </b>{% endif -%}
+    {% if include.captionurl %}<a href="{{ include.captionurl }}">{% endif -%}
+      {{ include.caption }}
+    {% if include.captionurl %} </a> {% endif -%}
+    {% if include.captionlicense %} Licensed as {{ include.captionlicense }}. {% endif -%}
+  </figcaption>  
+  {% endif %}  
+</figure>  
