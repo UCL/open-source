@@ -76,3 +76,12 @@ li.inactive {
     margin-bottom: 0px;
   }
 }
+
+.image-post {
+    text-align: center;
+    height: 300px;
+}
+.image-post
+img {
+    height: 300px;
+}
