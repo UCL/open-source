@@ -189,9 +189,12 @@ An OSPO in UCL will benefit the following areas.
   - Reveal the extent to which business-critical systems such as Moodle, Portico, HR and financial management, and departmental administration are dependent on open source.
   - Provide support for the use of open-source tooling, reducing procurement costs.
   - Enable cross-department collaboration on locally developed solutions.
+  - Create and surface Digital Public Goods to reduce duplication of efforts and maximise funding.
 - Community
+  - Coordinate a matrix of experts throughout the university.
   - Facilitate collaboration with other institutions for similar tasks.
 - Policy
+  - Define a strategic posture around open source across all the areas.
   - Include open-source solutions and digital sovereignty into UCL procurement decisions.
 - Measuring and enhancing impact
   - Collate metrics on what is created within/with help from UCL, and what we depend on.
