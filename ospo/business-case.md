@@ -57,7 +57,7 @@ The oldest[^oldest] of these projects dates back to 1997, a decade before the Gi
 We know that UCL has given birth to open source communities such as the [Open Street Map][osm][^osmap-ucl], which was supported and hosted by UCL from 2004 when it was created, to at least 2008.
 This platform provides open-source-licensed map data to everyone, free to use, edit and distribute.
 It is used by many mapping applications, transport companies, government agencies, humanitarian organisations, news sites and websites[^osm-companies].
-A more recent example is the [BrainGlobe Initiative][bgi] that was established by researchers at the Sainsbury Wellcome Centre and the Technical University of Munich around 2020.
+A more recent example is the [BrainGlobe Initiative][bgi] that was established by researchers at the Sainsbury Wellcome Centre and the Technical University of Munich in 2020.
 They have developed a whole ecosystem of research software tools, and nurture a community of researchers that was, last year, recognised by receiving an international award for its contribution to open, accessible and collaborative neuroscience[^bgi-award]. 
 
 Those are only three examples of many we could quote, and we are sure that there are many others that we don't know within UCL.
@@ -91,7 +91,7 @@ This puts UCL in an exceptional position to provide the support that open source
 [^oldest]: [STIR](https://github.com/UCL/STIR) - The Software for Tomographic Image Reconstruction.
 [^osmap-ucl]: [Open Street Map][osm] is a crowdsourced mapping platform initiated in [2004 at UCL][osmapref] by Steve Coast at the Bartlett Centre for Advanced Spatial Analysis (CASA).
 [^osm-companies]: [Open Street Map list of prominent users][osmap-users] lists also some universities, but unfortunately not UCL.
-[^bgi-award]: The 2025 International Prize by the Neuro-Irv and Helga Cooper Foundation Open Science Prizes Selection Committee is organised by The Tanenbaum Open Science Institute. More information is in the [Sainbury Wellcome Centre press release][swc-pr].
+[^bgi-award]: The 2025 International Prize by the Neuro-Irv and Helga Cooper Foundation Open Science Prizes Selection Committee is organised by The Tanenbaum Open Science Institute. More information is available in the [Sainbury Wellcome Centre press release][swc-pr].
 <!-- End Footnotes -->
 
 <!-- links -->
@@ -116,11 +116,12 @@ Though the goals of organisations across these domains differ when establishing 
 
 - to advocate for open source practises within an organisation through community engagement;
 - to measure usage of and dependency on open (and closed!) source projects;
-- to measure UCL's impact on open source;
+- to measure the organisation's impact on open source;
 - to mitigate associate risks (unlicensed code, vendor lock-in, licensing misuse, etc);
 - to promote, guide and educate internal and external community members on open source culture from technical, social, political and economic perspectives;
-- to push policy forward that safeguards open source and protects the technological sovereignty of the institution.
+- to push policy forward that safeguards open source and protects the technological sovereignty[^sovereignty] of the institution.
 
+Those activities refer to all areas of the organisation, whether research, teaching or their business side, while promoting internal collaboration between departments and external collaboration across institutions.
 
 <center>
 
@@ -182,38 +183,11 @@ Open Source is a fundamental component of our research and university infrastruc
   - Use data to attract further funding and collaborations.
   - Promote development of skills that will help students gain employment. Mentorship, coaching and collaborations are skills that will be gained as part of successful open-source projects.
   - Attract talent from open source communities.
+  - Reduce vendor lock-in risks.
 
-[^sovereignty]: The term digital sovereignty refers to an institution being able to exercise control over its technology infrastructure. It is also referred as digital idependence of vendor lock-in. This is an increasing challenge with the growth of Artificial Intelligence solutions; factors such as where the data used to generate the models is stored (data residency), as well as the models themselves, who operates and controls the technology, and how the data are accessed, can all lead to a lack of control and complex risk landscape.
-
-
-**mission statement** <!-- What and How; Doing now towards goals -->
-<!--
-> You’ll need to define your project vision, goals and objectives.
--->
-
-To support and train the UCL community to reinforce involvement and collaboration with open source communities, increasing our research impact and students' employability, strengthening industry links, and reducing costs.
-
-**vision** <!-- Why | meaning; Building towards the future -->
-
-To establish UCL as a university that nurtures open source development, supporting students and staff in their open source needs.
-
-**goals**
-
-- Identify projects that need support (internal and external);
-- Train UCL members on open source technically and culturally;
-- Promote open source infrastructure;
-- Study impact of open source within the university;
-- Collaborate with external communities and industry;
-- Provide legal guidance on licensing and open source contributions.
-
-**objectives**
-
-<!-- what would be the difference between objectvies here and the one set under § Plan? -->
+[^sovereignty]: The term technological or digital sovereignty refers to an institution being able to exercise control over its technology infrastructure. It is also referred as digital idependence of vendor lock-in. This is an increasing challenge with the growth of Artificial Intelligence solutions; factors such as where the data used to generate the models is stored (data residency), as well as the models themselves, who operates and controls the technology, and how the data are accessed, can all lead to a lack of control and complex risk landscape.
 
 
-<!--
-> *explain how it fits a niche or serves a need*
--->
 
 **Risks of not having an OSPO**
 
@@ -266,11 +240,9 @@ This support is expected to be provided in-kind by different departments (0.2-0.
 
 #### Continue work
 
-Through the past years, members of the proposed OSPO have been already providing some community support as set out below. This is expected to continue.
-
-Some members of UCL have been participating in Summer of Code programmes such as Google's. We help to organise and advertise those throughout the student community.
-
-There are already communities that are related with open source across campus, such as Linux User Group, Latex User Group, Python Community of Practice, R Users, and various code clubs and student societies. The OSPO will support and promote those community initiatives.
+Through the [past years][reports], members of the proposed OSPO have been already providing some community support as set out below. This is expected to continue.
+For example, we will continue helping to organise and advertise Summer of Code programmes such as [Google's, where some members of UCL have been participating][ucl-gsoc] over years, throughout the student community.
+The OSPO will maintain the support to the already existing communities that are related with open source across campus, such as [Linux User Group][lug], [Latex User Group][Latug], [Python Community of Practice][PCoC], [R User Group][Rusers], and various code clubs and student societies. 
 
 We are working with funding bodies and external stakeholders to promote open source, such as UKRI, DiRAC, Software Sustainability Institute. Activities include helping to draft future policy and funding calls.
 
@@ -283,6 +255,8 @@ Additionally, we will start to measure external projects the UCL community contr
 Impact reports will be published every six months from the data extracted.
 
 The OSPO committee will be formed from UCL staff who have already engaged with us, and part of their commitment will be to define the membership terms and structure of this committee.
+Additionally, the committee will start looking at details of UCL finance aspects that OSPO activities could have more impact and propose projects to implement them,
+and evaluate the feasibility to endorse [UN Open Source Principles][un-principles].
 
 In collaboration with ARC's education team, the OSPO team will map and advertise which programmes, training and resources exist in the university related to open source.
 For example, the ARC-led [Centre for Doctoral Training in Collaborative Computational Modelling at the Interface][ccmi] has a strong emphasis on learning to contribute to open source communities.
@@ -293,12 +267,13 @@ This may require applying for a small grant to pay students to carry out the ana
 
 The OSPO will collaborate with the UCL Libraries for the [Open Science awards][osci-award] open-source component.
 
-Open a digital forum for the UCL community ask questions and provide answers about open source topics. This will first start as an email forum, but it may develop into something else as the community grows.
+Open a digital forum for the UCL community ask questions and provide answers about open source topics. <!-- This will first start as an email forum, but it may develop into something else as the community grows. / No need to define this for now. -->
 
 #### Year 2-3
 
 Data collection and metrics analysis will be improved to measure citations of software in publications, and risks associated with software dependencies and licensing.
-Additionally, the same analysis will be done on closed software developed within UCL. This will highlight risks and needs of that closed source software while encouraging inner source[^innersource] practices within UCL.
+Additionally, the same analysis will be done on closed software developed within UCL.
+This will highlight risks and needs of that closed source software while encouraging inner source[^innersource] practices within UCL.
 This will require access to organisations and repositories we may not have at the moment and stakeholders will need to promote the need.
 This is also an important security exercise and we expect ISD's Information Security Group to be involved.
 
@@ -335,6 +310,11 @@ This should cover licensing possibilities as well as business models.
 <!-- end footnotes -->
 
 <!-- links -->
+[reports]: ./documents.html#yearly-reports
+[lug]: https://github-pages.ucl.ac.uk/linux/
+[Latug]: https://teams.microsoft.com/l/team/19%3A4669171c71b74d9ea23c30f7e3b9195a%40thread.skype/conversations?groupId=2435df9e-6f6e-4f1e-8f4c-e048dcabb2b8&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2
+[PCoC]: https://teams.microsoft.com/l/team/19%3A85c78bc816764ae5982ae7b4997b2f47%40thread.skype/conversations?groupId=a3786c11-7532-44a2-a8eb-547382638405&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2
+[Rusers]: https://www.ellenwebborn.com/rusergroup/
 [ccmi]: https://ccmi-cdt.org/
 [curioss]: https://curioss.org/
 [chaoss]: https://chaoss.community/
@@ -343,6 +323,8 @@ This should cover licensing possibilities as well as business models.
 [uc-survey]: https://www.youtube.com/watch?v=fFoLmb6o7Z8
 [uc-survey-abs]: https://web.archive.org/web/20250905052446/https://2025.fossy.us/schedule/presentation/334/
 [osci-award]: https://www.ucl.ac.uk/library/open-science-research-support/open-science/about-office-open-science-scholarship/ucl-open-science
+[un-principles]: https://unite.un.org/en/news/sixteen-organizations-endorse-un-open-source-principles
+[ucl-gsoc]: https://blogs.ucl.ac.uk/research-software-development/arc-%E2%9D%A4-google-summer-of-code/
 <!-- end links -->
 
 <!--
@@ -366,7 +348,7 @@ At the moment we have been developing the office with 0.3 FTE provided by ARC.
 We estimate that for year 1 we will required a combined effort of 1 FTE,
 and aim to increase that to reach 3 FTE by year 5.
 
-We believe this could be done by contributions from other departments with a maximum of 1 FTE from ARC.
+We believe this could be done by contributions from other departments with a maximum of 1 FTE from ARC[^pending].
 
 Additionally, there will be costs required for participation in conferences. Those costs could be covered by the department of the delegate.
 
@@ -377,14 +359,19 @@ The OSPO members will look out for funding opportunities that could buy out time
 > explain how the financial benefits outweigh the project costs.
 -->
 
+With our current information we can't provide a detailed cost analysis.
+However,  we expect on year 1 that the  OSPO committee will have a better visibility on UCL expenditure to investigate and propose procurement, training and recruitment actions and practices that will benefit the sustainability of the OSPO throughout the years.
+Therefore, being able to quantify what cost savings to UCL are accomplished through the OSPO activities.
+For now, we believe that the main work proposed can be carried out by refocusing existing core-funded staff to work together via a single team.
+Whereas, some OSPO activities will require additional funding to cover those extra efforts (FTE) needed.
+
+Nevertheless,
 UCL would be the first UK university to have an OSPO, this provides a leading position that will help
 - to attract talent from open source communities,
 - through providing open source training, our students will gain employability opportunities and our staff will grow their skills,
 - to save licensing costs by using open-source alternatives rather than closed source software,
 - to avoid time spent reinventing software or falling into licensing incompatibilities,
 - to recommend where the university should invest efforts to support sustainability of projects,
-
-<!-- NOTE: Is this sufficient to make it financially sustainable for UCL? -->
 
 ### Organisation
 
@@ -400,11 +387,12 @@ These teams include:
 - The Sainsbury Wellcome Centre's Neuroinformatics Unit;
 - The Office of Open Science and Scholarship;
 - ISD;
-- Digital education;
+- Digital Education;
 - The Bartlett Centre for Advanced Spatial Analysis;
 - and Mechanical Engineering.
 
 The emphasis is on _at least_, because we aim to encourage members from these and other teams to join voluntarily.
+Additionally, we would like participation from Innovation & Enterprise and UCLB to collaborate on the guidance provided about the commercialisation of open-source products.
 
 This committee will report to UCL's [Digital Research Board][drb] and the Open Science & Scholarship Committee.
 <!-- Does OSSC has a website? -->
@@ -419,13 +407,17 @@ At the moment this is available on the [wiki of this repository][wiki].
 
 *Progress Reports*
 
-Yearly reports on activities and outcomes are and will be published on the website.
+[Yearly reports on activities and outcomes][reports] are and will be published on the website.
 Metrics results will be published every six months on the website.
 
+<!-- footnotes -->
+[^pending]: ARC maximum contribution is subject to ARC Senior Leadership Team approval.
+<!-- end footnotes -->
 <!-- links -->
 [wiki]: https://github.com/UCL/open-source/wiki
 [drb]: https://www.ucl.ac.uk/advanced-research-computing/digital-research-and-innovation-board-terms-reference
 <!-- end links -->
+
 ### Supporters
 
 ARC supports this initiative, providing at the moment 0.3 FTE and funding the 4-week deployment of the open source metrics tool last year.
@@ -439,18 +431,67 @@ CASA ...
 
 
 ## How will we know if this worked out?
-*Success Criteria*
+
+The OSPO will start with the following success criteria:
 
 - Whether the UCL community feels that the OSPO has supported them.
   We will record engagement with and feedback on our efforts, such as people trained, advice given and projects supported.
 - Whether the OSPO's activities have engaged every part of UCL, supporting all faculties, departments and centres.
+- Better tracking of UCL-produced open-source software will allow us to assess whether its use externally and impact have increased.
+- Whether OSPO sustainability is been demonstrated.
 - Longer term, quantifiable financial impacts will be tracked, such as the replacement of closed-source products with open alternatives leading to lower procurement and licensing costs.
-- Better tracking of UCL-produced open source software will allow us to assess whether its use externally and impact have increased.
+- Our activities attracts external funding and opportunities.
+
+## Mision, vision and goals
+
+Starting point for the committee that will be formed and vote on them:
+
+**Mission Statement**
+
+<!-- What and How; Doing now towards goals
+  > You’ll need to define your project vision, goals and objectives.
+-->
+
+To support and train the UCL community to reinforce involvement and collaboration with open source communities, increasing our research impact and students' employability, strengthening industry links, and reducing costs.
+
+**Vision**
+<!-- Why | meaning; Building towards the future -->
+
+To establish UCL as a university that nurtures open source development, supporting students and staff in their open source needs.
+
+**Goals**
+
+- Identify projects that need support (internal and external);
+- Train UCL members on open source technically and culturally;
+- Promote open-source infrastructure;
+- Study impact of open source within the university;
+- Collaborate with external communities and industry;
+- Provide legal guidance on licensing and open source contributions.
+
+<!-- **objectives** -->
+
+<!-- what would be the difference between objectvies here and the one set under § Plan? -->
+
+
+<!--
+> *explain how it fits a niche or serves a need*
+-->
+
 
 ## References
 
-- https://www.cni.org/topics/ci/guide-to-set-up-university-open-source-programs-office-ospo
-- https://research.redhat.com/blog/article/building-a-university-ospo-bolstering-academic-research-through-open-source/
-- https://opensource.com/article/20/10/rit-ospo
-- https://opensource.utexas.edu/participation-pathway
+- [University champions open source with new OSPO][rit-opensource] - Stephen Jacobs & Scott Bureau (2020)
+- [Guide To Set Up University Open Source Programs Office (OSPO)][cni-guide] - Sayeed Choudhury (2022)
+- [Mandate for the CERN Open Source Program Office (OSPO)][cern-mandate] - CERN (2023)
+- [Building a university OSPO: Bolstering academic research through open source][ucsc-redhat] - Stephanie Lieggi (2024)
+- [A Definition of an Academic OSPO][young-2024] - Jeffrey Young et al. (2024)
+- [The Value of Open Source Software][harvard-oss] - Manuel Hoffmann, Frank Nagle and Yanuo Zhou (2024)
+- [2025 Open Source Security and Risk Analysis][sospaper] - BlackDuck (2025)
+
+<!-- extra links  -->
+[cni-guide]: https://www.cni.org/topics/ci/guide-to-set-up-university-open-source-programs-office-ospo
+[ucsc-redhat]: https://research.redhat.com/blog/article/building-a-university-ospo-bolstering-academic-research-through-open-source/
+[rit-opensource]: https://opensource.com/article/20/10/rit-ospo
+[utexas-participation]: https://opensource.utexas.edu/participation-pathway <!-- no available! -->
+[cern-mandate]: http://dx.doi.org/10.17181/CERN.AL8T.E9WW
 
