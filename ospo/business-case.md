@@ -188,8 +188,7 @@ Open Source is a fundamental component of our research and university infrastruc
 [^sovereignty]: The term technological or digital sovereignty refers to an institution being able to exercise control over its technology infrastructure. It is also referred as digital idependence of vendor lock-in. This is an increasing challenge with the growth of Artificial Intelligence solutions; factors such as where the data used to generate the models is stored (data residency), as well as the models themselves, who operates and controls the technology, and how the data are accessed, can all lead to a lack of control and complex risk landscape.
 
 
-
-**Risks of not having an OSPO**
+### Risks of not having an OSPO
 
 One of the biggest difficulties in large institutions is communication. This is aggravated when there is no central hub.
 In the case of open source, members of our community are mostly self-guided, having to rediscover everything from scratch.
@@ -339,9 +338,11 @@ This should cover licensing possibilities as well as business models.
 -->
 
 #### Resources
-*project budget*
+
+##### OSPOs Budget
+
 <!--
-> Your budget is an estimate of everything in your project plan and what it will cost to complete the project over the scheduled time allotted. Personnel costs, software or hardware costs, consulting fees, training costs and contingency funds
+ > Your budget is an estimate of everything in your project plan and what it will cost to complete the project over the scheduled time allotted. Personnel costs, software or hardware costs, consulting fees, training costs and contingency funds
 -->
 
 At the moment we have been developing the office with 0.3 FTE provided by ARC.
@@ -354,9 +355,10 @@ Additionally, there will be costs required for participation in conferences. Tho
 
 The OSPO members will look out for funding opportunities that could buy out time from UCL staff or pay for students to carry out some of the proposed tasks.
 
-*Financial Appraisal*
+#### Financial Appraisal
+
 <!--
-> explain how the financial benefits outweigh the project costs.
+ > explain how the financial benefits outweigh the project costs.
 -->
 
 With our current information we can't provide a detailed cost analysis.
@@ -375,9 +377,10 @@ UCL would be the first UK university to have an OSPO, this provides a leading po
 
 ### Organisation
 
-*Project Governance*
+#### Project Governance
+
 <!--
-> ll the project management rules and procedures that apply to your project. For example, it defines the roles and responsibilities of the project team members and the framework for decision-making.
+ > ll the project management rules and procedures that apply to your project. For example, it defines the roles and responsibilities of the project team members and the framework for decision-making.
 -->
 
 The UCL OSPO will comprise a core team from ARC and _at least one_ delegated representative from each team or department in the university that has a stake in open source.
@@ -397,15 +400,16 @@ Additionally, we would like participation from Innovation & Enterprise and UCLB 
 This committee will report to UCL's [Digital Research Board][drb] and the Open Science & Scholarship Committee.
 <!-- Does OSSC has a website? -->
 
-*Communication Plan*
+#### Communication Plan
+
 <!--
-> The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and has a shared understanding.
+ > The communication plan can help foster an atmosphere of transparency and engagement among stakeholders. The plan outlines how, when and what will be communicated so that everyone is informed and has a shared understanding.
 -->
 
 The OSPO will follow "Open Development" practices, publishing everything on its website with all the decisions and minutes publicly available.
 At the moment this is available on the [wiki of this repository][wiki].
 
-*Progress Reports*
+#### Progress Reports
 
 [Yearly reports on activities and outcomes][reports] are and will be published on the website.
 Metrics results will be published every six months on the website.
@@ -495,3 +499,4 @@ To establish UCL as a university that nurtures open source development, supporti
 [utexas-participation]: https://opensource.utexas.edu/participation-pathway <!-- no available! -->
 [cern-mandate]: http://dx.doi.org/10.17181/CERN.AL8T.E9WW
 
+---
