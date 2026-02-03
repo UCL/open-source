@@ -101,7 +101,7 @@ This puts UCL in an exceptional position to provide the support that open source
 [osm]: https://www.openstreetmap.org/
 [osmapref]: https://discovery.ucl.ac.uk/id/eprint/13849/1/13849.pdf
 [osmap-users]: https://welcome.openstreetmap.org/about-osm-community/consumers/
-[bgi]: https://brainglobe.info/about.HTML
+[bgi]: https://brainglobe.info/about.html
 [swc-pr]: https://www.sainsburywellcome.org/web/research-news/brainglobe-initiative-wins-2025-international-prize
 [xkcd-dep]: https://xkcd.com/2347/
 <!-- end links -->
