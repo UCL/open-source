@@ -17,8 +17,8 @@ crumbs:
 Our university, as with many institutions and organisations around the globe, depends on open source,
 whether that is software, hardware, data, or other resources such as research and educational outputs.
 Open source software is everywhere and it has a huge economic impact.
-The [State of Open Source paper][sospaper] shows that 96% of all software included open source software components.
-Moreover, a [study from the Harvard Business School][harvard-oss] has shown recently that open source software generated $8.8 trillion of value and production costs are reduced by a factor of 3.5.
+The [State of Open Source paper][sospaper] shows that 96% of all software included open-source software components.
+Moreover, a [study from the Harvard Business School][harvard-oss] has shown recently that open-source software generated $8.8 trillion of value and production costs are reduced by a factor of 3.5 if open-source software were not available.
 Open source "products" apart from software haven't been analysed in such detail yet.
 However, from the point of view of an university they are still very important, for example for the Open Science reproducibility mission as well as for the creation of Open Educational resources.
 
@@ -26,10 +26,10 @@ An Open Source Programme Office (OSPO) will coordinate the usage and development
 We propose three main pillars that an OSPO in UCL should cover: Research, Education and Infrastructure,
 supported by three main foundations: Training, Community and Policy.
 With those six aspects we are increasing collaboration and visibility (within and outside UCL), as well as providing insight into the stronger and weaker points of our ecosystem and dependencies.
-This office will provide: a service to obtain metrics, deliver training, and provide mentorship and guidance on running open source projects;
-a medium to support grant applications and compliance with respect to open source requirements;
+This office will provide: a service to obtain metrics, deliver training, and provide mentorship and guidance on running open-source projects;
+a medium to support grant applications and compliance with respect to open-source requirements;
 a hub of communication between the UCL community, innovation and enterprise team and external partners;
-and an advocacy platform for promoting open source culture and practices, producing policy recommendations for the university.
+and an advocacy platform for promoting open-source culture and practices, producing policy recommendations for the university.
 
 To achieve this, we propose to build on what UCL's [Advanced Research Computing Centre][arc] (ARC) and [Office for Open Science and Scholarship][ooss] have created,
 and add components through out the next five years.
@@ -61,10 +61,10 @@ A more recent example is the [BrainGlobe Initiative][bgi] that was established b
 They have developed a whole ecosystem of research software tools, and nurture a community of researchers that was, last year, recognised by receiving an international award for its contribution to open, accessible and collaborative neuroscience[^bgi-award]. 
 
 Those are only three examples of many we could quote, and we are sure that there are many others that we don't know within UCL.
-As researchers have become more familiar with the benefits of open source development, and funding bodies around the world have started to request that software created with public money is openly released, we have seen an increase in researchers seeking to follow open-source practices.
+As researchers have become more familiar with the benefits of open-source development, and funding bodies around the world have started to request that software created with public money is openly released, we have seen an increase in researchers seeking to follow open-source practices.
 
 Open source projects enable collaboration and discoverability.
-However, open source projects often also suffer from a lack of support and rely heavily on volunteer effort.
+However, open-source projects often also suffer from a lack of support and rely heavily on volunteer effort.
 As an organisation that uses and produces open source, we should be more aware of our production and dependencies, and how to support them better.
 This is the main objective of the Open Source Programme Office we propose.
 Mapping and cataloguing all the open source we use and generate, as well as what we depend on, helps us to have an overview of where the needs are within our community, and therefore act on them. <!-- Through training, guidance, collaborating, lobbing,  -->
@@ -87,7 +87,7 @@ Similarly the [Office of Open Science and Scholarship][ooss] has promoted the ad
 This puts UCL in an exceptional position to provide the support that open source needs across all parts of the university, and be at the forefront of open source within the UK.
 
 <!-- Footnotes -->
-[^owned]: Where "owned" simply denotes project ownership: open source development work done by UCL staff in aid of UCL research or education.
+[^owned]: Where "owned" simply denotes project ownership: open-source development work done by UCL staff in aid of UCL research or education.
 [^oldest]: [STIR](https://github.com/UCL/STIR) - The Software for Tomographic Image Reconstruction.
 [^osmap-ucl]: [Open Street Map][osm] is a crowdsourced mapping platform initiated in [2004 at UCL][osmapref] by Steve Coast at the Bartlett Centre for Advanced Spatial Analysis (CASA).
 [^osm-companies]: [Open Street Map list of prominent users][osmap-users] lists also some universities, but unfortunately not UCL.
@@ -130,7 +130,7 @@ Though the goals of organisations across these domains differ when establishing 
 
 </center>
 
-These activities, however, are not new to OSPOs. Over the years, different groups within organisations have been engaging in some of them. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open source software, and open source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
+These activities, however, are not new to OSPOs. Over the years, different groups within organisations have been engaging in some of them. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open-source software, and open-source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
 
 A more detailed definition of an academic OSPO can be found in [Young, et al. (2024)][young-2024].
 
@@ -162,21 +162,21 @@ A more detailed definition of an academic OSPO can be found in [Young, et al. (2
 
 ## Why does UCL need an OSPO? What benefits does it give?
 
-Open Source is a fundamental component of our research and university infrastructure. However, this is usually forgotten or not even considered. We do not know how much we depend on it. Equally, we know very little about the social, research, and economic impact that the open source code generated by UCL has. Contributing to Open Source projects requires more than technical knowledge, it is tied to social and economic aspects, and an OSPO helps to make it more accessible. An OSPO in UCL will benefit the following areas.
+Open Source is a fundamental component of our research and university infrastructure. However, this is usually forgotten or not even considered. We do not know how much we depend on it. Equally, we know very little about the social, research, and economic impact that the open-source code generated by UCL has. Contributing to open-source projects requires more than technical knowledge, it is tied to social and economic aspects, and an OSPO helps to make it more accessible. An OSPO in UCL will benefit the following areas.
 
 - Research
   - Provide guidance on sustainability, community engagement and licensing to increase reuse and impact of UCL's software.
 - Education
-  - Train students and staff on the use of and contribution to open source projects.
-  - Promote open source alternatives to tools used in modules, allowing students to continue practising the learnt skills once they have left UCL and therefore lose access to licensed tools.
+  - Train students and staff on the use of and contribution to open-source projects.
+  - Promote open-source alternatives to tools taught and used in modules, allowing students to continue practising the learnt skills when losing access to licensed tools once left UCL.
 - Digital infrastructure
   - Reveal the extent to which business-critical systems such as Moodle, Portico, HR and financial management, and departmental administration are dependent on open source.
-  - Provide support for the use of open source tooling, reducing procurement costs.
+  - Provide support for the use of open-source tooling, reducing procurement costs.
   - Enable cross-department collaboration on locally developed solutions.
 - Community
   - Facilitate collaboration with other institutions for similar tasks.
 - Policy
-  - Include Open Source solutions and digital sovereignty[^sovereignty] into UCL procurement decisions.
+  - Include open-source solutions and digital sovereignty into UCL procurement decisions.
 - Measuring and enhancing impact
   - Collate metrics on what is created within/with help from UCL, and what we depend on.
   - Use data to attract further funding and collaborations.
@@ -225,15 +225,15 @@ Publicly available and licensed reusable material is increasingly understood as 
 Without an OSPO researchers lack guidance on producing these outputs in a way that supports their long-term sustainability.
 
 A major risk that an OSPO mitigates is a legal one.
-One of the mandates of an OSPO is to develop an informed organisation-wide strategy for licensing open source projects and to provide guidance to developers and maintainers.
+One of the mandates of an OSPO is to develop an informed organisation-wide strategy for licensing open-source projects and to provide guidance to developers and maintainers.
 In our recent study, we noted 36.1% of UCL's open-source projects are unlicensed, meaning legally unusable by anyone.
 We also detected some projects violating the licencing rules of their dependencies. This could ultimately result in lawsuits and incur significant costs and reputational damage.
 
 Finally, there are also financial risks.
-Without an OSPO, the university may spend on closed source products when there are good and cheaper open source alternatives.
+Without an OSPO, the university may spend on closed source products when there are good and cheaper open-source alternatives.
 This can result in vendor lock-in, leading to an inability to pivot away from expensive contracts (at least without significant costs),
 or being locked-out in case of geopolitical circumstances[^icc-case].
-Choosing open source solutions without robust guidance can lead to expensive failures or support costs.
+Choosing open-source solutions without robust guidance can lead to expensive failures or support costs.
 Conversely, with an OSPO open source metrics are included within the procurement process and support is available for teams to develop the skills to maintain software we depend on.
 This not only puts UCL in a better position, but it also contributes to improvements for users around the world and to the growth and reputation of the internal team.
 
@@ -272,13 +272,13 @@ Some members of UCL have been participating in Summer of Code programmes such as
 
 There are already communities that are related with open source across campus, such as Linux User Group, Latex User Group, Python Community of Practice, R Users, and various code clubs and student societies. The OSPO will support and promote those community initiatives.
 
-We are working with funding bodies and external stakeholders to promote Open Source, such as UKRI, DiRAC, Software Sustainability Institute. Activities include helping to draft future policy and funding calls.
+We are working with funding bodies and external stakeholders to promote open source, such as UKRI, DiRAC, Software Sustainability Institute. Activities include helping to draft future policy and funding calls.
 
 The OSPO will continue to strengthen ties with international open source networks we are members of, such as the Community for University and Research Institution OSPOs ([CURIOSS][curioss]), the Community Health Analytics in Open Source Software ([CHAOSS][chaoss]) and the [High Performance Software Foundation][hpsf], as well as supporting other UK universities that want to develop an OSPO.
 
 #### Year 1
 
-During the first year the OSPO will continue to maintain and augment the metrics analysis we started last year, seeking to identify and measure all the open source software projects arising from UCL.
+During the first year the OSPO will continue to maintain and augment the metrics analysis we started last year, seeking to identify and measure all the open-source software projects arising from UCL.
 Additionally, we will start to measure external projects the UCL community contributes to.
 Impact reports will be published every six months from the data extracted.
 
@@ -323,13 +323,13 @@ Continue with the metrics analysis adding new parameters and properties that hel
 
 Continue supporting and delivering open source training programmes.
 
-Launch a mentoring programme for people with larger experience in open source to help others to implement practices to nurture the community around their open source product.
+Launch a mentoring programme for people with larger experience in open source to help others to implement practices to nurture the community around their open-source product.
 
-Develop guidance about Commercial Open Source Software (COSS), collaborating with the Library, Centre for Digital Innovation (CDI), the School of management, Innovation & Enterprise, and UCLB.
+Develop guidance about Commercial Open-Source Software (COSS), collaborating with the Library, Centre for Digital Innovation (CDI), the School of management, Innovation & Enterprise, and UCLB.
 This should cover licensing possibilities as well as business models.
 
 <!-- footnotes -->
-[^innersource]: Inner source is the use of open source software development best practices and culture within an organisation during the development of closed source software.
+[^innersource]: Inner source is the use of open-source software development best practices and culture within an organisation during the development of closed source software.
 [^csprogs]: Artificial Intelligence and Data engineering and Software Engineering master programmes are two programs which in collaboration with ARC will include group projects with open source communities on 2026-2027.
 <!-- TODO: ASK alex for module he's doing app for -->
 <!-- end footnotes -->
@@ -380,7 +380,7 @@ The OSPO members will look out for funding opportunities that could buy out time
 UCL would be the first UK university to have an OSPO, this provides a leading position that will help
 - to attract talent from open source communities,
 - through providing open source training, our students will gain employability opportunities and our staff will grow their skills,
-- to save licensing costs by using open source alternatives rather than closed source software,
+- to save licensing costs by using open-source alternatives rather than closed source software,
 - to avoid time spent reinventing software or falling into licensing incompatibilities,
 - to recommend where the university should invest efforts to support sustainability of projects,
 
