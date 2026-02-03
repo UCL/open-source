@@ -59,7 +59,7 @@ We know that UCL has given birth to open source communities such as the [Open St
 This platform provides open-source-licensed map data to everyone, free to use, edit and distribute.
 It is used by many mapping applications, transport companies, government agencies, humanitarian organisations, news sites and websites[^osm-companies].
 A more recent example is the [BrainGlobe Initiative][bgi] that was established by researchers at the Sainsbury Wellcome Centre and the Technical University of Munich in 2020.
-They have developed a whole ecosystem of research software tools, and nurture a community of researchers that was, last year, recognised by receiving an international award for its contribution to open, accessible and collaborative neuroscience[^bgi-award]. 
+They have developed a whole ecosystem of research software tools, and nurture a community of researchers that was, last year, recognised by receiving an international award for its contribution to open, accessible and collaborative neuroscience[^bgi-award].
 
 Those are only three examples of many we could quote, and we are sure that there are many others that we don't know within UCL.
 As researchers have become more familiar with the benefits of open-source development, and funding bodies around the world have started to request that software created with public money is openly released, we have seen an increase in researchers seeking to follow open-source practices.
@@ -108,14 +108,18 @@ This puts UCL in an exceptional position to provide the support that open source
 
 ## What is an OSPO?
 
-An Open Source Programme Office (OSPO) is a body within an organisation to look after its open source strategy and operations. OSPOs have been widely adopted in the commercial world[^OSPO-commerce], governmental institutions and world organisations[^OSPO-public]. More recently, various academic and research institutions have also found the value of having OSPOs. Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (the first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] in the USA, or European examples like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt], and [ETH Zurich][ospo-eth] in Switzerland.
+An Open Source Programme Office (OSPO) is a body within an organisation to look after its open source strategy and operations.
+OSPOs have been widely adopted in the commercial world[^OSPO-commerce], governmental institutions and world organisations[^OSPO-public].
+More recently, various academic and research institutions have also found the value of having OSPOs.
+Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (the first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] in the USA, or European examples like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt], and [ETH Zurich][ospo-eth] in Switzerland.
 
 <!-- Footnotes -->
 [^OSPO-commerce]: The two biggest OSPO networks in industry are: [OSPO Alliance][ospo-alliance] supported by the [Eclipse Foundation][eclipse] and [TODO Group][ospo-todogrp] supported by the [Linux Foundation][LF]. A [report published in 2024 by the TODO Group][state-of-ospo-2024] found that 77% of large organisations have an OSPO (DOI: 10.70828/FXMR3018). <!-- typos: ignore -->
 [^OSPO-public]: Covering this space there is the [EU OSPO Network][ospo-eu] led by the [EC OSPO][ospo-ec], and the [Public Sector OSPOs Network][ospo-public]. They include OSPOs from the [United Nations][ospo-un]; country-wide examples like the [French government][ospo-fr] or the [Netherlands](https://opensourcewerken.nl/); cities such as [City of Paris][ospo-paris] or [Munich][ospo-munich]; and specialised public organisations like [Digital Service at the Centers for Medicare and Medicaid Services in US][ospo-cms].
 <!-- End Footnotes -->
 
-Though the goals of organisations across these domains differ when establishing an OSPO, they create a fabric that helps those organisations to collaborate and combine efforts to maximise the impact (and support) of open-source products. Some activities that an OSPO may do are:
+Though the goals of organisations across these domains differ when establishing an OSPO, they create a fabric that helps those organisations to collaborate and combine efforts to maximise the impact (and support) of open-source products.
+Some activities that an OSPO may do are:
 
 - to advocate for open source practises within an organisation through community engagement;
 - to measure usage of and dependency on open (and closed!) source projects;
@@ -134,7 +138,10 @@ Those activities refer to all areas of the organisation, whether research, teach
    captionlicense="CC-By"
    height="300px" %}
 
-These activities, however, are not new to OSPOs. Over the years, different groups within organisations have been engaging in some of them. For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open-source software, and open-source hardware. Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
+These activities, however, are not new to OSPOs.
+Over the years, different groups within organisations have been engaging in some of them.
+For example, Oxford University had a group named [OSS Watch][oss-watch] between 2003-2014 that provided unbiased advice and guidance on the use, development, and licensing of free software, open-source software, and open-source hardware.
+Similarly, the [Software Sustainability Institute][ssi] has been advocating for better software practices in research across the UK since 2010.
 
 A more detailed definition of an academic OSPO can be found in [Young, et al. (2024)][young-2024].
 
@@ -166,7 +173,12 @@ A more detailed definition of an academic OSPO can be found in [Young, et al. (2
 
 ## Why does UCL need an OSPO? What benefits does it give?
 
-Open Source is a fundamental component of our research and university infrastructure. However, this is usually forgotten or not even considered. We do not know how much we depend on it. Equally, we know very little about the social, research, and economic impact that the open-source code generated by UCL has. Contributing to open-source projects requires more than technical knowledge, it is tied to social and economic aspects, and an OSPO helps to make it more accessible. An OSPO in UCL will benefit the following areas.
+Open Source is a fundamental component of our research and university infrastructure.
+However, this is usually forgotten or not even considered.
+We do not know how much we depend on it.
+Equally, we know very little about the social, research, and economic impact that the open-source code generated by UCL has.
+Contributing to open-source projects requires more than technical knowledge, it is tied to social and economic aspects, and an OSPO helps to make it more accessible.
+An OSPO in UCL will benefit the following areas.
 
 - Research
   - Provide guidance on sustainability, community engagement and licensing to increase reuse and impact of UCL's software.
@@ -184,16 +196,18 @@ Open Source is a fundamental component of our research and university infrastruc
 - Measuring and enhancing impact
   - Collate metrics on what is created within/with help from UCL, and what we depend on.
   - Use data to attract further funding and collaborations.
-  - Promote development of skills that will help students gain employment. Mentorship, coaching and collaborations are skills that will be gained as part of successful open-source projects.
+  - Promote development of skills that will help students gain employment.
+    Mentorship, coaching and collaborations are skills that will be gained as part of successful open-source projects.
   - Attract talent from open source communities.
   - Reduce vendor lock-in risks.
 
-[^sovereignty]: The term technological or digital sovereignty refers to an institution being able to exercise control over its technology infrastructure. It is also referred as digital idependence of vendor lock-in. This is an increasing challenge with the growth of Artificial Intelligence solutions; factors such as where the data used to generate the models is stored (data residency), as well as the models themselves, who operates and controls the technology, and how the data are accessed, can all lead to a lack of control and complex risk landscape.
+[^sovereignty]: The term technological or digital sovereignty refers to an institution being able to exercise control over its technology infrastructure. It is also referred as digital independence of vendor lock-in. This is an increasing challenge with the growth of Artificial Intelligence solutions; factors such as where the data used to generate the models is stored (data residency), as well as the models themselves, who operates and controls the technology, and how the data are accessed, can all lead to a lack of control and complex risk landscape.
 
 
 ### Risks of not having an OSPO
 
-One of the biggest difficulties in large institutions is communication. This is aggravated when there is no central hub.
+One of the biggest difficulties in large institutions is communication.
+This is aggravated when there is no central hub.
 In the case of open source, members of our community are mostly self-guided, having to rediscover everything from scratch.
 Not having one central hub of training and information on these topics means our community keeps reinventing rather than collaborating.
 
@@ -203,7 +217,8 @@ Without an OSPO researchers lack guidance on producing these outputs in a way th
 A major risk that an OSPO mitigates is a legal one.
 One of the mandates of an OSPO is to develop an informed organisation-wide strategy for licensing open-source projects and to provide guidance to developers and maintainers.
 In our recent study, we noted 36.1% of UCL's open-source projects are unlicensed, meaning legally unusable by anyone.
-We also detected some projects violating the licencing rules of their dependencies. This could ultimately result in lawsuits and incur significant costs and reputational damage.
+We also detected some projects violating the licencing rules of their dependencies.
+This could ultimately result in lawsuits and incur significant costs and reputational damage.
 
 Finally, there are also financial risks.
 Without an OSPO, the university may spend on closed source products when there are good and cheaper open-source alternatives.
@@ -223,9 +238,10 @@ This not only puts UCL in a better position, but it also contributes to improvem
 
 ## How would it work at UCL?
 
-An OSPO in UCL will become a team providing a central hub of communication, research, training and support, with different scopes. 
+An OSPO in UCL will become a team providing a central hub of communication, research, training and support, with different scopes.
 The team will be composed by a pool of staff and students from across the university, and managed by a committee formed by delegates representing different aspects of the university (research, education, infrastructure, community, policy, and professional services).
-This support is expected to be provided in-kind by different departments (0.2-0.4FTE each). However, for certain projects and activities OSPO members will look for funding sources to accomplish them.
+This support is expected to be provided in-kind by different departments (0.2-0.4FTE each).
+However, for certain projects and activities OSPO members will look for funding sources to accomplish them.
 
 ### Plan
 
@@ -242,11 +258,13 @@ This support is expected to be provided in-kind by different departments (0.2-0.
 
 #### Continue work
 
-Through the [past years][reports], members of the proposed OSPO have been already providing some community support as set out below. This is expected to continue.
+Through the [past years][reports], members of the proposed OSPO have been already providing some community support as set out below.
+This is expected to continue.
 For example, we will continue helping to organise and advertise Summer of Code programmes such as [Google's, where some members of UCL have been participating][ucl-gsoc] over years, throughout the student community.
-The OSPO will maintain the support to the already existing communities that are related with open source across campus, such as [Linux User Group][lug], [Latex User Group][Latug], [Python Community of Practice][PCoC], [R User Group][Rusers], and various code clubs and student societies. 
+The OSPO will maintain the support to the already existing communities that are related with open source across campus, such as [Linux User Group][lug], [Latex User Group][Latug], [Python Community of Practice][PCoC], [R User Group][Rusers], and various code clubs and student societies.
 
-We are working with funding bodies and external stakeholders to promote open source, such as UKRI, DiRAC, Software Sustainability Institute. Activities include helping to draft future policy and funding calls.
+We are working with funding bodies and external stakeholders to promote open source, such as UKRI, DiRAC, Software Sustainability Institute.
+Activities include helping to draft future policy and funding calls.
 
 The OSPO will continue to strengthen ties with international open source networks we are members of, such as the Community for University and Research Institution OSPOs ([CURIOSS][curioss]), the Community Health Analytics in Open Source Software ([CHAOSS][chaoss]) and the [High Performance Software Foundation][hpsf], as well as supporting other UK universities that want to develop an OSPO.
 
@@ -263,7 +281,7 @@ and evaluate the feasibility to endorse [UN Open Source Principles][un-principle
 In collaboration with ARC's education team, the OSPO team will map and advertise which programmes, training and resources exist in the university related to open source.
 For example, the ARC-led [Centre for Doctoral Training in Collaborative Computational Modelling at the Interface][ccmi] has a strong emphasis on learning to contribute to open source communities.
 
-We will design, distribute and analyse a survey to understand the open source needs across the UCL community. 
+We will design, distribute and analyse a survey to understand the open source needs across the UCL community.
 The design will be based on surveys run by other universities, focusing on users ([University of Wisconsin Madison results][uw-survey]), and contributors ([University of California results][uc-survey]).
 This may require applying for a small grant to pay students to carry out the analysis.
 
@@ -279,12 +297,12 @@ This will highlight risks and needs of that closed source software while encoura
 This will require access to organisations and repositories we may not have at the moment and stakeholders will need to promote the need.
 This is also an important security exercise and we expect ISD's Information Security Group to be involved.
 
-Guidance will be published on how to release open source outcomes (software, hardware, data, or educational resources) within UCL. 
+Guidance will be published on how to release open source outcomes (software, hardware, data, or educational resources) within UCL.
 This will cover licenses, development models, community engagement, and commercial opportunities,
 and hence involve stakeholders such as the Libraries, ARC, Computer Science, Arena, ISD, Innovation & Enterprise, UCLB, UCLC and the Institute of Making.
 
-Once those guides are developed, ARC Education will develop and deliver short courses covering them in a practical manner. 
-Those courses will be available to all the university through Organisational Development for post-graduate students and staff, and through the Extended Learning Opportunities Programme for undergraduate students. 
+Once those guides are developed, ARC Education will develop and deliver short courses covering them in a practical manner.
+Those courses will be available to all the university through Organisational Development for post-graduate students and staff, and through the Extended Learning Opportunities Programme for undergraduate students.
 
 The OPSO will promote existing and develop new opportunities for students to collaborate with open source communities throughout their degree.
 Through those opportunities, students will be interacting with various industries that are open source users and contributors.
@@ -296,7 +314,8 @@ Collaborations will be formed with established international open source hackath
 
 #### Year 3-5
 
-Continue with the metrics analysis adding new parameters and properties that help us to get a better picture. Developing therefore a recommendation on where the university should invest money or efforts based on the estimated risks of the projects and their dependencies.
+Continue with the metrics analysis adding new parameters and properties that help us to get a better picture.
+Developing therefore a recommendation on where the university should invest money or efforts based on the estimated risks of the projects and their dependencies.
 
 Continue supporting and delivering open source training programmes.
 
@@ -354,7 +373,8 @@ and aim to increase that to reach 3 FTE by year 5.
 
 We believe this could be done by contributions from other departments with a maximum of 1 FTE from ARC[^pending].
 
-Additionally, there will be costs required for participation in conferences. Those costs could be covered by the department of the delegate.
+Additionally, there will be costs required for participation in conferences.
+Those costs could be covered by the department of the delegate.
 
 The OSPO members will look out for funding opportunities that could buy out time from UCL staff or pay for students to carry out some of the proposed tasks.
 
@@ -432,9 +452,11 @@ ARC supports this initiative, providing at the moment 0.3 FTE and funding the 4-
 <!-- Can any provide FTEs or financial support? -->
 The Neuroinformatics Unit at the Sainsbury Welcome Centre supports the OSPO and has developed an open source summer school aligned with the OSPO objectives.
 
-ISD is already contributing to open-source projects such as Moodle. They are also following inner source practices on their development, aligned with our goals.
+ISD is already contributing to open-source projects such as Moodle.
+They are also following inner source practices on their development, aligned with our goals.
 
-CASA has a long history of open source contributions in software and education. From being the birthplace of Open Street Maps to developing Open Hardware devices.
+CASA has a long history of open source contributions in software and education.
+From being the birthplace of Open Street Maps to developing Open Hardware devices.
 
 ## How will we know if this worked out?
 
@@ -448,7 +470,7 @@ The OSPO will start with the following success criteria:
 - Longer term, quantifiable financial impacts will be tracked, such as the replacement of closed-source products with open alternatives leading to lower procurement and licensing costs.
 - Our activities attracts external funding and opportunities.
 
-## Mision, vision and goals
+## Mission, vision and goals
 
 Starting point for the committee that will vote on them:
 
