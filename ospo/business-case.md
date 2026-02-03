@@ -398,7 +398,7 @@ These teams include:
 - and Mechanical Engineering.
 
 The emphasis is on _at least_, because we aim to encourage members from these and other teams to join voluntarily.
-Additionally, we would like participation from Innovation & Enterprise and UCLB to collaborate on the guidance provided about the commercialisation of open-source products.
+Additionally, we would like participation from Innovation & Enterprise and UCLB to collaborate on the guidance provided about translational research and commercialisation of open-source products.
 
 This committee will report to UCL's [Digital Research Board][drb] and the Open Science & Scholarship Committee.
 <!-- Does OSSC has a website? -->
@@ -432,10 +432,9 @@ ARC supports this initiative, providing at the moment 0.3 FTE and funding the 4-
 <!-- Can any provide FTEs or financial support? -->
 The Neuroinformatics Unit at the Sainsbury Welcome Centre supports the OSPO and has developed an open source summer school aligned with the OSPO objectives.
 
-ISD ...
+ISD is already contributing to open-source projects such as Moodle. They are also following inner source practices on their development, aligned with our goals.
 
-CASA ...
-
+CASA has a long history of open source contributions in software and education. From being the birthplace of Open Street Maps to developing Open Hardware devices.
 
 ## How will we know if this worked out?
 
@@ -451,7 +450,7 @@ The OSPO will start with the following success criteria:
 
 ## Mision, vision and goals
 
-Starting point for the committee that will be formed and vote on them:
+Starting point for the committee that will vote on them:
 
 **Mission Statement**
 
