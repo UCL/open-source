@@ -94,7 +94,7 @@ In particular, false-positives found by [`typos`] can be [excluded with regular 
 - If approved with no comments, **the approving reviewer should merge** (to keep things moving).
 - If approved with comments, the requester is generally trusted to merge once they're addressed.
   - The requester can ask for re-review if they think it's needed or if 'Changes requested'.
-- Changes to the business case should have the label:`business case`.
+- Changes to the business case should have the `business case` label applied.
 - Changes to the business case or substantial additions and changes to the text (new guides etc.) should seek review from as many members of the open-source team as can give their time.
 
 ----
