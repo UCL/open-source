@@ -84,6 +84,21 @@ typos ospo/business-case.md
 There are top-level files: `.vale.ini` and `.typos.toml` to configure each.
 In particular, false-positives found by [`typos`] can be [excluded with regular expressions](https://github.com/crate-ci/typos/blob/master/docs/reference.md#example-configurations).
 
+----
+
+## Pull request flow
+
+(Information for maintainers)
+
+- Changes are made via [pull requests](https://github.com/UCL/open-source/pulls); at least one person from the open-source team with commit rights will need to be involved.
+- If approved with no comments, **the approving reviewer should merge** (to keep things moving).
+- If approved with comments, a requester with commit rights is generally trusted to merge once they're addressed.
+  - The requester can ask for re-review if they think it's needed or if 'Changes requested'.
+- Changes to the business case should have the `business case` label applied.
+- Changes to the business case or substantial additions and changes to the text (new guides etc.) should seek review from as many members of the open-source team as can give their time.
+
+----
+
 [email us]: mailto:open.source@ucl.ac.uk
 [MyServices]: https://myservices.ucl.ac.uk
 [open an issue]: https://github.com/UCL/open-source/issues/new
