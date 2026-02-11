@@ -11,7 +11,7 @@
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
 - title: "nf-core NextFlow pre-training for hackathon"
-  organiser: Eco-Flow
+  organiser: "<a href='https://eco-flow.github.io/'>Eco-Flow</a>"
   url: https://docs.google.com/forms/d/e/1FAIpQLSfbZdr_sz2LmFwITzCpacF8C2y-MhAqH6hjk2hiJIpgurfgeA/viewform
   summary: Training for people with some experience in Nextflow who are interested in contributing to nf-core, in preparation for the nf-core Hackathon the following week.
   date: 2026-03-05
@@ -21,7 +21,7 @@
   location: UCL East - Room 414
   location_url: https://www.openstreetmap.org/?mlat=51.537690&mlon=-0.011857&zoom=16 # https://www.latlong.net/
 - title: "nf-core NextFlow hackathon"
-  organiser: Eco-Flow
+  organiser: "<a href='https://eco-flow.github.io/'>Eco-Flow</a>"
   url: https://nf-co.re/events/2026/hackathon-march-2026/london
   summary: nf-core Hackathons are collaborative events held throughout the year, bringing together Nextflow users from both academia and industry. Whether you want to contribute to an existing project, propose a new pipeline, develop new modules, or simply connect with fellow Nextflow users, this event is the perfect opportunity.
   date: 2026-03-11
