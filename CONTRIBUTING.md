@@ -90,7 +90,7 @@ In particular, false-positives found by [`typos`] can be [excluded with regular 
 
 (Information for maintainers)
 
-- Changes by [pull request(https://github.com/UCL/open-source/pulls), at least one person from the open source team with commit rights will need to be involved.
+- Changes are made via [pull requests](https://github.com/UCL/open-source/pulls); at least one person from the open-source team with commit rights will need to be involved.
 - If approved with no comments, **the approving reviewer should merge** (to keep things moving).
 - If approved with comments, the requester is generally trusted to merge once they're addressed.
   - The requester can ask for re-review if they think it's needed or if 'Changes requested'.
