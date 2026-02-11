@@ -114,8 +114,11 @@ OSPOs have been widely adopted in the commercial world[^OSPO-commerce], governme
 More recently, various academic and research institutions have also found the value of having OSPOs.
 Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (the first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] in the USA, or European examples like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt], and [ETH Zurich][ospo-eth] in Switzerland.
 
-<!-- Footnotes -->
-[^OSPO-commerce]: The two biggest OSPO networks in industry are: [OSPO Alliance][ospo-alliance] supported by the [Eclipse Foundation][eclipse] and [TODO Group][ospo-todogrp] supported by the [Linux Foundation][LF]. A [report published in 2024 by the TODO Group][state-of-ospo-2024] found that 77% of large organisations have an OSPO (DOI: 10.70828/FXMR3018). <!-- typos: ignore -->
+<!-- Footnotes (and ignore the false positive since TODO is not TODO in this case)-->
+<!-- vale proselint.Annotations = NO -->
+[^OSPO-commerce]: The two biggest OSPO networks in industry are: [OSPO Alliance][ospo-alliance] supported by the [Eclipse Foundation][eclipse] and [TODO Group][ospo-todogrp] supported by the [Linux Foundation][LF]. A [report published in 2024 by the TODO Group][state-of-ospo-2024] found that 77% of large organisations have an OSPO (DOI: 10.70828/FXMR3018).
+<!-- vale proselint.Annotations = YES -->
+
 [^OSPO-public]: Covering this space there is the [EU OSPO Network][ospo-eu] led by the [EC OSPO][ospo-ec], and the [Public Sector OSPOs Network][ospo-public]. They include OSPOs from the [United Nations][ospo-un]; country-wide examples like the [French government][ospo-fr] or the [Netherlands](https://opensourcewerken.nl/); cities such as [City of Paris][ospo-paris] or [Munich][ospo-munich]; and specialised public organisations like [Digital Service at the Centers for Medicare and Medicaid Services in US][ospo-cms].
 <!-- End Footnotes -->
 
