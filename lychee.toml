@@ -1,4 +1,4 @@
-accepted = [200, 403]
+accept = [200, 403, 429]
 exclude = [ 
     '(?x).*profiles.ucl.ac.uk.*/thumbnail',   # People may not have a profile image.
     '(?x).*github-readme-stats.vercel.app.*', # Returns 503 for some reason

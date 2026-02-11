@@ -63,6 +63,6 @@ jobs:
         with:
           # nice to check a few specific root-level markdown files (README.md etc) for valid links,
           # but the main thing to check is the rendered website (in the `open-source` directory)
-          args: "--accept 200,429 --no-progress --verbose --github-token ${{ secrets.GITHUB_TOKEN }} -- README.md CONTRIBUTING.md open-source/"
+          args: "--no-progress --verbose --github-token ${{ secrets.GITHUB_TOKEN }} -- README.md CONTRIBUTING.md open-source/"
           fail: true
           jobSummary: true
