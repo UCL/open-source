@@ -11,7 +11,7 @@
 {% capture start_time %}{{ event.date| date: "%Y-%m-%d" | append: "T" | append: event.time | append: ":00"}}{% endcapture %}
 🕐 {{ start_time | date: "%H:%M" }}
 {% if event.duration.hours %}
-{% capture seconds %}{{ 3600 | times: event.duration.hours }}{% endcapture %}
+{% capture seconds %}{{ 3600 | times: event.duration.hours | floor }}{% endcapture %}
 &ndash; {{ start_time | date: "%s" | plus: seconds | date: "%H:%M"}}
   {% endif %}
 <br/>

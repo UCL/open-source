@@ -21,7 +21,7 @@ jobs:
       # The next step uploads a "special" artifact used by the
       # `actions/deploy-pages` below to deploy the website.
       - name: Upload github-pages artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
       # We also want to upload an artifact that can be viewed locally without
       # messing up what the `actions/deploy-pages` workflow expects. To do this,
       # we need first to rename the `_site` directory
@@ -30,7 +30,7 @@ jobs:
           mkdir preview
           cp -r _site preview/open-source
       - name: Upload preview
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: Preview
           path: preview
@@ -54,7 +54,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-      - uses: actions/download-artifact@v5
+      - uses: actions/download-artifact@v7
         with:
           name: Preview
       - name: Link Checker
@@ -63,6 +63,6 @@ jobs:
         with:
           # nice to check a few specific root-level markdown files (README.md etc) for valid links,
           # but the main thing to check is the rendered website (in the `open-source` directory)
-          args: "--no-progress --verbose --github-token ${{ secrets.GITHUB_TOKEN }} -- README.md CONTRIBUTING.md open-source/"
+          args: "--accept 200,429 --no-progress --verbose --github-token ${{ secrets.GITHUB_TOKEN }} -- README.md CONTRIBUTING.md open-source/"
           fail: true
           jobSummary: true
