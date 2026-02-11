@@ -2,8 +2,9 @@
 layout: default
 title: Proposed Business Case
 crumbs:
-  - link: /ospo/business-case
-    text: "Proposed Business Case for UCL's Open Source Programme Office"
+  - link: /ospo/
+    text: OSPO
+short: "Business case"
 ---
 
 
