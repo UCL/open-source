@@ -28,7 +28,7 @@ Mostly, thanks to the Open Source Research Toolkit funding from ARC's research t
 All started in a conference marathon in February where I attended four conference in a week, [CHAOSSCon][chaosscon24], [EU Open Source Policy Summit][euosps2024], [FOSDEM][fosdem24] and the [State of Open Con][soocon24].
 Attending to those conference provide me with a set of contacts that helped me understand what was required and next steps.
 
-One of these person was Jacob Green from [OSPO++][ia-ospo++], a network of OSPOs in universities, governments, and civic institutions.
+One of these people was Jacob Green from [OSPO++][ia-ospo++], a network of OSPOs in universities, governments, and civic institutions.
 He was essential on knowing what to do.
 
 Thanks to him we organised the first Open Source Breakfast Club in London where few of us from UCL met various Open Source community representatives (CHAOSS, EOF, Matrix, Moodle, Mozilla, FINOS, OpenUK) and discussed what interactions could a University have with those communities (read [the whole report of the first open source breakfast][ossbclub] in London).
@@ -36,7 +36,7 @@ Additionally, thanks to Jacob I managed to get a spot at [UN's OSPO for good sym
 Those two events helped us to understand how organisations such as UN, national and local governments, industry and research institutions collaborate through OSPOs to tackle the [Sustainable Development Goals][sdg] ([read our report of the OSPO for good][ospo4good-report]).
 
 Between Jacob and I, we organised a panel at the [Open Source , Ethics & Innovation in AI][turing-event], a Turing's Way Practitioner's event hub last November in London.
-There, besides count with the participation of [Digital Science][ds], the French goverment OSPO, [FINOS][finos] (the fintech open source foundation), the [Tech Transfer and Open Source office from Coppin State University][coppinU] and with UCL's [Miguel Xochicale][mxochicale] giving a perspective on Open Source and medical tech transfer.
+There, besides count with the participation of [Digital Science][ds], the French government OSPO, [FINOS][finos] (the fintech open source foundation), the [Tech Transfer and Open Source office from Coppin State University][coppinU] and with UCL's [Miguel Xochicale][mxochicale] giving a perspective on Open Source and medical tech transfer.
 
 
 This year we submitted three talks at various events through out the year, and the three were accepted.
