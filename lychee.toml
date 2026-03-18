@@ -1,0 +1,10 @@
+accept = [200, 403, 415, 429]
+verbose = "info"
+no_progress = true
+exclude = [
+    '(?x).*profiles.ucl.ac.uk.*/thumbnail',   # People may not have a profile image.
+    '(?x).*github-readme-stats.vercel.app.*', # Returns 503 for some reason
+    '(?x).rdr.ucl.ac.uk/articles/*',          # Article does exist but sometimes returns strange codes: 202, 403...
+    '(?x).*127.0.0.1.*',                      # This is a local address
+    '(?x).*liveuclac.sharepoint.com/sites/*', # SharePoint pages will need UCL credentials.
+]
