@@ -16,6 +16,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
+      - name: Set Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: 'pip' # caching pip dependencies
+      - run: pip install pyyaml feedparser
+      - name: Update funding opportunities
+        run: python .github/rss_2_yaml.py
       - name: Build
         uses: actions/jekyll-build-pages@v1
       # The next step uploads a "special" artifact used by the
