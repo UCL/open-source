@@ -10,6 +10,16 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
+- title: "Mapping festival: Missing Maps | Maps research | University mapping"
+  organiser: UCL/ARC, UCL/CASA, British Red Cross
+  url: https://luma.com/lo6qe3sj
+  summary: "As part of London Data Week ARC together with UCL's Centre for Advanced Spatial Analysis (CASA) and the British Red Cross is hosting a OpenStreetMaps mapping festival. This event will include three parallel sessions to get your mapping curiosity satisfied."
+  date: 2026-07-07
+  time: "14:00"
+  duration: # one, either day or hours (when smaller than a day)
+    hours: 3
+  location: G22 North-West Wing; University College London
+  location_url: https://www.openstreetmap.org/?mlat=51.5247576&mlon=-0.1347918&zoom=16 # https://www.latlong.net/
 - title: Free & Open Source Software Social
   organiser: ARC / DigiEd / Slade Art+Tech Research Lab
   url: https://pretix.eu/ARC/byos/
