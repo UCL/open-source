@@ -31,7 +31,7 @@ At the end of the summer at least three UCL members (Sofia for NIU, Saransh for 
 The summit was an opportunity to meet other participating organisations and Google's OSPO team.
 
 
-But NIU didn't stop at GSoC! They run [the first Open Software Week][niu-osweek], a week long in-person workshop where they run a set of training sessions on the tools they develop and maintain, together with a career clinic and finished with a hackday.
+The NIU didn't stop at GSoC! They run [the first Open Software Week][niu-osweek], a week long in-person workshop where they run a set of training sessions on the tools they develop and maintain, together with a career clinic and finished with a hackday.
 The event was a success and they've already [announced the second edition for 2026][niu-osweek26].
 
 
