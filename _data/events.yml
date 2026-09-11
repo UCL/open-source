@@ -10,6 +10,36 @@
 #     hours: y 
 #   location: address
 #   location_url: https://www.openstreetmap.org/?mlat={{lat}}&mlon={{lon}}&zoom=16 # https://www.latlong.net/
+- title: "Mapping festival: Missing Maps | Maps research | University mapping"
+  organiser: UCL/ARC, UCL/CASA, British Red Cross
+  url: https://luma.com/lo6qe3sj
+  summary: "As part of London Data Week ARC together with UCL's Centre for Advanced Spatial Analysis (CASA) and the British Red Cross is hosting a OpenStreetMaps mapping festival. This event will include three parallel sessions to get your mapping curiosity satisfied."
+  date: 2026-07-07
+  time: "14:00"
+  duration: # one, either day or hours (when smaller than a day)
+    hours: 3
+  location: G22 North-West Wing; University College London
+  location_url: https://www.openstreetmap.org/?mlat=51.5247576&mlon=-0.1347918&zoom=16 # https://www.latlong.net/
+- title: Free & Open Source Software Social
+  organiser: ARC / DigiEd / Slade Art+Tech Research Lab
+  url: https://pretix.eu/ARC/byos/
+  summary: A summer meetup at UCL East in collaboration with our friends from the Slade Art+Tech Research Lab at UCL East, where the floor is yours if you would be able to present or demo something open-source related.
+  date: 2026-06-10
+  time: "15:00"
+  duration: 
+    hours: 2
+  location: Slade Studio, UCL East, Pool St building
+  location_url: https://www.openstreetmap.org/?mlat=51.539109&mlon=-0.008594&zoom=16
+- title: "From Code to Care: Challenges, Success Stories, and Future Directions of Open-Source Medical Robotics"
+  organiser: UCL/ARC, Imperial College London, John Hopkins University, Harvard Medical School, Brigham and Women's Hospital
+  url: https://www.hamlynsymposium.org/events/from-code-to-care-challenges-success-stories-and-the-future-directions-of-open-source-development-in-medical-robotics/
+  summary: Open-source development is transforming computing and medical robotics by improving access to advanced tools across academia and industry. However, clinical translation introduces challenges such as regulation, risk management, patient privacy, and differing international requirements. The “From Code to Care” workshop brings together researchers, industry experts, and regulators to share experiences through talks, posters, and discussions on open-source medical robotics, including AI, surgical systems, and clinical integration. It explores best practices, global collaboration, and equitable healthcare solutions, especially for low- and middle-income countries. A poster call is open, with travel awards available, and participants are warmly encouraged to submit and join the workshop community.
+  date: 2026-06-26
+  time: "09:00"
+  duration:
+    hours: 8
+  location: The Royal Geographical Society (with IBG), 1 Kensington Gore, South Kensington, London SW7 2AR, UK
+  location_url: https://www.openstreetmap.org/?mlat=51.5013608&mlon=-0.1751214&zoom=16 # https://www.latlong.net/
 - title: "nf-core NextFlow pre-training for hackathon"
   organiser: "<a href='https://eco-flow.github.io/'>Eco-Flow</a>"
   url: https://docs.google.com/forms/d/e/1FAIpQLSfbZdr_sz2LmFwITzCpacF8C2y-MhAqH6hjk2hiJIpgurfgeA/viewform

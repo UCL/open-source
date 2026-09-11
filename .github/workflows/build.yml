@@ -4,6 +4,8 @@ on:
  push:
    branches: ["main"]
  pull_request:
+ schedule:
+   - cron: "27 0 * * 1,4"
 
 permissions:
   contents: read
@@ -15,13 +17,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Set Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.1
+        with:
+          python-version: '3.13'
+      - run: pip install pyyaml feedparser
+      - name: Update funding opportunities
+        run: python .github/rss_2_yaml.py
       - name: Build
         uses: actions/jekyll-build-pages@v1
       # The next step uploads a "special" artifact used by the
       # `actions/deploy-pages` below to deploy the website.
       - name: Upload github-pages artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
       # We also want to upload an artifact that can be viewed locally without
       # messing up what the `actions/deploy-pages` workflow expects. To do this,
       # we need first to rename the `_site` directory
@@ -43,7 +52,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -53,13 +62,13 @@ jobs:
     needs: build
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: actions/download-artifact@v8
         with:
           name: Preview
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411 # v2.8.0
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
           # nice to check a few specific root-level markdown files (README.md etc) for valid links,
           # but the main thing to check is the rendered website (in the `open-source` directory)
