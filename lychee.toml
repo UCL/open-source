@@ -7,7 +7,7 @@ exclude = [
     '(?x).rdr.ucl.ac.uk/articles/*',          # Article does exist but sometimes returns strange codes: 202, 403...
     '(?x).*127.0.0.1.*',                      # This is a local address
     '(?x).*liveuclac.sharepoint.com/sites/*', # SharePoint pages will need UCL credentials.
-    # Several anoying false positives:
+    # Several annoying false positives:
     #
     # Some parts of the upstream theme cause errors because they don't prepend https. We don't fix the theme because 
     # it will be update to the new branding soon. So just suppress all of this for now. Remove when the theme is
