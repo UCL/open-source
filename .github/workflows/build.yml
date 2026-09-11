@@ -80,7 +80,7 @@ jobs:
           output: lychee-output.md
       - name: Change the output title to "Link checker summary"
         if: failure()
-        run: sed -i '' '1s/.*/# Link checker summary/' lychee-output.md
+        run: sed -i '1s/.*/# Link checker summary/' lychee-output.md
       - name: Add Link Checker summary comment
         uses: marocchino/sticky-pull-request-comment@5770ad5eb8f42dd2c4f34da00c94c5381e49af88 # v3.0.5
         if: (github.event_name == 'pull_request') && failure()
