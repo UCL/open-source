@@ -72,12 +72,6 @@ jobs:
         with:
           # nice to check a few specific root-level markdown files (README.md etc) for valid links,
           # but the main thing to check is the rendered website (in the `open-source` directory)
-          args: "--github-token ${{ secrets.GITHUB_TOKEN }} -- README.md CONTRIBUTING.md open-source/"
-          workingDirectory: preview
+          args: "--github-token ${{ secrets.GITHUB_TOKEN }} -- README.md CONTRIBUTING.md open-source/ --root-dir open-source  "
           fail: true
           jobSummary: true
-      - name: Setup tmate session
-        uses: mxschmitt/action-tmate@v3
-        if: ${{ failure() }}
-        with:
-          limit-access-to-actor: true
