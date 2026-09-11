@@ -445,7 +445,7 @@ Metrics results will be published every six months on the website.
 <!-- end footnotes -->
 <!-- links -->
 [wiki]: https://github.com/UCL/open-source/wiki
-[drb]: https://www.ucl.ac.uk/advanced-research-computing/digital-research-and-innovation-board-terms-reference
+[drb]: https://www.ucl.ac.uk/research-innovation/advanced-research-computing/digital-research-community-events-and-support/events/festival-digital-research-scholarship-2024
 <!-- end links -->
 
 ### Supporters
