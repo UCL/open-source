@@ -75,3 +75,8 @@ jobs:
           args: "--github-token ${{ secrets.GITHUB_TOKEN }} -- --root-dir=open-source README.md CONTRIBUTING.md open-source/"
           fail: true
           jobSummary: true
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
+        if: ${{ failure() }}
+        with:
+          limit-access-to-actor: true
