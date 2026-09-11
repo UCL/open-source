@@ -1,4 +1,4 @@
-accept = [200, 403, 415, 429]
+accept = [200, 403, 415, 429, 999]
 verbose = "info"
 no_progress = true
 exclude = [
@@ -21,6 +21,9 @@ exclude = [
     '(?x).*www.instagram.com/ucl',
     '(?x).*www.youtube.com/ucltv',
     '(?x).*soundcloud.com/uclsound',
-    # Aaand the favicon path is broken in the upstream theme, so just ignore that too.
+    # Aaand the favicon and several image paths are broken in the upstream theme, so just ignore these too.
     '(?x).*favicon-152.png',
+    '(?x).*assets/images/hero-image-taught-desktop.jpg', # doesn't exist: theme bug
+    '(?x).*indigo/images/search-sprite.png',             # doesn't exist: theme bug
+    '(?x).*assets/css/owl.video.play.png',
 ]
