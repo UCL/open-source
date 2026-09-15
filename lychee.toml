@@ -1,4 +1,4 @@
-accept = [200, 403, 415, 429, 999]
+accept = [200, 202, 403, 415, 429, 999]
 verbose = "info"
 no_progress = true
 exclude = [
@@ -13,7 +13,7 @@ exclude = [
     # it will be updated to the new branding soon. So just suppress all of this for now. Remove when the theme is
     #  updated. All social media links on every theme-rendered page are like this!!
     '(?x).*cdn.ucl.ac.uk/*',
-    '(?x).*www.ucl.ac.uk/*',
+    '(?x)./open-source/www.ucl.ac.uk/*',
     '(?x).*shop.ucl.ac.uk',
     '(?x).*www.flickr.com/photos/uclnews',
     '(?x).*www.facebook.com/uclofficial',
