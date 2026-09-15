@@ -333,7 +333,8 @@ This should cover licensing possibilities as well as business models.
 <!-- end footnotes -->
 
 <!-- links -->
-[reports]: https://google.com <!-- fixed in #90 ./documents.html#yearly-reports -->
+[reports]: https://google.com
+<!-- ^^ to be fixed in #90 ./documents.html#yearly-reports -->
 [lug]: https://github-pages.ucl.ac.uk/linux/
 [Latug]: https://teams.microsoft.com/l/team/19%3A4669171c71b74d9ea23c30f7e3b9195a%40thread.skype/conversations?groupId=2435df9e-6f6e-4f1e-8f4c-e048dcabb2b8&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2
 [PCoC]: https://teams.microsoft.com/l/team/19%3A85c78bc816764ae5982ae7b4997b2f47%40thread.skype/conversations?groupId=a3786c11-7532-44a2-a8eb-547382638405&tenantId=1faf88fe-a998-4c5b-93c9-210a11d9a5c2
