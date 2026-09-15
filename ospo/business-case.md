@@ -112,7 +112,7 @@ This puts UCL in an exceptional position to provide the support that open source
 An Open Source Programme Office (OSPO) is a body within an organisation to look after its open source strategy and operations.
 OSPOs have been widely adopted in the commercial world[^OSPO-commerce], governmental institutions and world organisations[^OSPO-public].
 More recently, various academic and research institutions have also found the value of having OSPOs.
-Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (the first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] in the USA, or European examples like [Trinity College Dublin][ospo-tcd] in Ireland, [University of Luxembourg][ospo-snt], and [ETH Zurich][ospo-eth] in Switzerland.
+Focusing on the latest, we can find research centres such as [CERN][ospo-cern] or [Space Telescope Science Institute][ospo-stsci] and universities like [Johns Hopkins][ospo-jhu] (the first one, since 2019), [University of California][ospo-uc] and [Carnegie Mellon University][ospo-cmu] in the USA, or European examples like Trinity College Dublin in Ireland, [University of Luxembourg][ospo-snt], and [ETH Zurich][ospo-eth] in Switzerland.
 
 <!-- Footnotes -->
 [^OSPO-commerce]: <!-- vale proselint.Annotations = NO --> The two biggest OSPO networks in industry are: [OSPO Alliance][ospo-alliance] supported by the [Eclipse Foundation][eclipse] and [TODO Group][ospo-todogrp] supported by the [Linux Foundation][LF]. A [report published in 2024 by the TODO Group][state-of-ospo-2024] found that 77% of large organisations have an OSPO (DOI: 10.70828/FXMR3018). <!-- vale proselint.Annotations = NO -->
@@ -163,7 +163,6 @@ A more detailed definition of an academic OSPO can be found in [Young, et al. (2
 [ospo-snt]: https://www.uni.lu/snt-en/
 <!-- FIXME: STSci appears on archived OSPO++ page, but no link -->
 [ospo-stsci]: http://www.stsci.edu/
-[ospo-tcd]: https://www.tcd.ie/innovation/for-trinity-innovators/open-source-programme-office/
 [ospo-todogrp]: https://todogroup.org/
 [ospo-uc]: https://ucospo.net/
 [ospo-un]: https://undp.org/digital
