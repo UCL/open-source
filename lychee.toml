@@ -2,6 +2,7 @@ accept = [200, 202, 403, 415, 429, 999]
 verbose = "info"
 no_progress = true
 exclude = [
+    'https://www.softwareheritage.org',       # Their SSL certificate is not trusted but the link works (currently!)
     '(?x).*profiles.ucl.ac.uk.*/thumbnail',   # People may not have a profile image.
     '(?x).*github-readme-stats.vercel.app.*', # Returns 503 for some reason
     '(?x).rdr.ucl.ac.uk/articles/*',          # Article does exist but sometimes returns strange codes: 202, 403...
