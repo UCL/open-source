@@ -4,8 +4,6 @@ on:
  push:
    branches: ["main"]
  pull_request:
- schedule:
-   - cron: "27 0 * * 1,4"
 
 permissions:
   contents: read
@@ -22,9 +20,6 @@ jobs:
         uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.1
         with:
           python-version: '3.13'
-      - run: pip install pyyaml feedparser
-      - name: Update funding opportunities
-        run: python .github/rss_2_yaml.py
       - name: Build
         uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1.0.13
       # The next step uploads a "special" artifact used by the
